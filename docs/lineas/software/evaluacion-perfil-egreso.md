@@ -26,6 +26,10 @@ Los artefactos históricos pueden usarse como soporte, pero la evaluación princ
 
 ### 1. Dossier final de requerimientos y diseño
 
+Propósito:
+
+Verificar que el estudiante puede definir, validar y diseñar una solución de software coherente con un problema real, sus usuarios, restricciones y contexto organizacional.
+
 Competencia asociada: `CE021: Ingeniería de Requerimientos`.
 
 Debe incluir:
@@ -46,6 +50,10 @@ Evidencias evaluadas:
 - `CE0214`: Diseño detallado del sistema.
 
 ### 2. Plataforma de datos del sistema
+
+Propósito:
+
+Verificar que el estudiante puede diseñar, implementar, consultar, programar, administrar y proteger la información que sostiene la solución de software.
 
 Competencia asociada: `CE022: Ingeniería de la Información`.
 
@@ -68,6 +76,10 @@ Evidencias evaluadas:
 - `CE0224`: Base de datos empresarial administrada, asegurada y operativa.
 
 ### 3. Proyecto integrador de software
+
+Propósito:
+
+Verificar que el estudiante puede construir una solución funcional, integrada y mantenible, seleccionando la modalidad tecnológica pertinente según el problema abordado.
 
 Competencia asociada: `CE023: Programación`.
 
@@ -95,6 +107,10 @@ Evidencias posibles según la naturaleza del proyecto:
 
 ### 4. Dossier final de calidad y operación
 
+Propósito:
+
+Verificar que el estudiante puede asegurar la calidad técnica del sistema y del proceso de desarrollo mediante pruebas, automatización, métricas, revisión, auditoría y mejora continua.
+
 Competencia asociada: `CE024: Calidad de Software`.
 
 Debe incluir:
@@ -118,6 +134,10 @@ Evidencias evaluadas:
 - `CE0244`: Auditoría técnica y evolución del sistema.
 
 ### 5. Presentación y sustentación final
+
+Propósito:
+
+Verificar que el estudiante comprende la solución construida, comunica su valor, defiende sus decisiones técnicas y responde con solvencia ante observaciones del jurado.
 
 La sustentación final permite verificar que el estudiante no solo entregó artefactos, sino que comprende y defiende la solución construida.
 
