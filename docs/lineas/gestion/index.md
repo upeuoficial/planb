@@ -53,30 +53,38 @@ Las evidencias y la evaluación de cierre se presentan en las secciones siguient
 
 Las evidencias de la línea permiten comprobar que el estudiante no solo conoce conceptos de gestión, sino que produce artefactos verificables para sustentar una iniciativa tecnológica. En esta página se presenta una vista de conjunto; el detalle de cada evidencia, con sus artefactos esperados, se desarrolla en [Evidencias por competencia](evidencias.md).
 
-| Competencia | Foco de evidencia | Cantidad |
+| Competencia | Evidencia integradora | Artefactos asociados |
 | --- | --- | ---: |
-| CE011: Gestión e Innovación de TI | Diagnóstico organizacional, alineamiento estratégico y caso de negocio. | 1 |
-| CE012: Gestión de Proyectos | Plan integral del proyecto, alcance, cronograma, costos, riesgos y comunicación. | 1 |
-| CE013: Gestión de Procesos | Modelado AS-IS, rediseño TO-BE, indicadores y plan de cambio. | 1 |
-| CE014: Gestión de Sistemas de Información | Arquitectura de solución, integración, seguridad, datos, operación y prueba de concepto. | 1 |
+| CE011: Gestión e Innovación de TI | CE0111: Diagnóstico y caso de negocio. | 5 |
+| CE012: Gestión de Proyectos | CE0121: Plan de gestión integral del proyecto. | 6 |
+| CE013: Gestión de Procesos | CE0131: Mejora de procesos. | 5 |
+| CE014: Gestión de Sistemas de Información | CE0141: Solución TIC integrada. | 7 |
 
-### Resumen de evidencias por competencia
+### Resumen de evidencias y artefactos por competencia
 
 #### CE011: Gestión e Innovación de TI
 
-- CE0111: Diagnóstico y caso de negocio.
+Evidencia integradora: CE0111: Diagnóstico y caso de negocio.
+
+Artefactos asociados: GP-1.1 Diagnóstico organizacional; GP-1.2 Alineamiento estratégico; GP-1.3 Caso de negocio; GP-1.4 Roadmap de tecnología; GP-1.5 Matriz de riesgos estratégicos.
 
 #### CE012: Gestión de Proyectos
 
-- CE0121: Plan de gestión integral del proyecto.
+Evidencia integradora: CE0121: Plan de gestión integral del proyecto.
+
+Artefactos asociados: GP-2.1 Plan del proyecto; GP-2.2 Cronograma detallado; GP-2.3 Presupuesto; GP-2.4 Matriz de riesgos del proyecto; GP-2.5 Backlog priorizado; GP-2.6 Plan de comunicaciones.
 
 #### CE013: Gestión de Procesos
 
-- CE0131: Mejora de procesos.
+Evidencia integradora: CE0131: Mejora de procesos.
+
+Artefactos asociados: GP-3.1 Modelado de procesos actuales; GP-3.2 Análisis de oportunidades; GP-3.3 Modelado de procesos mejorados; GP-3.4 Indicadores de proceso; GP-3.5 Plan de cambio organizacional.
 
 #### CE014: Gestión de Sistemas de Información
 
-- CE0141: Solución TIC integrada.
+Evidencia integradora: CE0141: Solución TIC integrada.
+
+Artefactos asociados: GP-4.1 Arquitectura de solución; GP-4.2 Integración con sistemas de información existentes; GP-4.3 Diseño de seguridad; GP-4.4 Diseño de datos; GP-4.5 Soporte a decisiones; GP-4.6 Plan de operaciones; GP-4.7 Prototipo o prueba de concepto.
 
 ## 5. Construcción progresiva durante la carrera
 

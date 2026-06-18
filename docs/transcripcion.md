@@ -876,373 +876,64 @@ Gestiona y asegura la calidad del producto y del proceso de desarrollo de softwa
 
 ---
 
-## Producto integrador de la línea
+# Entregable 1: Dossier de Requerimientos y Diseño del Sistema (Alineado con CE021)
 
-El producto final de la línea debe ser un sistema de software funcional, documentado, probado, desplegable y defendible. Puede desarrollarse como aplicación web, móvil, de escritorio, sistema empresarial full-stack, sistema distribuido o solución híbrida, según el problema abordado.
+## Descripción
 
-El producto integrador debe incluir:
+Documento que define, valida y diseña la solución de software antes de su construcción. Incluye especificación de requerimientos, prototipo navegable, arquitectura del sistema y modelos de diseño.
 
-- Problema y contexto.
-- Usuarios objetivo o stakeholders.
-- Requerimientos funcionales y no funcionales.
-- Prototipo navegable o validación de experiencia de usuario.
-- Arquitectura del sistema.
-- Modelo de datos y base de datos operativa.
-- Implementación funcional.
-- Pruebas y evidencias de calidad.
-- Despliegue o instalación verificable.
-- Documentación técnica.
-- Demo funcional.
-- Sustentación técnica.
+## Plantilla del Producto
 
----
+**Formato sugerido:** Documento Word/PDF de 20-30 páginas, con secciones claras, diagramas y evidencias de validación.
 
-# Evidencias por competencia
+### Portada
 
-## CE021: Ingeniería de Requerimientos
+- Título del sistema.
+- Nombre del estudiante.
+- Semestre.
+- Fecha.
 
-### CE0211: Especificación de requerimientos validada
+### Resumen Ejecutivo
 
-Propósito:
+- 1 página resumiendo el problema, usuarios, alcance y solución propuesta.
 
-Definir, organizar y validar las necesidades funcionales y no funcionales del sistema, asegurando que el problema, los usuarios, las reglas de negocio y los criterios de aceptación estén claramente comprendidos.
+### Sección 1: Especificación de Requerimientos
 
-Artefactos de la evidencia:
-
-- Documento de requerimientos.
+- Requerimientos funcionales.
+- Requerimientos no funcionales.
+- Reglas de negocio.
+- Restricciones del sistema.
 - Historias de usuario o casos de uso.
 - Criterios de aceptación.
-- Acta de validación con stakeholders.
 
-### CE0212: Prototipo navegable validado
-
-Propósito:
-
-Representar la experiencia esperada del usuario y validar tempranamente la navegación, las pantallas principales y los flujos funcionales antes de la construcción del sistema.
-
-Artefactos de la evidencia:
+### Sección 2: Prototipo Navegable
 
 - Prototipo de baja o alta fidelidad.
 - Flujo de navegación.
-- Evidencia de validación con usuarios.
+- Pantallas principales.
+- Evidencia de validación con usuarios o stakeholders.
 
-### CE0213: Diseño arquitectónico del sistema
-
-Propósito:
-
-Definir la estructura principal del sistema, sus componentes, responsabilidades, relaciones, despliegue y decisiones técnicas, asegurando coherencia con los requerimientos y restricciones del contexto.
-
-Artefactos de la evidencia:
+### Sección 3: Diseño Arquitectónico
 
 - Documento de arquitectura.
-- Diagramas de componentes.
-- Diagramas de despliegue.
+- Diagrama de componentes.
+- Diagrama de despliegue.
 - Registro de decisiones arquitectónicas.
 
-### CE0214: Diseño detallado del sistema
-
-Propósito:
-
-Especificar el comportamiento interno del sistema, sus clases, módulos, secuencias, estados y reglas de interacción, de manera que la implementación pueda realizarse con claridad técnica.
-
-Artefactos de la evidencia:
+### Sección 4: Diseño Detallado
 
 - Diagramas UML.
 - Diagramas de secuencia.
 - Diagramas de estados.
 - Modelo de diseño detallado.
 
----
+### Anexos
 
-## CE022: Ingeniería de la Información
+- Acta de validación con stakeholders.
+- Matriz de trazabilidad de requerimientos.
+- Diagramas complementarios.
 
-### CE0221: Modelo de datos relacional documentado y validado
-
-Propósito:
-
-Diseñar la estructura lógica de los datos del sistema, asegurando consistencia, normalización, claridad semántica y alineación con los requerimientos de información.
-
-Artefactos de la evidencia:
-
-- Modelo ER.
-- Modelo lógico.
-- Diccionario de datos.
-- Modelo normalizado.
-
-### CE0222: Base de datos relacional implementada y consultable
-
-Propósito:
-
-Implementar la base de datos del sistema y demostrar que puede almacenar, consultar y recuperar información de manera correcta mediante estructuras y consultas SQL verificables.
-
-Artefactos de la evidencia:
-
-- Scripts DDL.
-- Scripts DML.
-- Consultas SQL.
-- Evidencias de funcionamiento.
-
-### CE0223: Motor transaccional programado y optimizado
-
-Propósito:
-
-Automatizar operaciones de datos y reglas transaccionales mediante programación en base de datos, considerando rendimiento, integridad y eficiencia operativa.
-
-Artefactos de la evidencia:
-
-- Procedimientos almacenados.
-- Funciones.
-- Triggers.
-- Planes de ejecución.
-- Estrategias de optimización.
-
-### CE0224: Base de datos empresarial administrada, asegurada y operativa
-
-Propósito:
-
-Administrar la base de datos con criterios de seguridad, respaldo, recuperación, monitoreo y operación, asegurando disponibilidad y protección de la información.
-
-Artefactos de la evidencia:
-
-- Configuración de usuarios y roles.
-- Auditoría implementada.
-- Estrategias de respaldo y recuperación.
-- Evidencias de monitoreo.
-- Documentación técnica de administración.
-
----
-
-## CE023: Programación
-
-### CE0231: Aplicación desktop funcional con persistencia de datos
-
-Propósito:
-
-Construir una aplicación de escritorio funcional que implemente reglas de negocio, interacción con el usuario y persistencia de datos de manera verificable.
-
-Artefactos de la evidencia:
-
-- Repositorio fuente.
-- Ejecutable desktop.
-- Modelo de dominio.
-- Evidencias de funcionamiento.
-
-### CE0232: Sistema de información web integrado con base de datos
-
-Propósito:
-
-Construir un sistema web funcional que integre interfaz, lógica de negocio y base de datos, permitiendo gestionar información mediante flujos operativos completos.
-
-Artefactos de la evidencia:
-
-- Repositorio web.
-- Base de datos integrada.
-- Documentación técnica.
-- Evidencias funcionales.
-
-### CE0233: Aplicación empresarial full-stack desplegable
-
-Propósito:
-
-Construir una solución full-stack organizada en frontend, backend y API, preparada para despliegue y operación en un entorno verificable.
-
-Artefactos de la evidencia:
-
-- Frontend.
-- Backend.
-- API documentada.
-- Evidencia de despliegue.
-
-### CE0234: Sistema distribuido escalable basado en servicios interoperables
-
-Propósito:
-
-Diseñar e implementar una solución basada en servicios interoperables, considerando integración, comunicación entre componentes, resiliencia y criterios de escalabilidad.
-
-Artefactos de la evidencia:
-
-- Servicios distribuidos.
-- APIs interoperables.
-- Evidencias de integración.
-- Evidencias de resiliencia y escalabilidad.
-
-### CE0235: Aplicación móvil integrada con servicios digitales
-
-Propósito:
-
-Construir una aplicación móvil funcional que se integre con servicios digitales o backend, demostrando operación, intercambio de datos y despliegue o publicación verificable.
-
-Artefactos de la evidencia:
-
-- Aplicación móvil funcional.
-- Integración con backend.
-- Evidencias de operación.
-- Publicación o despliegue de la aplicación.
-
----
-
-## CE024: Calidad de Software
-
-### CE0241: Suite de pruebas automatizadas
-
-Propósito:
-
-Verificar el comportamiento del sistema mediante pruebas automatizadas que cubran funciones, componentes o flujos críticos, generando evidencia objetiva de calidad.
-
-Artefactos de la evidencia:
-
-- Casos de prueba automatizados.
-- Reporte de ejecución.
-- Reporte de cobertura.
-
-### CE0242: Pipeline de integración y despliegue continuo
-
-Propósito:
-
-Automatizar la integración, validación y despliegue del sistema para mejorar la confiabilidad del proceso de desarrollo y reducir errores en la entrega.
-
-Artefactos de la evidencia:
-
-- Pipeline CI/CD.
-- Configuración de automatización.
-- Evidencias de despliegue.
-
-### CE0243: Gestión técnica y aseguramiento de calidad
-
-Propósito:
-
-Gestionar la calidad técnica del proyecto mediante control de incidencias, revisión de código, métricas y seguimiento de deuda técnica.
-
-Artefactos de la evidencia:
-
-- Registro de incidencias.
-- Revisiones de código.
-- Métricas de calidad.
-- Control de deuda técnica.
-
-### CE0244: Auditoría técnica y evolución del sistema
-
-Propósito:
-
-Evaluar técnicamente el sistema para identificar riesgos, limitaciones y oportunidades de mejora, proponiendo acciones de evolución sostenibles.
-
-Artefactos de la evidencia:
-
-- Informe de auditoría.
-- Métricas de rendimiento.
-- Métricas de seguridad.
-- Plan de mejora y evolución.
-
----
-
-# Evaluación del perfil de egreso: línea de Software
-
-## Evidencias obligatorias de cierre
-
-### 1. Dossier final de requerimientos y diseño
-
-Evalúa la capacidad del estudiante para definir, validar y diseñar una solución de software coherente con un problema real, sus usuarios, restricciones y contexto organizacional.
-
-Competencia asociada: CE021 — Ingeniería de Requerimientos.
-
-Debe incluir:
-
-- Especificación de requerimientos validada.
-- Historias de usuario o casos de uso.
-- Criterios de aceptación.
-- Prototipo navegable validado.
-- Diseño arquitectónico del sistema.
-- Diseño detallado del sistema.
-- Evidencias de validación con usuarios o stakeholders.
-
-### 2. Plataforma de datos del sistema
-
-Evalúa la capacidad del estudiante para diseñar, implementar, consultar, programar, administrar y proteger la información que sostiene la solución de software.
-
-Competencia asociada: CE022 — Ingeniería de la Información.
-
-Debe incluir:
-
-- Modelo de datos relacional.
-- Diccionario de datos.
-- Base de datos implementada.
-- Consultas SQL relevantes.
-- Procedimientos almacenados, funciones o triggers cuando correspondan.
-- Seguridad y administración de datos.
-- Evidencias de funcionamiento.
-- Documentación técnica de administración.
-
-### 3. Proyecto integrador de software
-
-Evalúa la capacidad del estudiante para construir una solución funcional, integrada y mantenible, seleccionando la modalidad tecnológica pertinente según el problema abordado.
-
-Competencia asociada: CE023 — Programación.
-
-Debe incluir:
-
-- Arquitectura adecuada al contexto.
-- Persistencia de datos.
-- Integración de componentes.
-- Interfaz de usuario.
-- Funcionalidades operativas.
-- Despliegue funcional o instalación verificable.
-- Calidad técnica del código.
-
-El proyecto puede implementarse como aplicación desktop, sistema web, aplicación empresarial full-stack, sistema distribuido, aplicación móvil o solución híbrida.
-
-### 4. Dossier final de calidad y operación
-
-Evalúa la capacidad del estudiante para asegurar la calidad técnica del sistema y del proceso de desarrollo mediante pruebas, automatización, métricas, revisión, auditoría y mejora continua.
-
-Competencia asociada: CE024 — Calidad de Software.
-
-Debe incluir:
-
-- Casos de prueba automatizados o pruebas sistematizadas.
-- Reportes de ejecución.
-- Reporte de cobertura cuando aplique.
-- Evidencias de integración y despliegue.
-- Gestión técnica del proyecto.
-- Registro de incidencias.
-- Revisiones de código o evidencias de control técnico.
-- Métricas de calidad.
-- Auditoría técnica.
-- Plan de mejora y evolución.
-
-### 5. Presentación y sustentación final
-
-Evalúa que el estudiante comprende la solución construida, comunica su valor, defiende sus decisiones técnicas y responde con solvencia ante observaciones del jurado.
-
-Debe incluir:
-
-- Video pitch de 1 a 3 minutos.
-- Demo funcional del sistema.
-- Explicación técnica de la solución.
-- Justificación de decisiones de diseño y arquitectura.
-- Evidencia de integración, calidad y despliegue.
-- Respuesta a preguntas del jurado.
-
----
-
-# Rúbricas EPE de la línea de Software
-
-Esta sección consolida las rúbricas de evaluación del perfil de egreso para la línea de Software. Se incorpora como transcripción de trabajo y material de consulta del libro digital.
-
-## RÚBRICA NIVEL 3 — CE021 (Ingeniería de Requerimientos) — EPE
-
-### Contexto de evaluación
-
-Se evalúa sobre:
-
-- Definición completa del sistema antes de su construcción.
-- Incluye: SRS (CE0211), prototipos (CE0212), arquitectura (CE0213), UML (CE0214).
-
-### Principio
-
-- No evalúa implementación ni funcionamiento del sistema.
-- Evalúa si el sistema está correctamente concebido y diseñado.
-
-### Criterios de evaluación
+## Rúbrica de Evaluación
 
 | Criterio | Excelente (18-20) | Bueno (15-17) | Regular (13-14) | Deficiente (<13) |
 | --- | --- | --- | --- | --- |
@@ -1255,21 +946,63 @@ Se evalúa sobre:
 
 ---
 
-## RÚBRICA NIVEL 3 — CE022 (Ingeniería de la Información) — EPE
+# Entregable 2: Plataforma de Datos del Sistema (Alineado con CE022)
 
-### Contexto de evaluación
+## Descripción
 
-Se evalúa sobre:
+Documento y evidencias técnicas que demuestran el modelado, implementación, consulta, programación, seguridad y administración de la base de datos que sostiene el sistema.
 
-- Base de datos del sistema en operación.
-- Incluye: modelo de datos (CE0221), SQL (CE0222), programación BD (CE0223), seguridad y administración (CE0224).
+## Plantilla del Producto
 
-### Principio
+**Formato sugerido:** Documento Word/PDF de 15-25 páginas, acompañado de scripts SQL, capturas y evidencias de ejecución.
 
-- No evalúa interfaz ni lógica de negocio.
-- Evalúa la calidad, consistencia, seguridad y eficiencia de los datos.
+### Portada
 
-### Criterios de evaluación
+- Título del sistema.
+- Nombre del estudiante.
+- Semestre.
+- Fecha.
+
+### Resumen Ejecutivo
+
+- 1 página explicando el rol de los datos en la solución.
+
+### Sección 1: Modelo de Datos
+
+- Modelo entidad-relación.
+- Modelo lógico.
+- Modelo normalizado.
+- Diccionario de datos.
+
+### Sección 2: Implementación de Base de Datos
+
+- Scripts DDL.
+- Scripts DML.
+- Evidencias de creación de tablas, relaciones y restricciones.
+
+### Sección 3: Consultas y Programación en Base de Datos
+
+- Consultas SQL relevantes.
+- Procedimientos almacenados.
+- Funciones.
+- Triggers, si corresponde.
+- Planes de ejecución o evidencias de optimización.
+
+### Sección 4: Seguridad y Administración
+
+- Usuarios y roles.
+- Auditoría implementada.
+- Estrategias de respaldo y recuperación.
+- Evidencias de monitoreo.
+
+### Anexos
+
+- Scripts completos.
+- Capturas de ejecución.
+- Resultados de consultas.
+- Documentación técnica de administración.
+
+## Rúbrica de Evaluación
 
 | Criterio | Excelente | Bueno | Regular | Deficiente |
 | --- | --- | --- | --- | --- |
@@ -1282,20 +1015,62 @@ Se evalúa sobre:
 
 ---
 
-## RÚBRICA NIVEL 3 — CE023 (Programación) — EPE
+# Entregable 3: Sistema de Software Funcional Integrado (Alineado con CE023)
 
-### Contexto de evaluación
+## Descripción
 
-Se evalúa sobre:
+Sistema funcional completo que implementa la solución de software según el problema abordado. Puede ser una aplicación desktop, web, full-stack, distribuida, móvil o híbrida.
 
-- Sistema funcional completo integrado, según el problema: web, distribuido o móvil.
+## Plantilla del Producto
 
-### Principio
+**Formato sugerido:** Repositorio fuente + documento técnico Word/PDF de 15-25 páginas + demo funcional o versión desplegada.
 
-- Evalúa la construcción del sistema.
-- No evalúa pruebas ni calidad, porque eso corresponde a CE024.
+### Portada
 
-### Criterios de evaluación
+- Título del sistema.
+- Nombre del estudiante.
+- Semestre.
+- Fecha.
+- URL del repositorio o despliegue, si aplica.
+
+### Resumen Ejecutivo
+
+- 1 página explicando qué problema resuelve el sistema y cómo se usa.
+
+### Sección 1: Arquitectura e Integración
+
+- Arquitectura general del sistema.
+- Capas, módulos, componentes o servicios.
+- Integración con base de datos.
+- Integración con APIs o servicios externos, si aplica.
+
+### Sección 2: Funcionalidad del Sistema
+
+- Flujos principales implementados.
+- Gestión de usuarios, permisos o roles, si aplica.
+- Evidencias funcionales mediante capturas o demo.
+
+### Sección 3: Código y Diseño Técnico
+
+- Estructura del repositorio.
+- Patrones o buenas prácticas aplicadas.
+- Modularidad y desacoplamiento.
+- Manejo de errores y validaciones.
+
+### Sección 4: Despliegue o Instalación
+
+- Instrucciones de instalación.
+- Configuración requerida.
+- Evidencia de despliegue o ejecución.
+
+### Anexos
+
+- Repositorio fuente.
+- Manual técnico breve.
+- Capturas de funcionamiento.
+- Evidencia de despliegue.
+
+## Rúbrica de Evaluación
 
 | Criterio | Excelente | Bueno | Regular | Deficiente |
 | --- | --- | --- | --- | --- |
@@ -1308,20 +1083,62 @@ Se evalúa sobre:
 
 ---
 
-## RÚBRICA NIVEL 3 — CE024 (Calidad de Software) — EPE
+# Entregable 4: Calidad, Operación y Evolución del Sistema (Alineado con CE024)
 
-### Contexto de evaluación
+## Descripción
 
-Se evalúa sobre:
+Documento y evidencias que demuestran la calidad técnica del producto y del proceso de desarrollo mediante pruebas, automatización, métricas, revisión técnica, auditoría y mejora continua.
 
-- Sistema desarrollado, validado, operado y evaluado.
+## Plantilla del Producto
 
-### Principio
+**Formato sugerido:** Documento Word/PDF de 15-20 páginas, acompañado de reportes de pruebas, evidencias CI/CD, métricas y auditoría técnica.
 
-- No evalúa funcionalidad, porque eso corresponde a CE023.
-- Evalúa la confiabilidad, control y mejora del sistema.
+### Portada
 
-### Criterios de evaluación
+- Título del sistema.
+- Nombre del estudiante.
+- Semestre.
+- Fecha.
+
+### Resumen Ejecutivo
+
+- 1 página resumiendo el estado de calidad, operación y mejora del sistema.
+
+### Sección 1: Pruebas
+
+- Casos de prueba automatizados o sistematizados.
+- Reporte de ejecución.
+- Reporte de cobertura, si aplica.
+- Evidencia de pruebas sobre flujos críticos.
+
+### Sección 2: Integración y Despliegue Continuo
+
+- Pipeline CI/CD.
+- Configuración de automatización.
+- Evidencias de integración y despliegue.
+
+### Sección 3: Gestión Técnica y Métricas
+
+- Registro de incidencias.
+- Revisiones de código.
+- Métricas de calidad.
+- Control de deuda técnica.
+
+### Sección 4: Auditoría y Evolución
+
+- Informe de auditoría técnica.
+- Métricas de rendimiento.
+- Métricas de seguridad.
+- Plan de mejora y evolución.
+
+### Anexos
+
+- Reportes de pruebas.
+- Capturas del pipeline.
+- Evidencias de revisión técnica.
+- Resultados de auditoría.
+
+## Rúbrica de Evaluación
 
 | Criterio | Excelente | Bueno | Regular | Deficiente |
 | --- | --- | --- | --- | --- |
@@ -1334,20 +1151,63 @@ Se evalúa sobre:
 
 ---
 
-## RÚBRICA NIVEL 3 — CE0217 — EPE
+# Entregable 5: Presentación y Sustentación Final (Alineado con CE0217)
 
-### Contexto de evaluación
+## Descripción
 
-Se evalúa sobre:
+Presentación ejecutiva y defensa técnica del sistema desarrollado. Evalúa la capacidad del estudiante para explicar el valor de la solución, demostrar su funcionamiento y sustentar decisiones técnicas ante el jurado.
 
-- Defensa técnica del sistema desarrollado.
+## Plantilla del Producto
 
-### Principio
+**Formato sugerido:** Presentación ejecutiva + video pitch de 1 a 3 minutos + demo funcional del sistema.
 
-- Evalúa la capacidad de sustentar técnica y comunicativamente el sistema.
-- Se centra en la defensa y justificación de decisiones técnicas.
+### Portada
 
-### Criterios de evaluación
+- Título del sistema.
+- Nombre del estudiante.
+- Semestre.
+- Fecha.
+
+### Resumen Ejecutivo
+
+- Problema abordado.
+- Solución construida.
+- Valor o impacto esperado.
+
+### Sección 1: Presentación de la Solución
+
+- Contexto del problema.
+- Usuarios o stakeholders.
+- Alcance del sistema.
+- Funcionalidades principales.
+
+### Sección 2: Demostración del Sistema
+
+- Demo funcional.
+- Flujos principales.
+- Evidencias de datos, integración, calidad y despliegue.
+
+### Sección 3: Sustento Técnico
+
+- Justificación de decisiones de diseño y arquitectura.
+- Explicación de tecnologías utilizadas.
+- Limitaciones y trade-offs.
+- Plan de evolución.
+
+### Sección 4: Defensa ante Jurado
+
+- Respuesta a preguntas.
+- Argumentación técnica.
+- Síntesis final del aporte del proyecto.
+
+### Anexos
+
+- Enlace al video pitch.
+- Enlace al repositorio.
+- Enlace a la demo o despliegue.
+- Evidencias complementarias.
+
+## Rúbrica de Evaluación
 
 | Criterio | Excelente (18-20) | Bueno (15-17) | Regular (13-14) | Deficiente (<13) |
 | --- | --- | --- | --- | --- |
@@ -1360,7 +1220,7 @@ Se evalúa sobre:
 
 ---
 
-## Consideraciones finales de evaluación
+# Consideraciones finales de evaluación
 
 - La evaluación se realiza sobre productos reales del sistema desarrollado.
 - Cada competencia se evalúa de manera independiente mediante su rúbrica.
