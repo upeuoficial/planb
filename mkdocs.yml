@@ -1,0 +1,22 @@
+site_name: Libro digital de Ingenieria de Sistemas
+site_description: Guia de construccion progresiva y evaluacion del perfil de egreso de Ingenieria de Sistemas.
+docs_dir: docs
+
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - content.code.copy
+
+nav:
+  - Inicio: index.md
+  - Lineas de formacion:
+      - Gestion TI: lineas/gestion/index.md
+      - Ingenieria de Software:
+          - Vision de la linea: lineas/software/index.md
+          - Evidencias por competencia: lineas/software/evidencias.md
+          - Evaluacion del perfil de egreso: lineas/software/evaluacion-perfil-egreso.md
+      - Infraestructura: lineas/infraestructura/index.md
+      - Ciencia de Datos e IA: lineas/cd-ia/index.md
