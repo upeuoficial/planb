@@ -68,6 +68,37 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 | CE023: Programación | Construcción de soluciones desktop, web, full-stack, distribuidas o móviles. | 5 |
 | CE024: Calidad de Software | Pruebas, CI/CD, aseguramiento técnico, auditoría y evolución. | 4 |
 
+### Resumen de evidencias por competencia
+
+#### CE021: Ingeniería de Requerimientos
+
+- CE0211: Especificación de requerimientos validada.
+- CE0212: Prototipo navegable validado.
+- CE0213: Diseño arquitectónico del sistema.
+- CE0214: Diseño detallado del sistema.
+
+#### CE022: Ingeniería de la Información
+
+- CE0221: Modelo de datos relacional documentado y validado.
+- CE0222: Base de datos relacional implementada y consultable.
+- CE0223: Motor transaccional programado y optimizado.
+- CE0224: Base de datos empresarial administrada, asegurada y operativa.
+
+#### CE023: Programación
+
+- CE0231: Aplicación desktop funcional con persistencia de datos.
+- CE0232: Sistema de información web integrado con base de datos.
+- CE0233: Aplicación empresarial full-stack desplegable.
+- CE0234: Sistema distribuido escalable basado en servicios interoperables.
+- CE0235: Aplicación móvil integrada con servicios digitales.
+
+#### CE024: Calidad de Software
+
+- CE0241: Suite de pruebas automatizadas.
+- CE0242: Pipeline de integración y despliegue continuo.
+- CE0243: Gestión técnica y aseguramiento de calidad.
+- CE0244: Auditoría técnica y evolución del sistema.
+
 ## 5. Construcción progresiva durante la carrera
 
 ### Etapa 1: Fundamentos de construcción

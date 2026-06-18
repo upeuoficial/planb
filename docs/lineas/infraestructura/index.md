@@ -54,6 +54,23 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 | CE032: Gestión de la Seguridad de la Información | Planificación, controles, monitoreo, continuidad y ética de seguridad. | 2 |
 | CE033: Implementación de Centro de Datos | Diseño, implementación, operación, disponibilidad y eficiencia. | 2 |
 
+### Resumen de evidencias por competencia
+
+#### CE031: Conectividad
+
+- CE0311: Diseño de red.
+- CE0312: Implementación y testing de red.
+
+#### CE032: Gestión de la Seguridad de la Información
+
+- CE0321: Planificación de seguridad.
+- CE0322: Implementación, monitoreo y ética de seguridad.
+
+#### CE033: Implementación de Centro de Datos
+
+- CE0331: Diseño de centro de datos.
+- CE0332: Implementación y control de centro de datos.
+
 ## 5. Construcción progresiva durante la carrera
 
 ### Etapa 1: Fundamentos de conectividad

@@ -60,6 +60,24 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 | CE013: Gestión de Procesos | Modelado AS-IS, rediseño TO-BE, indicadores y plan de cambio. | 1 |
 | CE014: Gestión de Sistemas de Información | Arquitectura de solución, integración, seguridad, datos, operación y prueba de concepto. | 1 |
 
+### Resumen de evidencias por competencia
+
+#### CE011: Gestión e Innovación de TI
+
+- CE0111: Diagnóstico y caso de negocio.
+
+#### CE012: Gestión de Proyectos
+
+- CE0121: Plan de gestión integral del proyecto.
+
+#### CE013: Gestión de Procesos
+
+- CE0131: Mejora de procesos.
+
+#### CE014: Gestión de Sistemas de Información
+
+- CE0141: Solución TIC integrada.
+
 ## 5. Construcción progresiva durante la carrera
 
 ### Etapa 1: Comprensión organizacional

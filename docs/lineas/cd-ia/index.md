@@ -66,6 +66,28 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 | CE044: Evaluación, monitoreo y mejora | Evaluación de modelos, métricas, monitoreo y reentrenamiento. | 1 |
 | CE045: Comunicación y uso del modelo | Storytelling, visualización e interpretación de resultados. | 1 |
 
+### Resumen de evidencias por competencia
+
+#### CE041: Problema analítico y preparación de datos
+
+- CE0411: Problema analítico y dataset inicial.
+
+#### CE042: Diseño de dataset y pipeline analítico
+
+- CE0421: Diseño de dataset y pipeline analítico.
+
+#### CE043: Construcción y experimentación
+
+- CE0431: Construcción, entrenamiento y experimentación.
+
+#### CE044: Evaluación, monitoreo y mejora
+
+- CE0441: Evaluación, monitoreo y mejora.
+
+#### CE045: Comunicación y uso del modelo
+
+- CE0451: Comunicación y uso del modelo.
+
 ## 5. Construcción progresiva durante la carrera
 
 ### Etapa 1: Lectura del problema y datos iniciales
