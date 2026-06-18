@@ -34,10 +34,11 @@ Competencia asociada: `CE011: Gestión e Innovación de TI`.
 
 Debe incluir:
 
-- Diagnóstico organizacional.
-- Análisis de brechas tecnológicas.
-- Alineamiento estratégico.
-- Caso de negocio.
+- Diagnóstico organizacional: contexto, sector, estructura, cadena de valor y stakeholders.
+- Alineamiento estratégico: misión, visión, objetivos, FODA, PESTEL cuando corresponda y factores críticos de éxito.
+- Diagnóstico digital o de TI: inventario de sistemas, madurez digital, brechas tecnológicas y problemas operativos.
+- Identificación del problema: causas raíz, impacto estratégico y justificación de intervención.
+- Caso de negocio: objetivos SMART, alternativas, beneficios, costos, riesgos iniciales y recomendación.
 - Roadmap tecnológico.
 - Matriz de riesgos estratégicos.
 
@@ -57,11 +58,12 @@ Debe incluir:
 
 - Acta de constitución.
 - Plan del proyecto.
-- Cronograma.
-- Presupuesto.
-- Matriz de riesgos.
-- Backlog o EDT/WBS, según corresponda.
+- EDT/WBS o backlog priorizado, según corresponda.
+- Cronograma detallado.
+- Presupuesto y línea base de costos.
+- Matriz de riesgos del proyecto.
 - Plan de comunicaciones.
+- Evidencias de enfoque predictivo, ágil o híbrido según la naturaleza del proyecto.
 
 Evidencia evaluada:
 
@@ -77,10 +79,10 @@ Competencia asociada: `CE013: Gestión de Procesos`.
 
 Debe incluir:
 
-- Proceso actual AS-IS.
+- Proceso actual AS-IS con descripción narrativa, indicadores y diagrama BPMN.
 - Problemas, cuellos de botella y oportunidades.
-- Proceso propuesto TO-BE.
-- Indicadores de proceso.
+- Proceso propuesto TO-BE con rediseño, automatizaciones e indicadores.
+- Análisis comparativo de tiempo, costo o calidad.
 - Plan de cambio organizacional.
 
 Evidencia evaluada:
@@ -98,10 +100,12 @@ Competencia asociada: `CE014: Gestión de Sistemas de Información`.
 Debe incluir:
 
 - Arquitectura de solución.
-- Integración con sistemas existentes.
+- Integración con sistemas de información existentes.
 - Diseño de datos y seguridad.
-- Soporte a decisiones.
-- Plan de operación.
+- Seguridad y gobernanza: accesos, protección de datos y cumplimiento normativo.
+- Escalabilidad y sostenibilidad.
+- Soporte a decisiones mediante indicadores, reportes, tablero o analítica cuando corresponda.
+- Plan de operaciones.
 - Prototipo, simulación, tablero o prueba de concepto.
 
 Evidencia evaluada:

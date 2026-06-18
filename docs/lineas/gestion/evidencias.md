@@ -10,6 +10,18 @@ Diseña y gestiona proyectos de tecnologías e información basándose en la gu�
 
 Rol asociado: Gestor de TI o Consultor de Transformación Digital.
 
+## Proyecto integrador de la línea
+
+El estudiante desarrolla un Proyecto de Gestión Integral de Tecnologías de Información para Transformación Organizacional. El proyecto está orientado al diagnóstico estratégico, planificación, ejecución y evaluación de una iniciativa integral de gestión de TI que aborde la transformación y mejora organizacional.
+
+El proyecto culmina con cuatro evidencias principales y una presentación ejecutiva de sustentación:
+
+- CE0111: Diagnóstico y caso de negocio.
+- CE0121: Plan de gestión integral del proyecto.
+- CE0131: Mejora de procesos.
+- CE0141: Solución TIC integrada.
+- Presentación ejecutiva y sustentación final como evidencia transversal.
+
 ## CE011: Gestión e Innovación de TI
 
 Administra un Plan Estratégico de TI alineado a la estrategia de negocio.
@@ -18,23 +30,44 @@ Administra un Plan Estratégico de TI alineado a la estrategia de negocio.
 
 Propósito:
 
-Demostrar que el estudiante comprende el contexto organizacional, identifica brechas estratégicas y tecnológicas, y justifica una iniciativa de TI alineada a los objetivos institucionales.
+Demostrar que el estudiante comprende el contexto organizacional, identifica brechas estratégicas, operativas y tecnológicas, y justifica una iniciativa de TI alineada a los objetivos institucionales.
 
 Artefactos de la evidencia:
 
-- Diagnóstico organizacional.
-- Alineamiento estratégico.
-- Caso de negocio.
-- Roadmap de tecnología.
-- Matriz de riesgos estratégicos.
+- GP-1.1: Diagnóstico organizacional.
+- GP-1.2: Alineamiento estratégico.
+- GP-1.3: Caso de negocio.
+- GP-1.4: Roadmap de tecnología.
+- GP-1.5: Matriz de riesgos estratégicos.
+
+Componentes del producto:
+
+#### Diagnóstico organizacional y alineamiento estratégico
+
+Descripción:
+
+Análisis estructurado de la situación actual de la organización, orientado a identificar brechas estratégicas, operativas y tecnológicas. Incluye la evaluación del contexto interno y externo, el grado de madurez en tecnologías de información y la coherencia entre los objetivos estratégicos institucionales y las capacidades digitales existentes.
 
 Contenido mínimo:
 
-- Contexto organizacional, sector, estructura, cadena de valor y stakeholders.
-- Análisis estratégico: misión, visión, objetivos, FODA y factores críticos de éxito.
-- Diagnóstico digital o de TI: sistemas existentes, madurez digital, brechas y problemas operativos.
-- Definición del problema, causas raíz, impacto estratégico y justificación de intervención.
-- Business case con objetivos, alternativas, beneficios, costos, riesgos iniciales y recomendación.
+- Contexto organizacional: sector, entorno competitivo, estructura organizacional, cadena de valor y mapa de stakeholders.
+- Análisis estratégico: misión, visión, objetivos estratégicos, FODA, PESTEL cuando corresponda y factores críticos de éxito.
+- Diagnóstico digital o de TI: inventario de sistemas de información, nivel de madurez digital, brechas tecnológicas y problemas operativos asociados a TI.
+- Identificación del problema: definición estructurada, causas raíz, impacto estratégico y justificación de intervención.
+
+#### Business case del proyecto
+
+Descripción:
+
+Documento formal que justifica la viabilidad y conveniencia del proyecto de TI. Presenta el problema identificado, los objetivos del proyecto, las alternativas evaluadas y la solución seleccionada, sustentando su aporte de valor.
+
+Contenido mínimo:
+
+- Justificación del proyecto: problema que se resuelve, objetivos SMART y beneficios esperados.
+- Análisis de alternativas: alternativas tecnológicas consideradas, criterios de evaluación y matriz comparativa.
+- Evaluación de beneficios: beneficios cuantificables, beneficios cualitativos e indicadores de valor.
+- Estimación de costos: inversión inicial, costos operativos y costos de mantenimiento.
+- Riesgos iniciales: identificación de riesgos estratégicos y evaluación preliminar de impacto.
 
 ## CE012: Gestión de Proyectos
 
@@ -48,21 +81,28 @@ Demostrar que el estudiante puede planificar, organizar, controlar y sustentar u
 
 Artefactos de la evidencia:
 
-- Plan del proyecto.
-- Cronograma detallado.
-- Presupuesto.
-- Matriz de riesgos del proyecto.
-- Backlog priorizado, si aplica.
-- Plan de comunicaciones.
+- GP-2.1: Plan del proyecto.
+- GP-2.2: Cronograma detallado.
+- GP-2.3: Presupuesto.
+- GP-2.4: Matriz de riesgos del proyecto.
+- GP-2.5: Backlog priorizado.
+- GP-2.6: Plan de comunicaciones.
+
+Descripción:
+
+Instrumento técnico que describe cómo será planificado, ejecutado, monitoreado y controlado el proyecto. Integra la definición del alcance, cronograma, presupuesto, gestión de riesgos, gestión de interesados y mecanismos de control.
+
+Puede desarrollarse bajo enfoques predictivos o ágiles, según la naturaleza del proyecto, asegurando disciplina metodológica y trazabilidad de resultados.
 
 Contenido mínimo:
 
 - Acta de constitución: sponsor, objetivos, alcance preliminar, restricciones y supuestos.
-- Gestión del alcance: EDT/WBS y diccionario de trabajo.
-- Gestión del cronograma: actividades, diagrama de Gantt e hitos.
-- Gestión de costos: presupuesto y línea base de costos.
+- Gestión del alcance: EDT/WBS y diccionario de entregables.
+- Gestión del cronograma: lista de actividades, diagrama de Gantt e hitos principales.
+- Gestión de costos: presupuesto detallado y línea base de costos.
 - Gestión de riesgos: identificación, análisis cualitativo y plan de respuesta.
-- Gestión ágil, si aplica: backlog, planificación de iteraciones e incrementos.
+- Gestión ágil, si aplica: product backlog, sprint planning e incrementos.
+- Plan de comunicaciones y gestión de interesados.
 
 ## CE013: Gestión de Procesos
 
@@ -76,18 +116,22 @@ Demostrar que el estudiante puede analizar procesos organizacionales, identifica
 
 Artefactos de la evidencia:
 
-- Modelado de procesos actuales.
-- Análisis de oportunidades.
-- Modelado de procesos mejorados.
-- Indicadores de proceso.
-- Plan de cambio organizacional.
+- GP-3.1: Modelado de procesos actuales.
+- GP-3.2: Análisis de oportunidades.
+- GP-3.3: Modelado de procesos mejorados.
+- GP-3.4: Indicadores de proceso.
+- GP-3.5: Plan de cambio organizacional.
+
+Descripción:
+
+Representación estructurada de los procesos organizacionales actuales y su rediseño propuesto. Permite visualizar ineficiencias, redundancias y puntos críticos, proponiendo mejoras mediante automatización o reestructuración apoyada en TIC.
 
 Contenido mínimo:
 
 - Proceso actual AS-IS: descripción narrativa, indicadores actuales, diagrama BPMN y problemas detectados.
-- Proceso propuesto TO-BE: rediseño del flujo, automatizaciones propuestas, nuevos indicadores y mejora estimada.
-- Análisis comparativo: reducción de tiempos, reducción de costos y mejora en calidad del servicio.
-- Plan de cambio: actores afectados, acciones de adopción, comunicación y seguimiento.
+- Proceso propuesto TO-BE: rediseño del flujo, automatizaciones propuestas, nuevos indicadores y mejora estimada en eficiencia.
+- Análisis comparativo: reducción de tiempos, reducción de costos y mejora en calidad.
+- Plan de cambio organizacional: actores afectados, acciones de adopción, comunicación y seguimiento.
 
 ## CE014: Gestión de Sistemas de Información
 
@@ -101,19 +145,41 @@ Demostrar que el estudiante puede proponer una solución tecnológica coherente 
 
 Artefactos de la evidencia:
 
-- Arquitectura de solución.
-- Integración con sistemas de información existentes.
-- Diseño de seguridad.
-- Diseño de datos.
-- Soporte a decisiones.
-- Plan de operaciones.
-- Prototipo o prueba de concepto.
+- GP-4.1: Arquitectura de solución.
+- GP-4.2: Integración con sistemas de información existentes.
+- GP-4.3: Diseño de seguridad.
+- GP-4.4: Diseño de datos.
+- GP-4.5: Soporte a decisiones.
+- GP-4.6: Plan de operaciones.
+- GP-4.7: Prototipo o prueba de concepto.
+
+Descripción:
+
+Diseño conceptual y técnico de la solución tecnológica propuesta, considerando su integración con los sistemas existentes, arquitectura organizacional, flujos de datos y requisitos de seguridad.
+
+Incluye la descripción de componentes, interoperabilidad, infraestructura requerida y lineamientos de escalabilidad, asegurando coherencia con el ecosistema de sistemas de información institucional.
 
 Contenido mínimo:
 
-- Arquitectura de la solución: diagrama, componentes principales e integraciones.
+- Arquitectura de la solución: diagrama de arquitectura, componentes principales e integraciones.
 - Ecosistema de sistemas de información: mapa de sistemas actuales, integración propuesta e interoperabilidad.
 - Seguridad y gobernanza: gestión de accesos, protección de datos y cumplimiento normativo.
 - Escalabilidad y sostenibilidad: capacidad de crecimiento, costos futuros y evolución tecnológica.
+- Soporte a decisiones: indicadores, reportes, tablero, analítica o mecanismo equivalente cuando corresponda.
+- Plan de operaciones: responsables, operación, soporte, continuidad y mantenimiento.
 - Evidencia funcional: prototipo, prueba de concepto, simulación, tablero o demostración del flujo propuesto.
+
+## Presentación ejecutiva y sustentación final
+
+Propósito:
+
+Demostrar que el estudiante puede comunicar el valor de la iniciativa, sustentar su viabilidad y defender sus decisiones de gestión, proceso y tecnología ante una audiencia evaluadora.
+
+Artefactos de la evidencia transversal:
+
+- Presentación ejecutiva.
+- Sustentación técnica.
+- Resumen del diagnóstico, caso de negocio, plan, procesos y solución TIC.
+- Evidencia del prototipo o prueba de concepto.
+- Respuesta a observaciones del jurado.
 

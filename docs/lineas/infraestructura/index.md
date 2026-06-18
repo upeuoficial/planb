@@ -50,26 +50,30 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 
 | Competencia | Foco de evidencia | Cantidad |
 | --- | --- | ---: |
-| CE031: Conectividad | Diseño, implementación, pruebas y monitoreo de red. | 2 |
-| CE032: Gestión de la Seguridad de la Información | Planificación, controles, monitoreo, continuidad y ética de seguridad. | 2 |
-| CE033: Implementación de Centro de Datos | Diseño, implementación, operación, disponibilidad y eficiencia. | 2 |
+| CE031: Conectividad | Diseño, implementación, testing y control de red. | 3 |
+| CE032: Gestión de la Seguridad de la Información | Planificación, implementación de controles, monitoreo, mejora y ética. | 4 |
+| CE033: Implementación de Centro de Datos | Diseño, implementación, control y operación de centro de datos. | 3 |
 
 ### Resumen de evidencias por competencia
 
 #### CE031: Conectividad
 
 - CE0311: Diseño de red.
-- CE0312: Implementación y testing de red.
+- CE0312: Implementación de red.
+- CE0313: Testing y control de red.
 
 #### CE032: Gestión de la Seguridad de la Información
 
 - CE0321: Planificación de seguridad.
-- CE0322: Implementación, monitoreo y ética de seguridad.
+- CE0322: Implementación de controles de seguridad.
+- CE0323: Monitoreo y mejora de seguridad.
+- CE0324: Ética ACM en seguridad.
 
 #### CE033: Implementación de Centro de Datos
 
 - CE0331: Diseño de centro de datos.
-- CE0332: Implementación y control de centro de datos.
+- CE0332: Implementación de centro de datos.
+- CE0333: Control y operación de centro de datos.
 
 ## 5. Construcción progresiva durante la carrera
 
@@ -232,11 +236,13 @@ Al terminar la línea, el estudiante debería poder mostrar:
 
 - Diseño de red lógica y física.
 - Configuraciones de red o simulación funcional.
+- Evidencias de testing y control de red.
 - Plan de seguridad y matriz de riesgos.
 - Controles técnicos implementados.
+- Evidencias de monitoreo, mejora y análisis ético.
 - Diseño de centro de datos o plataforma equivalente.
 - Servicios de infraestructura implementados.
-- Evidencias de pruebas y monitoreo.
+- Evidencias de control, operación y disponibilidad.
 - Documentación técnica y procedimientos operativos.
 
 ## 12. Cierre de la línea y evaluación del perfil de egreso

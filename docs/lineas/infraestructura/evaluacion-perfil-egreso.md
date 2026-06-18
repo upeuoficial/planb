@@ -14,10 +14,12 @@ La evaluación debe centrarse en evidencias finales e integradoras. Los artefact
 
 El estudiante presenta:
 
+- Documento consolidado de diseño preliminar.
+- Informe de implementación integral y operativa.
 - Solución final de infraestructura implementada o simulada.
 - Dossier técnico final.
-- Evidencias de conectividad, seguridad, servicios, monitoreo y operación.
-- Pruebas de funcionamiento.
+- Evidencias de diseño, implementación, testing, seguridad, centro de datos, monitoreo y operación.
+- Demo, video o recorrido técnico cuando corresponda.
 - Sustentación técnica.
 
 Los artefactos históricos pueden usarse como soporte, pero la evaluación principal recae sobre la versión final de la solución y sus evidencias consolidadas.
@@ -36,16 +38,21 @@ Debe incluir:
 
 - Requerimientos técnicos y de negocio.
 - Topología lógica y física.
-- Segmentación de red.
+- Segmentación de red mediante VLAN, DMZ, subnetting u otro mecanismo pertinente.
+- Redundancia y alta disponibilidad.
 - Esquema de direccionamiento.
 - Configuración de dispositivos.
+- Routing estático o dinámico.
+- Controles de acceso.
+- Cumplimiento de estándares pertinentes.
 - Pruebas de conectividad, rendimiento y disponibilidad.
-- Evidencias de monitoreo.
+- Evidencias de latencia, pérdida de paquetes, throughput, incidencias, acciones correctivas y monitoreo.
 
 Evidencias evaluadas:
 
 - `CE0311`: Diseño de red.
-- `CE0312`: Implementación y testing de red.
+- `CE0312`: Implementación de red.
+- `CE0313`: Testing y control de red.
 
 ### 2. Dossier final de seguridad de la información
 
@@ -57,18 +64,24 @@ Competencia asociada: `CE032: Gestión de la Seguridad de la Información`.
 
 Debe incluir:
 
-- Inventario y clasificación de activos.
-- Matriz de riesgos.
+- Inventario y clasificación de activos críticos.
+- Matriz de riesgos basada en ISO 27005, NIST u otro marco pertinente.
 - Políticas de seguridad.
-- Controles técnicos implementados.
-- Evidencias de monitoreo y auditoría.
+- Roles y responsabilidades.
+- Controles técnicos implementados: IAM, cifrado, firewall, backup u otros pertinentes.
+- Gestión de parches y actualizaciones.
 - Plan de continuidad o recuperación.
+- KPIs de seguridad.
+- Evidencias de monitoreo, registro, auditoría y evaluación de vulnerabilidades.
+- Propuesta de mejora continua.
 - Análisis ético y legal.
 
 Evidencias evaluadas:
 
 - `CE0321`: Planificación de seguridad.
-- `CE0322`: Implementación, monitoreo y ética de seguridad.
+- `CE0322`: Implementación de controles de seguridad.
+- `CE0323`: Monitoreo y mejora de seguridad.
+- `CE0324`: Ética ACM en seguridad.
 
 ### 3. Plataforma final de servicios de infraestructura
 
@@ -81,17 +94,22 @@ Competencia asociada: `CE033: Implementación de Centro de Datos`.
 Debe incluir:
 
 - Arquitectura de centro de datos o plataforma equivalente.
-- Dimensionamiento de capacidad.
-- Servicios implementados.
-- Almacenamiento y respaldo.
+- Layout físico o lógico.
+- Dimensionamiento de CPU, RAM, almacenamiento y servicios.
+- Virtualización o cloud híbrido cuando corresponda.
+- Configuración de servidores físicos o virtuales.
+- Servicios implementados: AD, DNS, web, base de datos u otros pertinentes.
+- Almacenamiento y respaldo: RAID, SAN, NAS o alternativa equivalente.
 - SLA o criterios de disponibilidad.
 - Monitoreo de infraestructura.
 - Procedimientos operativos.
+- Métricas de disponibilidad y eficiencia energética.
 
 Evidencias evaluadas:
 
 - `CE0331`: Diseño de centro de datos.
-- `CE0332`: Implementación y control de centro de datos.
+- `CE0332`: Implementación de centro de datos.
+- `CE0333`: Control y operación de centro de datos.
 
 ### 4. Presentación y sustentación final
 
