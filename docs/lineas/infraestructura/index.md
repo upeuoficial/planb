@@ -175,7 +175,9 @@ El estudiante demuestra que puede diseñar, implementar, validar, operar y defen
 
 ## 6. Producto integrador de la línea
 
-El producto integrador de la línea de Infraestructura debe ser una solución tecnológica que integre conectividad, seguridad y servicios. Puede implementarse en laboratorio, simulador, entorno virtual, nube o infraestructura real controlada.
+El producto integrador de la línea de Infraestructura debe ser una solución tecnológica que integre conectividad, seguridad y centro de datos. Puede implementarse en laboratorio, simulador, entorno virtual, nube o infraestructura real controlada.
+
+La construcción se organiza en dos productos consolidados: un Documento Consolidado de Diseño Preliminar y un Informe de Implementación Integral y Operativa. Ambos articulan los entregables técnicos de red, seguridad y centro de datos.
 
 El producto debe incluir:
 
@@ -189,6 +191,11 @@ El producto debe incluir:
 - Procedimientos operativos.
 - Documentación técnica.
 - Sustentación final.
+
+Productos consolidados esperados:
+
+- Documento consolidado de diseño preliminar: integra diseño de red, planificación de seguridad y diseño de centro de datos.
+- Informe de implementación integral y operativa: integra implementación y testing de red, implementación y monitoreo de seguridad, ética ACM, implementación y control de centro de datos, demo o video cuando corresponda.
 
 ## 7. Ejemplos de productos posibles
 

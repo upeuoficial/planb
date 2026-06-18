@@ -180,7 +180,9 @@ El estudiante demuestra que puede gestionar una iniciativa tecnológica integral
 
 ## 6. Producto integrador de la línea
 
-El producto integrador de la línea de Gestión TI debe ser un proyecto de gestión tecnológica orientado a transformación, mejora organizacional o innovación. Puede abordar una empresa, área administrativa, institución educativa, servicio público, emprendimiento o unidad operativa.
+El producto integrador de la línea de Gestión TI debe ser un Proyecto de Gestión Integral de Tecnologías de Información para Transformación Organizacional. Puede abordar una empresa, área administrativa, institución educativa, servicio público, emprendimiento o unidad operativa.
+
+El producto debe articular diagnóstico estratégico, planificación, ejecución y evaluación de una iniciativa de TI, considerando buenas prácticas de gestión de proyectos, gobierno de TI, seguridad, gestión de servicios, gestión de procesos y sostenibilidad económica.
 
 El producto debe incluir:
 

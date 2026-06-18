@@ -14,6 +14,15 @@ Rol asociado: Gestor de TI o Consultor de Transformación Digital.
 
 El estudiante desarrolla un Proyecto de Gestión Integral de Tecnologías de Información para Transformación Organizacional. El proyecto está orientado al diagnóstico estratégico, planificación, ejecución y evaluación de una iniciativa integral de gestión de TI que aborde la transformación y mejora organizacional.
 
+La propuesta debe alinearse con referentes operativos de gestión y mejora organizacional, según la naturaleza del proyecto:
+
+- PMBOK o buenas prácticas de gestión de proyectos.
+- Gobierno de TI.
+- Seguridad de la información.
+- Gestión de servicios.
+- Gestión y evaluación de procesos.
+- Sostenibilidad económica.
+
 El proyecto culmina con cuatro evidencias principales y una presentación ejecutiva de sustentación:
 
 - CE0111: Diagnóstico y caso de negocio.
@@ -55,7 +64,7 @@ Contenido mínimo:
 - Diagnóstico digital o de TI: inventario de sistemas de información, nivel de madurez digital, brechas tecnológicas y problemas operativos asociados a TI.
 - Identificación del problema: definición estructurada, causas raíz, impacto estratégico y justificación de intervención.
 
-#### Business case del proyecto
+#### Caso de negocio del proyecto
 
 Descripción:
 

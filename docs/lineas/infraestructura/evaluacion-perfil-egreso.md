@@ -14,8 +14,8 @@ La evaluación debe centrarse en evidencias finales e integradoras. Los artefact
 
 El estudiante presenta:
 
-- Documento consolidado de diseño preliminar.
-- Informe de implementación integral y operativa.
+- Documento consolidado de diseño preliminar: diseño de red, planificación de seguridad y diseño de centro de datos.
+- Informe de implementación integral y operativa: implementación y testing de red, seguridad, centro de datos, monitoreo, evidencias unificadas y recomendaciones finales.
 - Solución final de infraestructura implementada o simulada.
 - Dossier técnico final.
 - Evidencias de diseño, implementación, testing, seguridad, centro de datos, monitoreo y operación.

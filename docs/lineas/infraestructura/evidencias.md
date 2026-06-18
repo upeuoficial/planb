@@ -20,6 +20,12 @@ Formato sugerido: PDF de 40 a 50 páginas.
 
 Integra las evidencias de diseño de red, planificación de seguridad y diseño de centro de datos en un solo documento, con introducción general, conclusiones, declaración ética ACM, índice, referencias unificadas y anexos cruzados.
 
+Productos asociados:
+
+- Entregable 1: Diseño de red, alineado con CE0311.
+- Entregable 2: Planificación de seguridad, alineado con CE0321.
+- Entregable 3: Diseño de centro de datos, alineado con CE0331.
+
 Evidencias incluidas:
 
 - CE0311: Diseño de red.
@@ -33,6 +39,12 @@ Producto final del semestre: Informe de implementación integral y operativa.
 Formato sugerido: PDF de 50 a 60 páginas, acompañado de demo y video cuando corresponda.
 
 Integra las evidencias de implementación, testing, seguridad, centro de datos, monitoreo y operación. Debe incluir presentación ejecutiva, evidencias unificadas como logs y pruebas, análisis de riesgos global, declaración de cumplimiento ético ACM y recomendaciones finales.
+
+Productos asociados:
+
+- Entregable 1: Implementación y testing de red, alineado con CE0312 y CE0313.
+- Entregable 2: Implementación, monitoreo y ética de seguridad, alineado con CE0322, CE0323 y CE0324.
+- Entregable 3: Implementación y control de centro de datos, alineado con CE0332 y CE0333.
 
 Evidencias incluidas:
 
@@ -101,6 +113,10 @@ Artefactos de la evidencia:
 - Evidencias de cumplimiento técnico.
 - Carpeta de evidencias con capturas, configuraciones o archivos exportados.
 
+Producto asociado:
+
+Entregable 1 del segundo semestre: Implementación y testing de red, integrado con CE0313.
+
 Formato sugerido:
 
 Documento Word o PDF de 20 a 25 páginas, acompañado de carpeta de evidencias técnicas como capturas, configuraciones y logs.
@@ -136,9 +152,13 @@ Artefactos de la evidencia:
 - Evidencias de monitoreo mediante SNMP, logs u otro mecanismo pertinente.
 - Capturas de pruebas, logs y resultados consolidados.
 
+Producto asociado:
+
+Entregable 1 del segundo semestre: Implementación y testing de red, integrado con CE0312.
+
 Formato sugerido:
 
-Documento Word o PDF con evidencias de pruebas, resultados y monitoreo.
+Documento Word o PDF de 20 a 25 páginas, acompañado de capturas de pruebas, configuraciones y logs.
 
 Estructura sugerida del producto:
 
@@ -218,7 +238,7 @@ Documento Word o PDF de 15 a 20 páginas, acompañado de evidencias técnicas y 
 Estructura sugerida del producto:
 
 - Resumen ejecutivo de seguridad.
-- Implementación de controles técnicos.
+- Implementación de controles técnicos: IAM, cifrado, firewall y backup.
 - Gestión de parches y actualizaciones.
 - Planes de continuidad y recuperación.
 - Anexos con configuraciones, evidencias y resultados.
@@ -244,9 +264,13 @@ Artefactos de la evidencia:
 - Propuesta de mejora continua.
 - Evidencias de monitoreo, reportes o scans de vulnerabilidades.
 
+Producto asociado:
+
+Entregable 2 del segundo semestre: Implementación, monitoreo y ética de seguridad, integrado con CE0322 y CE0324.
+
 Formato sugerido:
 
-Documento Word o PDF con reportes, indicadores y evidencias de monitoreo.
+Documento Word o PDF de 15 a 20 páginas, acompañado de reportes, indicadores y evidencias de monitoreo.
 
 Estructura sugerida del producto:
 
@@ -276,6 +300,10 @@ Artefactos de la evidencia:
 - Verificación de cumplimiento de normativa de protección de datos.
 - Evaluación del impacto social y legal de decisiones técnicas.
 - Declaración de criterios éticos aplicados.
+
+Producto asociado:
+
+Entregable 2 del segundo semestre: Implementación, monitoreo y ética de seguridad, integrado con CE0322 y CE0323.
 
 Formato sugerido:
 
@@ -348,6 +376,10 @@ Artefactos de la evidencia:
 - Políticas de respaldo implementadas.
 - Configuraciones, capturas y evidencias técnicas.
 
+Producto asociado:
+
+Entregable 3 del segundo semestre: Implementación y control de centro de datos, integrado con CE0333.
+
 Formato sugerido:
 
 Documento Word o PDF de 20 a 25 páginas, acompañado de evidencias de configuración.
@@ -381,9 +413,13 @@ Artefactos de la evidencia:
 - Métricas de disponibilidad y eficiencia.
 - Recomendaciones operativas finales.
 
+Producto asociado:
+
+Entregable 3 del segundo semestre: Implementación y control de centro de datos, integrado con CE0332.
+
 Formato sugerido:
 
-Documento Word o PDF con evidencias de operación, monitoreo y procedimientos.
+Documento Word o PDF de 20 a 25 páginas, acompañado de evidencias de operación, monitoreo y procedimientos.
 
 Estructura sugerida del producto:
 
