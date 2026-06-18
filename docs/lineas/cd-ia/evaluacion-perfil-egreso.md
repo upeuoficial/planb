@@ -6,7 +6,7 @@ La evaluación del perfil de egreso en la línea de Ciencia de Datos e IA verifi
 
 Esta evaluación no revisa todas las evidencias progresivas de la carrera. Su foco es comprobar que, al cierre del proceso formativo, el estudiante puede articular lo aprendido en una solución con valor organizacional, trazabilidad metodológica y sustentación técnica profesional.
 
-La evaluación corresponde a `CE04: Ciencia de Datos e Inteligencia Artificial`, orientada a diseñar y gestionar sistemas inteligentes para lograr estrategias de mejora para la organización.
+La evaluación corresponde a `CE04: Ciencia de Datos e Inteligencia Artificial`, orientada a diseñar y gestionar sistemas inteligentes para lograr estrategias de mejora para la organización. Los bloques CE041 a CE045 se emplean como estructura operativa de evaluación de la línea.
 
 ## Principio de evaluación
 
@@ -151,4 +151,3 @@ Evidencia evaluada:
 Para considerar lograda la línea de Ciencia de Datos e IA en el perfil de egreso, el estudiante debe demostrar coherencia entre problema, datos, pipeline, experimentación, evaluación, comunicación, valor organizacional y mejora.
 
 La pregunta central es: ¿el estudiante puede diseñar, construir, evaluar, explicar y mejorar una solución basada en datos o IA con criterio profesional?
-

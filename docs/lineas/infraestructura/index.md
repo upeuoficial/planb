@@ -56,24 +56,83 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 
 ### Resumen de evidencias por competencia
 
-#### CE031: Conectividad
+#### Semestre 1: Marzo - Junio
 
-- CE0311: Diseño de red.
-- CE0312: Implementación de red.
-- CE0313: Testing y control de red.
+El producto final de este semestre tiene lo siguiente:
 
-#### CE032: Gestión de la Seguridad de la Información
+##### C1.1 Diseño de red
 
-- CE0321: Planificación de seguridad.
-- CE0322: Implementación de controles de seguridad.
-- CE0323: Monitoreo y mejora de seguridad.
-- CE0324: Ética ACM en seguridad.
+- Levanta requerimientos técnicos y de negocio.
+- Diseña topología lógica y física adecuada.
+- Aplica segmentación (VLAN, DMZ, subnetting).
+- Incorpora redundancia y alta disponibilidad.
 
-#### CE033: Implementación de Centro de Datos
+##### C2.1 Planificación
 
-- CE0331: Diseño de centro de datos.
-- CE0332: Implementación de centro de datos.
-- CE0333: Control y operación de centro de datos.
+- Identifica activos críticos.
+- Realiza análisis de riesgos (ISO 27005 / NIST).
+- Define políticas de seguridad.
+- Establece roles y responsabilidades.
+
+##### C3.1 Diseño de centro de datos
+
+- Define arquitectura (Tier I-IV, Uptime Institute).
+- Diseña layout físico.
+- Dimensiona capacidad (CPU, RAM, almacenamiento).
+- Incorpora virtualización o cloud híbrido.
+
+#### Semestre 2: Agosto - Noviembre
+
+El producto final de este semestre tiene lo siguiente:
+
+##### C1.2 Implementación
+
+- Configura correctamente dispositivos (switch, router, firewall).
+- Implementa direccionamiento IP estructurado.
+- Configura routing (estático/dinámico).
+- Implementa controles de acceso (ACL).
+- Cumple estándares (TIA/EIA, IEEE 802.x, ISO/IEC 11801).
+
+##### C1.3 Testing y control
+
+- Ejecuta pruebas de conectividad y rendimiento.
+- Mide latencia, pérdida de paquetes y throughput.
+- Documenta incidencias y acciones correctivas.
+- Implementa monitoreo (SNMP, logs).
+
+##### C2.2 Implementación de controles
+
+- Implementa controles técnicos (IAM, cifrado, firewall, backup).
+- Aplica principio de mínimo privilegio.
+- Gestiona parches y actualizaciones.
+- Implementa planes de continuidad.
+
+##### C2.3 Monitoreo y mejora
+
+- Define KPIs de seguridad.
+- Implementa registro y auditoría.
+- Evalúa vulnerabilidades.
+- Propone mejoras continuas.
+
+##### C2.4 Ética ACM
+
+- Respeta confidencialidad.
+- Cumple normativa de protección de datos.
+- Evalúa impacto social y legal de decisiones técnicas.
+
+##### C3.2 Implementación
+
+- Configura servidores físicos o virtuales.
+- Implementa servicios (AD, DNS, Web, BD).
+- Configura almacenamiento (RAID, SAN, NAS).
+- Implementa políticas de respaldo.
+
+##### C3.3 Control y operación
+
+- Define SLA.
+- Implementa monitoreo de infraestructura.
+- Documenta procedimientos operativos.
+- Evalúa eficiencia energética y disponibilidad.
 
 ## 5. Construcción progresiva durante la carrera
 

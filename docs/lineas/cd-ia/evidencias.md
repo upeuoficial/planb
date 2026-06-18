@@ -2,13 +2,27 @@
 
 Este documento registra las competencias, evidencias y artefactos verificables de la línea de Ciencia de Datos e IA. Sirve como base para construir guías de entrega, revisión y sustentación.
 
-La fuente institucional disponible confirma la competencia de línea CE04. Los bloques CE041 a CE045 se usan como estructura operativa preliminar para organizar evidencias, hasta contar con competencias específicas formalizadas en el documento base de competencias.
+La fuente institucional disponible confirma la competencia de línea CE04. Mientras no se cuente con competencias específicas formalizadas para esta línea, los bloques CE041 a CE045 se usan como estructura operativa para organizar evidencias, artefactos y evaluación sin atribuirles carácter oficial adicional.
 
 ## CE04: Ciencia de Datos e Inteligencia Artificial
 
 Diseña y gestiona sistemas inteligentes basándose en metodologías, estándares y herramientas a fin de lograr estrategias de mejora para la organización.
 
 Rol asociado: Data Scientist, Data Analyst o AI Engineer.
+
+## Proyecto integrador de la línea
+
+La evidencia final de la línea se organiza como una solución basada en datos o inteligencia artificial. Puede adoptar la forma de análisis avanzado, tablero, modelo predictivo, sistema de recomendación, clasificador, solución de visión, procesamiento de lenguaje, automatización inteligente o prototipo analítico.
+
+El producto integrador debe demostrar coherencia entre problema, datos, preparación, modelado, evaluación, comunicación, uso responsable y mejora.
+
+Entregables de referencia:
+
+- Entregable 1: Dossier de problema analítico y dataset inicial, alineado con CE0411.
+- Entregable 2: Dataset analítico y pipeline reproducible, alineado con CE0421.
+- Entregable 3: Proyecto de construcción, entrenamiento y experimentación, alineado con CE0431.
+- Entregable 4: Dossier de evaluación, monitoreo y mejora, alineado con CE0441.
+- Entregable 5: Comunicación de resultados y sustentación, alineado con CE0451.
 
 ## CE041: Problema analítico y preparación de datos
 
@@ -27,13 +41,18 @@ Artefactos de la evidencia:
 - Dataset inicial.
 - Variables, supuestos e hipótesis.
 
-Contenido mínimo:
+Formato sugerido:
+
+Documento técnico breve o notebook documentado, acompañado del dataset inicial o una muestra controlada de datos.
+
+Estructura sugerida del producto:
 
 - Contexto organizacional y necesidad de mejora.
 - Pregunta analítica o problema de predicción, clasificación, segmentación, recomendación o análisis.
 - Identificación de fuentes internas o externas.
 - Descripción del dataset inicial.
 - Variables disponibles, variable objetivo si aplica e hipótesis de trabajo.
+- Consideraciones iniciales de calidad, sesgo, privacidad y disponibilidad de datos.
 
 ## CE042: Diseño de dataset y pipeline analítico
 
@@ -52,13 +71,18 @@ Artefactos de la evidencia:
 - Pipeline de datos.
 - Estrategia analítica.
 
-Contenido mínimo:
+Formato sugerido:
+
+Notebook, scripts o repositorio técnico con documentación de transformaciones, dependencias y ejecución reproducible.
+
+Estructura sugerida del producto:
 
 - Diseño del dataset final esperado.
 - Criterios de selección, transformación y combinación de variables.
 - Limpieza prevista, tratamiento de nulos, codificación y escalamiento si aplica.
 - Pipeline reproducible para carga, transformación y preparación de datos.
 - Estrategia analítica: tipo de modelo, técnica o enfoque de IA seleccionado.
+- Evidencias de versionamiento o trazabilidad de datos y código.
 
 ## CE043: Construcción y experimentación
 
@@ -77,12 +101,17 @@ Artefactos de la evidencia:
 - Entrenamiento de modelos.
 - Notebooks o bitácora de experimentos.
 
-Contenido mínimo:
+Formato sugerido:
+
+Repositorio o carpeta técnica con notebooks, scripts, datasets versionados o referencias controladas, resultados de ejecución y bitácora de experimentos.
+
+Estructura sugerida del producto:
 
 - Dataset final construido y versionado.
 - Evidencias de limpieza y transformación.
 - Modelos entrenados o análisis ejecutados.
 - Registro de experimentos, parámetros, resultados y decisiones.
+- Comparación de enfoques o configuraciones.
 - Código, notebooks o scripts reproducibles.
 
 ## CE044: Evaluación, monitoreo y mejora
@@ -102,7 +131,11 @@ Artefactos de la evidencia:
 - Monitoreo del modelo o solución.
 - Estrategia de reentrenamiento.
 
-Contenido mínimo:
+Formato sugerido:
+
+Informe técnico, notebook evaluativo o dashboard de métricas, acompañado de resultados, gráficos y propuesta de mejora.
+
+Estructura sugerida del producto:
 
 - Métricas pertinentes según el problema: accuracy, precision, recall, F1, AUC, MAE, RMSE u otras.
 - Comparación de modelos o enfoques.
@@ -126,11 +159,14 @@ Artefactos de la evidencia:
 - Visualización de resultados.
 - Interpretación y recomendaciones.
 
-Contenido mínimo:
+Formato sugerido:
+
+Informe ejecutivo, tablero, presentación, demo o sustentación técnica con visualizaciones y recomendaciones accionables.
+
+Estructura sugerida del producto:
 
 - Visualizaciones o tablero de resultados.
 - Explicación del problema, datos, método y hallazgos.
 - Interpretación de métricas en lenguaje de negocio.
 - Recomendaciones para usuarios, responsables o tomadores de decisión.
 - Limitaciones, consideraciones éticas y próximos pasos.
-

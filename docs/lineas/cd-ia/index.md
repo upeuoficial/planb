@@ -22,7 +22,7 @@ Diseña y gestiona sistemas inteligentes basándose en metodologías, estándare
 
 Rol asociado: Data Scientist, Data Analyst o AI Engineer.
 
-La fuente institucional disponible confirma la competencia de línea CE04. Los bloques CE041 a CE045 se usan como estructura operativa preliminar para organizar evidencias, hasta contar con competencias específicas formalizadas en el documento base de competencias.
+La fuente institucional disponible confirma la competencia de línea CE04. Mientras no se cuente con competencias específicas formalizadas para esta línea, los bloques CE041 a CE045 se usan como estructura operativa para organizar evidencias, artefactos y evaluación sin atribuirles carácter oficial adicional.
 
 | Bloque operativo | Aporte en la línea | Rol asociado |
 | --- | --- | --- |
@@ -58,35 +58,54 @@ Las evidencias y la evaluación de cierre se presentan en las secciones siguient
 
 Las evidencias de la línea permiten comprobar que el estudiante no solo conoce herramientas de datos o IA, sino que produce artefactos verificables para sustentar una solución analítica. En esta página se presenta una vista de conjunto; el detalle de cada evidencia, con sus artefactos esperados, se desarrolla en [Evidencias por competencia](evidencias.md).
 
-| Bloque operativo | Foco de evidencia | Cantidad |
+| Bloque operativo | Evidencia integradora | Artefactos asociados |
 | --- | --- | ---: |
-| CE041: Problema analítico y preparación de datos | Problema, fuentes, dataset inicial, variables e hipótesis. | 1 |
-| CE042: Diseño de dataset y pipeline analítico | Diseño del dataset, feature engineering, pipeline y estrategia analítica. | 1 |
-| CE043: Construcción y experimentación | Construcción de dataset, limpieza, entrenamiento y experimentos. | 1 |
-| CE044: Evaluación, monitoreo y mejora | Evaluación de modelos, métricas, monitoreo y reentrenamiento. | 1 |
-| CE045: Comunicación y uso del modelo | Storytelling, visualización e interpretación de resultados. | 1 |
+| CE041: Problema analítico y preparación de datos | CE0411: Problema analítico y dataset inicial. | 4 |
+| CE042: Diseño de dataset y pipeline analítico | CE0421: Diseño de dataset y pipeline analítico. | 4 |
+| CE043: Construcción y experimentación | CE0431: Construcción, entrenamiento y experimentación. | 4 |
+| CE044: Evaluación, monitoreo y mejora | CE0441: Evaluación, monitoreo y mejora. | 4 |
+| CE045: Comunicación y uso del modelo | CE0451: Comunicación y uso del modelo. | 3 |
 
 ### Resumen de evidencias por competencia
 
 #### CE041: Problema analítico y preparación de datos
 
 - CE0411: Problema analítico y dataset inicial.
+- Problema analítico formulado.
+- Fuentes de datos identificadas.
+- Dataset inicial.
+- Variables, supuestos e hipótesis.
 
 #### CE042: Diseño de dataset y pipeline analítico
 
 - CE0421: Diseño de dataset y pipeline analítico.
+- Diseño de dataset.
+- Feature engineering.
+- Pipeline de datos.
+- Estrategia analítica.
 
 #### CE043: Construcción y experimentación
 
 - CE0431: Construcción, entrenamiento y experimentación.
+- Dataset construido.
+- Limpieza de datos ejecutada.
+- Entrenamiento de modelos.
+- Notebooks o bitácora de experimentos.
 
 #### CE044: Evaluación, monitoreo y mejora
 
 - CE0441: Evaluación, monitoreo y mejora.
+- Evaluación de modelos.
+- Métricas de desempeño.
+- Monitoreo del modelo o solución.
+- Estrategia de reentrenamiento.
 
 #### CE045: Comunicación y uso del modelo
 
 - CE0451: Comunicación y uso del modelo.
+- Storytelling con datos.
+- Visualización de resultados.
+- Interpretación y recomendaciones.
 
 ## 5. Construcción progresiva durante la carrera
 
@@ -188,6 +207,8 @@ El estudiante demuestra que puede convertir datos en una solución útil, explic
 
 El producto integrador de la línea de Ciencia de Datos e IA debe ser una solución basada en datos que responda a una necesidad real. Puede ser un análisis avanzado, tablero, modelo predictivo, sistema de recomendación, clasificador, solución de visión, procesamiento de lenguaje, automatización inteligente o prototipo analítico.
 
+El producto debe articular problema, fuentes de datos, preparación, modelado, evaluación, comunicación, consideraciones éticas y mejora. Su valor no está solo en el modelo, sino en la trazabilidad de las decisiones y en la utilidad de los resultados para una organización o comunidad.
+
 El producto debe incluir:
 
 - Problema analítico.
@@ -267,4 +288,3 @@ La línea de Ciencia de Datos e IA busca que el estudiante deje de ver los model
 El cierre de la línea se verifica mediante la evaluación del perfil de egreso. En este momento no se evalúa toda la acumulación de evidencias progresivas, sino la capacidad del estudiante para integrar problema, datos, pipeline, experimentación, evaluación, comunicación y mejora en una solución final defendible.
 
 La evaluación específica se desarrolla en [Evaluación del perfil de egreso](evaluacion-perfil-egreso.md).
-

@@ -60,31 +60,50 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 | CE013: Gestión de Procesos | CE0131: Mejora de procesos. | 5 |
 | CE014: Gestión de Sistemas de Información | CE0141: Solución TIC integrada. | 7 |
 
-### Resumen de evidencias y artefactos por competencia
+### Resumen de evidencias por competencia
 
-#### CE011: Gestión e Innovación de TI
+#### Entregable 1: Diagnóstico y Caso de Negocio
 
-Evidencia integradora: CE0111: Diagnóstico y caso de negocio.
+**Evalúa:** C1 - Gobierno e Innovación de TI.
 
-Artefactos asociados: GP-1.1 Diagnóstico organizacional; GP-1.2 Alineamiento estratégico; GP-1.3 Caso de negocio; GP-1.4 Roadmap de tecnología; GP-1.5 Matriz de riesgos estratégicos.
+- GP-1.1 - Diagnóstico Organizacional.
+- GP-1.2 - Alineamiento Estratégico.
+- GP-1.3 - Caso de Negocio.
+- GP-1.4 - Roadmap de Tecnología.
+- GP-1.5 - Matriz de Riesgos Estratégicos.
 
-#### CE012: Gestión de Proyectos
+#### Entregable 2: Plan de Gestión Integral
 
-Evidencia integradora: CE0121: Plan de gestión integral del proyecto.
+**Evalúa:** C2 - Gestión de Proyectos.
 
-Artefactos asociados: GP-2.1 Plan del proyecto; GP-2.2 Cronograma detallado; GP-2.3 Presupuesto; GP-2.4 Matriz de riesgos del proyecto; GP-2.5 Backlog priorizado; GP-2.6 Plan de comunicaciones.
+- GP-2.1 - Plan del Proyecto.
+- GP-2.2 - Cronograma Detallado.
+- GP-2.3 - Presupuesto.
+- GP-2.4 - Matriz de Riesgos del Proyecto.
+- GP-2.5 - Backlog Priorizado.
+- GP-2.6 - Plan de Comunicaciones.
 
-#### CE013: Gestión de Procesos
+#### Entregable 3: Mejora de Procesos
 
-Evidencia integradora: CE0131: Mejora de procesos.
+**Evalúa:** C3 - Gestión de Procesos.
 
-Artefactos asociados: GP-3.1 Modelado de procesos actuales; GP-3.2 Análisis de oportunidades; GP-3.3 Modelado de procesos mejorados; GP-3.4 Indicadores de proceso; GP-3.5 Plan de cambio organizacional.
+- GP-3.1 - Modelado Procesos Actuales.
+- GP-3.2 - Análisis de Oportunidades.
+- GP-3.3 - Modelado Procesos Mejorados.
+- GP-3.4 - Indicadores de Proceso.
+- GP-3.5 - Plan de Cambio Organizacional.
 
-#### CE014: Gestión de Sistemas de Información
+#### Entregable 4: Solución Técnica Integrada
 
-Evidencia integradora: CE0141: Solución TIC integrada.
+**Evalúa:** C4 - Gestión de Sistemas de Información.
 
-Artefactos asociados: GP-4.1 Arquitectura de solución; GP-4.2 Integración con sistemas de información existentes; GP-4.3 Diseño de seguridad; GP-4.4 Diseño de datos; GP-4.5 Soporte a decisiones; GP-4.6 Plan de operaciones; GP-4.7 Prototipo o prueba de concepto.
+- GP-4.1 - Arquitectura de Solución.
+- GP-4.2 - Integración con SI Existentes.
+- GP-4.3 - Diseño de Seguridad.
+- GP-4.4 - Diseño de Dato.
+- GP-4.5 - Soporte a Decisiones.
+- GP-4.6 - Plan de Operaciones.
+- GP-4.7 - Prototipo o Prueba de Concepto.
 
 ## 5. Construcción progresiva durante la carrera
 
