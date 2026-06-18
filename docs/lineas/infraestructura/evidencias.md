@@ -1,23 +1,20 @@
-# Evidencias integradoras de Infraestructura
+# Evidencias por competencia de la línea de Infraestructura
 
-## Criterio de rediseño
+Este documento registra las competencias, evidencias y artefactos verificables de la línea de Infraestructura. Sirve como base para construir guías de entrega, revisión y sustentación.
 
-Estas evidencias toman como insumo operativo el proyecto de fin de carrera usado con futuros egresados. No incorporan sus rúbricas como oficiales. Para este libro, la base institucional son las competencias oficiales de la línea:
+Estas evidencias toman como insumo operativo el proyecto de fin de carrera usado con futuros egresados. No incorporan sus criterios de calificación como oficiales. Para este libro, la base institucional son las competencias de la línea y sus competencias específicas.
 
-- `CE03`: Infraestructura Tecnológica.
-- `CE031`: Conectividad.
-- `CE032`: Gestión de la Seguridad de la Información.
-- `CE033`: Implementación de Centro de Datos.
+## CE03: Infraestructura Tecnológica
 
-La evaluación de cierre debe centrarse en una evidencia final integradora de infraestructura tecnológica, no en la recalificación de todos los avances progresivos.
+Diseña y ejecuta proyectos de infraestructura tecnológica para contribuir en la solución de problemas de la organización siguiendo estándares internacionales y presenta formalmente sus resultados demostrando una actitud ética de la ACM.
 
-## Proyecto integrador de la línea
+Rol asociado: Infrastructure Engineer.
 
-El estudiante desarrolla un proyecto de infraestructura tecnológica que responda a una necesidad organizacional. El proyecto debe diseñar, implementar, validar y documentar una solución que integre conectividad, seguridad, servicios de infraestructura, monitoreo, disponibilidad y operación.
+## CE031: Conectividad
 
-## Evidencia 1: Diseño de red
+Diseña, implementa y valida infraestructuras de red organizacionales, asegurando segmentación, disponibilidad, rendimiento y cumplimiento de normas nacionales e internacionales de conectividad.
 
-Competencia asociada: `CE031: Conectividad`.
+### CE0311: Diseño de red
 
 Propósito:
 
@@ -37,60 +34,10 @@ Contenido mínimo:
 - Requerimientos de negocio: objetivos organizacionales, criticidad de servicios y necesidades de continuidad.
 - Diagramas lógicos y físicos.
 - Segmentación mediante VLAN, DMZ, subnetting u otros mecanismos pertinentes.
-- Redundancia: enlaces, rutas, equipos o servicios críticos.
+- Redundancia en enlaces, rutas, equipos o servicios críticos.
 - Cumplimiento de estándares aplicables, como TIA/EIA, IEEE 802.x o ISO/IEC 11801.
 
-## Evidencia 2: Planificación de seguridad
-
-Competencia asociada: `CE032: Gestión de la Seguridad de la Información`.
-
-Propósito:
-
-Demostrar que el estudiante puede identificar activos críticos, analizar riesgos, definir políticas de seguridad y establecer roles y responsabilidades.
-
-Artefactos de la evidencia:
-
-- Inventario y clasificación de activos críticos.
-- Matriz de riesgos.
-- Políticas de seguridad.
-- Roles y responsabilidades.
-- Referencias a marcos o estándares de seguridad.
-
-Contenido mínimo:
-
-- Identificación de activos críticos.
-- Análisis de amenazas, vulnerabilidades, impacto y probabilidad.
-- Matriz de riesgos basada en marcos como ISO 27005 o NIST.
-- Políticas de seguridad para accesos, datos, dispositivos, continuidad y operación.
-- Matriz RACI u organigrama de responsabilidades.
-
-## Evidencia 3: Diseño de centro de datos
-
-Competencia asociada: `CE033: Implementación de Centro de Datos`.
-
-Propósito:
-
-Demostrar que el estudiante puede diseñar una arquitectura de centro de datos o plataforma equivalente, dimensionar capacidades y proponer virtualización, almacenamiento o nube híbrida según el contexto.
-
-Artefactos de la evidencia:
-
-- Definición de arquitectura.
-- Diseño de layout físico o lógico.
-- Dimensionamiento de capacidad.
-- Diseño de virtualización, almacenamiento o nube híbrida.
-- Diagramas y cálculos de soporte.
-
-Contenido mínimo:
-
-- Arquitectura propuesta y justificación.
-- Layout físico o lógico.
-- Dimensionamiento de CPU, memoria, almacenamiento y servicios.
-- Esquema de virtualización, cloud híbrido o plataforma equivalente.
-- Consideraciones de disponibilidad, crecimiento y operación.
-
-## Evidencia 4: Implementación y testing de red
-
-Competencia asociada: `CE031: Conectividad`.
+### CE0312: Implementación y testing de red
 
 Propósito:
 
@@ -113,9 +60,33 @@ Contenido mínimo:
 - Pruebas de conectividad, latencia, pérdida de paquetes y throughput.
 - Evidencias de monitoreo, logs e incidencias corregidas.
 
-## Evidencia 5: Implementación, monitoreo y ética de seguridad
+## CE032: Gestión de la Seguridad de la Información
 
-Competencia asociada: `CE032: Gestión de la Seguridad de la Información`.
+Planifica e implementa controles de seguridad basados en estándares internacionales, asegurando protección de activos críticos, gestión de riesgos, continuidad operativa, monitoreo permanente y mejora continua.
+
+### CE0321: Planificación de seguridad
+
+Propósito:
+
+Demostrar que el estudiante puede identificar activos críticos, analizar riesgos, definir políticas de seguridad y establecer roles y responsabilidades.
+
+Artefactos de la evidencia:
+
+- Inventario y clasificación de activos críticos.
+- Matriz de riesgos.
+- Políticas de seguridad.
+- Roles y responsabilidades.
+- Referencias a marcos o estándares de seguridad.
+
+Contenido mínimo:
+
+- Identificación de activos críticos.
+- Análisis de amenazas, vulnerabilidades, impacto y probabilidad.
+- Matriz de riesgos basada en marcos como ISO 27005 o NIST.
+- Políticas de seguridad para accesos, datos, dispositivos, continuidad y operación.
+- Matriz RACI u organigrama de responsabilidades.
+
+### CE0322: Implementación, monitoreo y ética de seguridad
 
 Propósito:
 
@@ -139,9 +110,33 @@ Contenido mínimo:
 - Monitoreo, registro, auditoría y evaluación de vulnerabilidades.
 - Análisis de confidencialidad, protección de datos e impacto social o legal.
 
-## Evidencia 6: Implementación y control de centro de datos
+## CE033: Implementación de Centro de Datos
 
-Competencia asociada: `CE033: Implementación de Centro de Datos`.
+Diseña y despliega servicios de infraestructura y centro de datos, integrando virtualización, almacenamiento, alta disponibilidad y monitoreo.
+
+### CE0331: Diseño de centro de datos
+
+Propósito:
+
+Demostrar que el estudiante puede diseñar una arquitectura de centro de datos o plataforma equivalente, dimensionar capacidades y proponer virtualización, almacenamiento o nube híbrida según el contexto.
+
+Artefactos de la evidencia:
+
+- Definición de arquitectura.
+- Diseño de layout físico o lógico.
+- Dimensionamiento de capacidad.
+- Diseño de virtualización, almacenamiento o nube híbrida.
+- Diagramas y cálculos de soporte.
+
+Contenido mínimo:
+
+- Arquitectura propuesta y justificación.
+- Layout físico o lógico.
+- Dimensionamiento de CPU, memoria, almacenamiento y servicios.
+- Esquema de virtualización, cloud híbrido o plataforma equivalente.
+- Consideraciones de disponibilidad, crecimiento y operación.
+
+### CE0332: Implementación y control de centro de datos
 
 Propósito:
 
@@ -166,8 +161,3 @@ Contenido mínimo:
 - Monitoreo de infraestructura.
 - Procedimientos operativos y evaluación de eficiencia energética o disponibilidad.
 
-## Sustentación final
-
-La sustentación debe integrar conectividad, seguridad y centro de datos en una defensa técnica de la solución. El estudiante debe demostrar que la infraestructura propuesta funciona, responde a los requerimientos, se encuentra documentada y puede operar con criterios de disponibilidad, seguridad y mejora continua.
-
-La evidencia final debe responder una pregunta central: ¿el estudiante puede diseñar, implementar, validar, operar y sustentar una solución de infraestructura tecnológica con criterio profesional?

@@ -1,24 +1,20 @@
-# Evidencias integradoras de Gestión TI
+# Evidencias por competencia de la línea de Gestión TI
 
-## Criterio de rediseño
+Este documento registra las competencias, evidencias y artefactos verificables de la línea de Gestión TI. Sirve como base para construir guías de entrega, revisión y sustentación.
 
-Estas evidencias toman como insumo operativo el proyecto de fin de carrera usado con futuros egresados. No incorporan sus rúbricas como oficiales. Para este libro, la base institucional son las competencias oficiales de la línea:
+Estas evidencias toman como insumo operativo el proyecto de fin de carrera usado con futuros egresados. No incorporan sus criterios de calificación como oficiales. Para este libro, la base institucional son las competencias de la línea y sus competencias específicas.
 
-- `CE01`: Gestión de TI e Innovación Tecnológica.
-- `CE011`: Gestión e Innovación de TI.
-- `CE012`: Gestión de Proyectos.
-- `CE013`: Gestión de Procesos.
-- `CE014`: Gestión de Sistemas de Información.
+## CE01: Gestión de TI e Innovación Tecnológica
 
-La evaluación de cierre debe centrarse en una evidencia final integradora de gestión tecnológica, no en la recalificación de todos los avances progresivos.
+Diseña y gestiona proyectos de tecnologías e información basándose en la guía del PMBOK y estándares de calidad a fin de lograr la construcción de resultados y el alcance de objetivos de la organización.
 
-## Proyecto integrador de la línea
+Rol asociado: Gestor de TI o Consultor de Transformación Digital.
 
-El estudiante desarrolla un proyecto de Gestión Integral de Tecnologías de Información para la transformación o mejora organizacional. El proyecto debe diagnosticar una situación real, justificar una iniciativa tecnológica, planificar su ejecución, rediseñar procesos y proponer una solución TIC integrada al ecosistema de sistemas de información de la organización.
+## CE011: Gestión e Innovación de TI
 
-## Evidencia 1: Diagnóstico y caso de negocio
+Administra un Plan Estratégico de TI alineado a la estrategia de negocio.
 
-Competencia asociada: `CE011: Gestión e Innovación de TI`.
+### CE0111: Diagnóstico y caso de negocio
 
 Propósito:
 
@@ -40,9 +36,11 @@ Contenido mínimo:
 - Definición del problema, causas raíz, impacto estratégico y justificación de intervención.
 - Business case con objetivos, alternativas, beneficios, costos, riesgos iniciales y recomendación.
 
-## Evidencia 2: Plan de gestión integral del proyecto
+## CE012: Gestión de Proyectos
 
-Competencia asociada: `CE012: Gestión de Proyectos`.
+Aplica principios de gestión, metodologías apropiadas y toma de decisiones económicas considerando riesgos para gestionar proyectos en entornos multidisciplinarios.
+
+### CE0121: Plan de gestión integral del proyecto
 
 Propósito:
 
@@ -66,9 +64,11 @@ Contenido mínimo:
 - Gestión de riesgos: identificación, análisis cualitativo y plan de respuesta.
 - Gestión ágil, si aplica: backlog, planificación de iteraciones e incrementos.
 
-## Evidencia 3: Mejora de procesos
+## CE013: Gestión de Procesos
 
-Competencia asociada: `CE013: Gestión de Procesos`.
+Gestiona los procesos de las organizaciones con soluciones TIC.
+
+### CE0131: Mejora de procesos
 
 Propósito:
 
@@ -89,9 +89,11 @@ Contenido mínimo:
 - Análisis comparativo: reducción de tiempos, reducción de costos y mejora en calidad del servicio.
 - Plan de cambio: actores afectados, acciones de adopción, comunicación y seguimiento.
 
-## Evidencia 4: Solución TIC integrada
+## CE014: Gestión de Sistemas de Información
 
-Competencia asociada: `CE014: Gestión de Sistemas de Información`.
+Apoya la prestación, el uso y la gestión de sistemas de información dentro de un entorno de sistemas de información.
+
+### CE0141: Solución TIC integrada
 
 Propósito:
 
@@ -115,8 +117,3 @@ Contenido mínimo:
 - Escalabilidad y sostenibilidad: capacidad de crecimiento, costos futuros y evolución tecnológica.
 - Evidencia funcional: prototipo, prueba de concepto, simulación, tablero o demostración del flujo propuesto.
 
-## Sustentación final
-
-La sustentación debe integrar las cuatro evidencias en una defensa ejecutiva y técnica. El estudiante debe explicar el problema, justificar la iniciativa, defender el plan, mostrar la mejora de procesos y sustentar la solución TIC propuesta.
-
-La evidencia final debe responder una pregunta central: ¿el estudiante puede gestionar una iniciativa tecnológica con criterio estratégico, metodológico, económico, organizacional y técnico?

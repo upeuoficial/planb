@@ -204,7 +204,7 @@ El producto debe incluir:
 - Aplicación móvil para seguimiento de hábitos o bienestar estudiantil.
 - Portal de servicios para una municipalidad, colegio u organización social.
 
-## 8. Rúbrica general de evaluación
+## 8. Criterios generales de evaluación
 
 | Criterio | Nivel básico | Nivel esperado | Nivel destacado |
 | --- | --- | --- | --- |

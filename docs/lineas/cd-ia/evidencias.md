@@ -1,20 +1,20 @@
-# Evidencias integradoras de Ciencia de Datos e IA
+# Evidencias por competencia de la línea de Ciencia de Datos e IA
 
-## Criterio de rediseño
+Este documento registra las competencias, evidencias y artefactos verificables de la línea de Ciencia de Datos e IA. Sirve como base para construir guías de entrega, revisión y sustentación.
 
-Estas evidencias son una versión preliminar inferida a partir de los productos y evidencias disponibles en los documentos operativos. La base institucional oficial confirmada para esta línea es la competencia general:
+La fuente institucional disponible confirma la competencia de línea CE04. Los bloques CE041 a CE045 se usan como estructura operativa preliminar para organizar evidencias, hasta contar con competencias específicas formalizadas en el documento base de competencias.
 
-- `CE04`: Ciencia de Datos e Inteligencia Artificial.
+## CE04: Ciencia de Datos e Inteligencia Artificial
 
-Los bloques `CE041` a `CE045` se usan como estructura operativa preliminar hasta contar con competencias específicas oficiales formalizadas en el archivo base de competencias.
+Diseña y gestiona sistemas inteligentes basándose en metodologías, estándares y herramientas a fin de lograr estrategias de mejora para la organización.
 
-## Proyecto integrador de la línea
+Rol asociado: Data Scientist, Data Analyst o AI Engineer.
 
-El estudiante desarrolla una solución basada en datos o inteligencia artificial que responda a una necesidad organizacional. La solución debe formular un problema analítico, preparar datos, construir un dataset, entrenar y evaluar modelos, monitorear resultados y comunicar hallazgos de manera comprensible para la toma de decisiones.
+## CE041: Problema analítico y preparación de datos
 
-## Evidencia 1: Problema analítico y preparación de datos
+Formula una necesidad organizacional como problema analítico, identifica fuentes de datos, construye un dataset inicial y define variables, supuestos e hipótesis de trabajo.
 
-Bloque preliminar asociado: `CE041`.
+### CE0411: Problema analítico y dataset inicial
 
 Propósito:
 
@@ -35,9 +35,11 @@ Contenido mínimo:
 - Descripción del dataset inicial.
 - Variables disponibles, variable objetivo si aplica e hipótesis de trabajo.
 
-## Evidencia 2: Diseño de dataset y pipeline analítico
+## CE042: Diseño de dataset y pipeline analítico
 
-Bloque preliminar asociado: `CE042`.
+Diseña el dataset analítico, define transformaciones, prepara variables y establece un pipeline reproducible para el tratamiento de datos.
+
+### CE0421: Diseño de dataset y pipeline analítico
 
 Propósito:
 
@@ -58,9 +60,11 @@ Contenido mínimo:
 - Pipeline reproducible para carga, transformación y preparación de datos.
 - Estrategia analítica: tipo de modelo, técnica o enfoque de IA seleccionado.
 
-## Evidencia 3: Construcción y experimentación
+## CE043: Construcción y experimentación
 
-Bloque preliminar asociado: `CE043`.
+Construye el dataset, ejecuta limpieza y transformación, entrena modelos o aplica técnicas analíticas, y documenta experimentos con trazabilidad.
+
+### CE0431: Construcción, entrenamiento y experimentación
 
 Propósito:
 
@@ -81,9 +85,11 @@ Contenido mínimo:
 - Registro de experimentos, parámetros, resultados y decisiones.
 - Código, notebooks o scripts reproducibles.
 
-## Evidencia 4: Evaluación, monitoreo y mejora
+## CE044: Evaluación, monitoreo y mejora
 
-Bloque preliminar asociado: `CE044`.
+Evalúa el desempeño de modelos o soluciones analíticas, interpreta métricas, analiza errores, identifica riesgos y propone monitoreo, mejora o reentrenamiento.
+
+### CE0441: Evaluación, monitoreo y mejora
 
 Propósito:
 
@@ -104,9 +110,11 @@ Contenido mínimo:
 - Estrategia de monitoreo de datos, desempeño o deriva.
 - Propuesta de mejora, actualización o reentrenamiento.
 
-## Evidencia 5: Comunicación y uso del modelo
+## CE045: Comunicación y uso del modelo
 
-Bloque preliminar asociado: `CE045`.
+Comunica hallazgos mediante visualización, storytelling, interpretación de resultados y recomendaciones accionables para usuarios o tomadores de decisión.
+
+### CE0451: Comunicación y uso del modelo
 
 Propósito:
 
@@ -126,8 +134,3 @@ Contenido mínimo:
 - Recomendaciones para usuarios, responsables o tomadores de decisión.
 - Limitaciones, consideraciones éticas y próximos pasos.
 
-## Sustentación final
-
-La sustentación debe integrar el problema analítico, los datos, el pipeline, los experimentos, la evaluación y la comunicación de resultados. El estudiante debe demostrar que la solución basada en datos produce valor, puede explicarse técnicamente y puede sostenerse o mejorarse en el tiempo.
-
-La evidencia final debe responder una pregunta central: ¿el estudiante puede diseñar, construir, evaluar y comunicar una solución basada en datos o IA con criterio profesional y valor organizacional?

@@ -152,7 +152,7 @@ Debe incluir:
 
 Esta evidencia debe considerarse transversal, porque evalúa el conjunto completo de la solución.
 
-## Rúbrica de evaluación del perfil de egreso
+## Criterios de evaluación del perfil de egreso
 
 | Criterio | Peso |
 | --- | ---: |

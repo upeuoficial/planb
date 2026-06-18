@@ -36,14 +36,17 @@ nav:
       - Panorama general: lineas/index.md
       - Gestión TI:
           - Visión y competencias: lineas/gestion/index.md
-          - Evidencias integradoras: lineas/gestion/evidencias.md
+          - Evidencias por competencia: lineas/gestion/evidencias.md
+          - Evaluación del perfil de egreso: lineas/gestion/evaluacion-perfil-egreso.md
       - Ingeniería de Software:
           - Visión y competencias: lineas/software/index.md
           - Evidencias por competencia: lineas/software/evidencias.md
           - Evaluación del perfil de egreso: lineas/software/evaluacion-perfil-egreso.md
       - Infraestructura:
           - Visión y competencias: lineas/infraestructura/index.md
-          - Evidencias integradoras: lineas/infraestructura/evidencias.md
+          - Evidencias por competencia: lineas/infraestructura/evidencias.md
+          - Evaluación del perfil de egreso: lineas/infraestructura/evaluacion-perfil-egreso.md
       - Ciencia de Datos e IA:
           - Visión y competencias: lineas/cd-ia/index.md
-          - Evidencias integradoras: lineas/cd-ia/evidencias.md
+          - Evidencias por competencia: lineas/cd-ia/evidencias.md
+          - Evaluación del perfil de egreso: lineas/cd-ia/evaluacion-perfil-egreso.md
