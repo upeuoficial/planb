@@ -1,22 +1,48 @@
-site_name: Libro digital de Ingenieria de Sistemas
-site_description: Guia de construccion progresiva y evaluacion del perfil de egreso de Ingenieria de Sistemas.
+site_name: Libro digital de Ingeniería de Sistemas
+site_description: Guía de construcción progresiva y evaluación del perfil de egreso de Ingeniería de Sistemas.
 docs_dir: docs
 
 theme:
   name: material
   language: es
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
   features:
     - navigation.sections
-    - navigation.indexes
+    - navigation.expand
     - content.code.copy
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
+  - javascripts/mermaid-init.js
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Inicio: index.md
-  - Lineas de formacion:
-      - Gestion TI: lineas/gestion/index.md
-      - Ingenieria de Software:
-          - Vision de la linea: lineas/software/index.md
+  - Líneas de formación:
+      - Panorama general: lineas/index.md
+      - Gestión TI:
+          - Visión y competencias: lineas/gestion/index.md
+          - Entregables integradores: lineas/gestion/entregables.md
+      - Ingeniería de Software:
+          - Visión y competencias: lineas/software/index.md
           - Evidencias por competencia: lineas/software/evidencias.md
-          - Evaluacion del perfil de egreso: lineas/software/evaluacion-perfil-egreso.md
-      - Infraestructura: lineas/infraestructura/index.md
-      - Ciencia de Datos e IA: lineas/cd-ia/index.md
+          - Evaluación del perfil de egreso: lineas/software/evaluacion-perfil-egreso.md
+      - Infraestructura:
+          - Visión y competencias: lineas/infraestructura/index.md
+          - Entregables integradores: lineas/infraestructura/entregables.md
+      - Ciencia de Datos e IA:
+          - Visión y competencias: lineas/cd-ia/index.md

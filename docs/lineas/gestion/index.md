@@ -1,33 +1,39 @@
-# Linea de Gestion TI
+# Línea de Gestión TI
 
-## CE01: Gestion de TI e Innovacion Tecnologica
+## CE01: Gestión de TI e Innovación Tecnológica
 
-Disena y gestiona proyectos de tecnologias e informacion basandose en la guia del PMBOK y estandares de calidad a fin de lograr la construccion de resultados y el alcance de objetivos de la organizacion.
+Diseña y gestiona proyectos de tecnologías e información basándose en la guía del PMBOK y estándares de calidad a fin de lograr la construcción de resultados y el alcance de objetivos de la organización.
 
-## Competencias especificas
+## Competencias específicas
 
-### CE011: Gestion e Innovacion de TI
+### CE011: Gestión e Innovación de TI
 
-Administra un Plan Estrategico de TI alineado a la estrategia de negocio.
+Administra un Plan Estratégico de TI alineado a la estrategia de negocio.
 
-### CE012: Gestion de Proyectos
+### CE012: Gestión de Proyectos
 
-Aplica los principios de gestion en computacion, las metodologias apropiadas a su campo y la toma de decisiones economicas considerando eventuales riesgos, como individuo y como miembro o lider de equipo, para gestionar proyectos en entornos multidisciplinarios.
+Aplica los principios de gestión en computación, las metodologías apropiadas a su campo y la toma de decisiones económicas considerando eventuales riesgos, como individuo y como miembro o líder de equipo, para gestionar proyectos en entornos multidisciplinarios.
 
-### CE013: Gestion de Procesos
+### CE013: Gestión de Procesos
 
 Gestiona los procesos de las organizaciones con soluciones TIC.
 
-### CE014: Gestion de Sistemas de Informacion
+### CE014: Gestión de Sistemas de Información
 
-Apoya la prestacion, el uso y la gestion de sistemas de informacion dentro de un entorno de sistemas de informacion.
+Apoya la prestación, el uso y la gestión de sistemas de información dentro de un entorno de sistemas de información.
+
+## Cierre de la línea
+
+El cierre de esta línea debe verificarse mediante una evidencia final integradora orientada a gestión tecnológica: proyecto, plan, proceso, sistema de información o propuesta de innovación que demuestre capacidad de planificación, dirección, control y sustentación profesional.
+
+Los entregables integradores de cierre se desarrollan en [Entregables integradores](entregables.md).
 
 ## Vista estructural
 
 ```mermaid
 flowchart LR
-  CE01[CE01: Gestion TI e Innovacion Tecnologica] --> CE011[CE011: Gestion e Innovacion de TI]
-  CE01 --> CE012[CE012: Gestion de Proyectos]
-  CE01 --> CE013[CE013: Gestion de Procesos]
-  CE01 --> CE014[CE014: Gestion de Sistemas de Informacion]
+  CE01[CE01: Gestión TI e Innovación Tecnológica] --> CE011[CE011: Gestión e Innovación de TI]
+  CE01 --> CE012[CE012: Gestión de Proyectos]
+  CE01 --> CE013[CE013: Gestión de Procesos]
+  CE01 --> CE014[CE014: Gestión de Sistemas de Información]
 ```
