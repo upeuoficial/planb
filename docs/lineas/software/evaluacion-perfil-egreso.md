@@ -146,10 +146,10 @@ Esta evidencia debe considerarse transversal, porque evalúa el conjunto complet
 
 | Nivel | Rango |
 | --- | --- |
-| Excelente | 90 a 100 |
-| Bueno | 80 a 89 |
-| Básico | 70 a 79 |
-| Deficiente | Menor a 70 |
+| Excelente | 18 a 20 |
+| Bueno | 16 a 17 |
+| Básico | 14 a 15 |
+| Deficiente | Menor a 14 |
 
 ## Criterio de cierre
 
