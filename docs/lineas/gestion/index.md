@@ -105,105 +105,30 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 - GP-4.6 - Plan de Operaciones.
 - GP-4.7 - Prototipo o Prueba de Concepto.
 
-## 5. Construcción progresiva durante la carrera
+## 5. Ruta de construcción y evaluación durante la carrera
 
-### Etapa 1: Comprensión organizacional
+La construcción de competencias en la línea de Gestión TI se organiza mediante evidencias progresivas que pueden verificarse con Proyecto Sello (PS), Proyecto Integrador (PI) y Evaluación del Perfil de Egreso (EPE).
 
-En los primeros momentos de la línea, el estudiante debe aprender a observar una organización, reconocer problemas, identificar actores y relacionar necesidades con oportunidades tecnológicas.
+- PS: evidencia focalizada para demostrar una capacidad de gestión específica, como diagnóstico, caso de negocio, planificación o modelado de procesos.
+- PI: evidencia integradora que articula varias capacidades de gestión en una iniciativa tecnológica coherente.
+- EPE: evaluación final del perfil de egreso, orientada a verificar la integración de CE011, CE012, CE013 y CE014 en una propuesta final viable y defendible.
 
-Debe construir:
+La ruta no reemplaza los niveles de logro. Los niveles de logro indican el grado de dominio alcanzado; la ruta muestra cómo se construyen y verifican las evidencias durante la carrera.
 
-- Diagnóstico básico de una organización o unidad de trabajo.
-- Mapa de stakeholders.
-- Identificación de problemas, causas e impactos.
-- Primer análisis de brechas tecnológicas.
-- Propuesta inicial de mejora apoyada en TI.
+| Momento de la ruta | Evidencia principal | Hito de evaluación | Propósito en la línea |
+| --- | --- | --- | --- |
+| Diagnóstico organizacional | Diagnóstico organizacional, alineamiento estratégico y problema identificado | PS | Reconocer el contexto, actores, brechas y oportunidades de mejora con TI. |
+| Formulación de iniciativa | Caso de negocio, roadmap tecnológico y matriz de riesgos estratégicos | PS o PI | Justificar una iniciativa tecnológica alineada con objetivos organizacionales. |
+| Gestión del proyecto | Plan del proyecto, cronograma, presupuesto, riesgos, backlog y comunicaciones | PS | Planificar la ejecución de una iniciativa tecnológica con criterios de gestión profesional. |
+| Mejora de procesos | Modelado AS-IS, oportunidades, TO-BE, indicadores y plan de cambio | PI | Integrar análisis de procesos con una propuesta de mejora organizacional. |
+| Solución TIC integrada | Arquitectura de solución, integración, seguridad, datos, operación y prueba de concepto | PI | Consolidar una propuesta tecnológica articulada con el ecosistema de sistemas de información. |
+| Cierre | Proyecto de Gestión Integral de Tecnologías de Información | EPE | Verificar la integración final de CE011, CE012, CE013 y CE014 en una propuesta sustentable, documentada y defendible. |
 
-Evidencias esperadas:
+### Sentido de la ruta
 
-- Descripción del contexto.
-- Matriz de problemas y causas.
-- Priorización de necesidades.
-- Justificación preliminar de intervención.
+Durante la carrera, el estudiante pasa de comprender una organización a formular, planificar, integrar y sustentar una iniciativa tecnológica. Los PS permiten comprobar capacidades específicas; los PI permiten articular componentes de gestión, procesos y sistemas de información.
 
-Meta de la etapa:
-
-El estudiante demuestra que puede leer un contexto organizacional y formular una oportunidad de mejora tecnológica con sentido estratégico.
-
-### Etapa 2: Formulación de iniciativa tecnológica
-
-En la segunda etapa, el estudiante debe transformar el diagnóstico en una iniciativa gestionable, justificable y alineada con la estrategia.
-
-Debe construir:
-
-- Caso de negocio.
-- Objetivos del proyecto.
-- Alcance preliminar.
-- Alternativas de solución.
-- Beneficios esperados.
-- Riesgos estratégicos iniciales.
-
-Evidencias esperadas:
-
-- Business case.
-- Roadmap tecnológico.
-- Matriz de alineamiento estratégico.
-- Estimación inicial de costos y beneficios.
-
-Meta de la etapa:
-
-El estudiante demuestra que puede justificar una iniciativa de TI y defender su pertinencia para la organización.
-
-### Etapa 3: Planificación y mejora de procesos
-
-En la tercera etapa, el estudiante debe planificar la ejecución y conectar la iniciativa con procesos organizacionales medibles.
-
-Debe construir:
-
-- Acta de constitución.
-- Plan de proyecto.
-- Cronograma y presupuesto.
-- Matriz de riesgos.
-- Modelo de proceso AS-IS.
-- Modelo de proceso TO-BE.
-- Indicadores de mejora.
-
-Evidencias esperadas:
-
-- EDT/WBS o backlog priorizado.
-- Plan de comunicaciones.
-- Diagramas BPMN.
-- Comparación entre proceso actual y propuesto.
-
-Meta de la etapa:
-
-El estudiante demuestra que puede organizar la ejecución de una iniciativa tecnológica y vincularla con mejoras verificables de proceso.
-
-### Etapa 4: Solución TIC integrada y sustentación
-
-En la etapa final, el estudiante debe consolidar la propuesta tecnológica y sustentar su valor ejecutivo y técnico.
-
-Debe construir:
-
-- Arquitectura de solución.
-- Integración con sistemas existentes.
-- Diseño de seguridad y datos.
-- Plan de operación.
-- Prototipo, simulación, tablero o prueba de concepto.
-- Presentación ejecutiva.
-- Sustentación técnica.
-
-Evidencias esperadas:
-
-- Dossier final de gestión tecnológica.
-- Solución TIC documentada.
-- Evidencia funcional o demostrativa.
-- Matriz de riesgos actualizada.
-- Plan de adopción y cambio.
-
-Meta de la etapa:
-
-El estudiante demuestra que puede gestionar una iniciativa tecnológica integral, defendible y alineada con una necesidad organizacional real.
+La ruta culmina en la EPE. En ese momento no se recalifican todos los productos previos, sino la capacidad del estudiante para integrar lo aprendido en una iniciativa tecnológica final que evidencie el logro de la competencia de especialidad.
 
 ## 6. Producto integrador de la línea
 
@@ -286,4 +211,3 @@ La línea de Gestión TI busca que el estudiante deje de ver la tecnología como
 El cierre de la línea se verifica mediante la evaluación del perfil de egreso. En este momento no se evalúa toda la acumulación de evidencias progresivas, sino la capacidad del estudiante para integrar las competencias CE011, CE012, CE013 y CE014 en una iniciativa tecnológica final, documentada, viable y defendible.
 
 La evaluación específica se desarrolla en [Evaluación del perfil de egreso](evaluacion-perfil-egreso.md).
-

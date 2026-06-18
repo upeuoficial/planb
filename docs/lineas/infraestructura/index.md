@@ -134,103 +134,29 @@ El producto final de este semestre tiene lo siguiente:
 - Documenta procedimientos operativos.
 - Evalúa eficiencia energética y disponibilidad.
 
-## 5. Construcción progresiva durante la carrera
+## 5. Ruta de construcción y evaluación durante la carrera
 
-### Etapa 1: Fundamentos de conectividad
+La construcción de competencias en la línea de Infraestructura se organiza mediante evidencias técnicas progresivas que pueden verificarse con Proyecto Sello (PS), Proyecto Integrador (PI) y Evaluación del Perfil de Egreso (EPE).
 
-En los primeros momentos, el estudiante debe comprender cómo se comunican los dispositivos, cómo se organiza una red y cómo se documenta una configuración básica.
+- PS: evidencia focalizada para demostrar una capacidad técnica específica de conectividad, seguridad o servicios de infraestructura.
+- PI: evidencia integradora que articula red, seguridad y centro de datos en un producto consolidado.
+- EPE: evaluación final del perfil de egreso, orientada a verificar la integración de CE031, CE032 y CE033 en una solución final validada y defendible.
 
-Debe construir:
+La ruta no reemplaza los niveles de logro. Los niveles de logro indican el grado de dominio alcanzado; la ruta muestra cómo se construyen y verifican las evidencias durante la carrera.
 
-- Esquemas de direccionamiento IP.
-- Topologías lógicas simples.
-- Configuración básica de dispositivos.
-- Pruebas de conectividad.
-- Bitácora técnica de configuración.
+| Momento de la ruta | Evidencia principal | Hito de evaluación | Propósito en la línea |
+| --- | --- | --- | --- |
+| Fundamentos de conectividad | Esquema de direccionamiento, topología básica, configuración y pruebas | PS | Verificar que el estudiante comprende y documenta conectividad básica. |
+| Diseño preliminar | Diseño de red, planificación de seguridad y diseño de centro de datos | PI | Integrar requerimientos, topología, seguridad y arquitectura de infraestructura en un documento consolidado. |
+| Implementación técnica | Configuración de red, controles de seguridad, servicios y almacenamiento | PS o PI | Comprobar que la infraestructura puede implementarse o simularse con criterios técnicos. |
+| Testing, monitoreo y operación | Pruebas, KPIs, monitoreo, SLA, respaldo y procedimientos operativos | PI | Validar rendimiento, disponibilidad, seguridad y operación de la solución. |
+| Cierre | Solución integral de infraestructura tecnológica | EPE | Verificar la integración final de CE031, CE032 y CE033 en una solución funcional, segura, documentada y defendible. |
 
-Evidencias esperadas:
+### Sentido de la ruta
 
-- Diagramas de red.
-- Tabla de direccionamiento.
-- Capturas de pruebas.
-- Configuraciones exportadas.
+Durante la carrera, el estudiante pasa de diseñar conectividad básica a integrar red, seguridad y servicios de infraestructura. Los PS permiten comprobar capacidades técnicas puntuales; los PI permiten consolidar infraestructura completa mediante productos integrados de diseño e implementación.
 
-Meta de la etapa:
-
-El estudiante demuestra que puede diseñar y validar conectividad básica con documentación técnica clara.
-
-### Etapa 2: Redes organizacionales y seguridad inicial
-
-En la segunda etapa, el estudiante debe diseñar redes más estructuradas, aplicar segmentación y reconocer riesgos de seguridad.
-
-Debe construir:
-
-- Diseño de red organizacional.
-- Segmentación mediante VLAN, subredes o DMZ.
-- Controles de acceso básicos.
-- Inventario de activos.
-- Matriz inicial de riesgos.
-
-Evidencias esperadas:
-
-- Topología lógica y física.
-- Esquema de segmentación.
-- Políticas de acceso.
-- Pruebas de conectividad y aislamiento.
-
-Meta de la etapa:
-
-El estudiante demuestra que puede organizar una red con criterios de rendimiento, seguridad y disponibilidad.
-
-### Etapa 3: Servicios de infraestructura
-
-En la tercera etapa, el estudiante debe integrar servicios, servidores, almacenamiento, virtualización y respaldo.
-
-Debe construir:
-
-- Servicios de infraestructura.
-- Servidores físicos, virtuales o cloud.
-- Almacenamiento y respaldo.
-- Monitoreo básico.
-- Procedimientos operativos.
-
-Evidencias esperadas:
-
-- Configuración de servicios.
-- Evidencias de operación.
-- Políticas de respaldo.
-- Métricas de disponibilidad.
-- Documentación técnica.
-
-Meta de la etapa:
-
-El estudiante demuestra que puede sostener servicios tecnológicos confiables y operables.
-
-### Etapa 4: Infraestructura integrada y sustentación
-
-En la etapa final, el estudiante debe integrar conectividad, seguridad y servicios en una solución verificable.
-
-Debe construir:
-
-- Diseño integral de infraestructura.
-- Implementación o simulación funcional.
-- Controles de seguridad.
-- Pruebas de rendimiento y disponibilidad.
-- Monitoreo y registro de eventos.
-- Plan de continuidad.
-- Sustentación técnica.
-
-Evidencias esperadas:
-
-- Dossier final de infraestructura.
-- Configuraciones y diagramas.
-- Evidencias de testing.
-- Indicadores de operación.
-- Informe de riesgos y controles.
-
-Meta de la etapa:
-
-El estudiante demuestra que puede diseñar, implementar, validar, operar y defender una solución de infraestructura tecnológica.
+La ruta culmina en la EPE. En ese momento no se recalifican todos los productos previos, sino la capacidad del estudiante para integrar lo aprendido en una solución final de infraestructura que evidencie el logro de la competencia de especialidad.
 
 ## 6. Producto integrador de la línea
 
@@ -318,4 +244,3 @@ La línea de Infraestructura busca que el estudiante deje de ver redes, servidor
 El cierre de la línea se verifica mediante la evaluación del perfil de egreso. En este momento no se evalúa toda la acumulación de evidencias progresivas, sino la capacidad del estudiante para integrar CE031, CE032 y CE033 en una solución final funcional, validada, documentada, segura y defendible.
 
 La evaluación específica se desarrolla en [Evaluación del perfil de egreso](evaluacion-perfil-egreso.md).
-

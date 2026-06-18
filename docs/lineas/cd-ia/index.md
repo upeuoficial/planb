@@ -107,101 +107,30 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 - Visualización de resultados.
 - Interpretación y recomendaciones.
 
-## 5. Construcción progresiva durante la carrera
+## 5. Ruta de construcción y evaluación durante la carrera
 
-### Etapa 1: Lectura del problema y datos iniciales
+La construcción de competencias en la línea de Ciencia de Datos e IA se organiza mediante evidencias progresivas que pueden verificarse con Proyecto Sello (PS), Proyecto Integrador (PI) y Evaluación del Perfil de Egreso (EPE).
 
-En los primeros momentos, el estudiante debe aprender a convertir una necesidad en una pregunta analítica viable.
+- PS: evidencia focalizada para demostrar una capacidad específica de análisis, preparación, modelado, evaluación o comunicación de datos.
+- PI: evidencia integradora que articula problema, datos, pipeline, experimentación, evaluación y comunicación en una solución analítica.
+- EPE: evaluación final del perfil de egreso, orientada a verificar la integración de CE04 mediante una solución basada en datos o IA.
 
-Debe construir:
+La ruta no reemplaza los niveles de logro. Los niveles de logro indican el grado de dominio alcanzado; la ruta muestra cómo se construyen y verifican las evidencias durante la carrera.
 
-- Descripción del contexto.
-- Pregunta analítica.
-- Identificación de fuentes de datos.
-- Dataset inicial.
-- Variables y supuestos.
+| Momento de la ruta | Evidencia principal | Hito de evaluación | Propósito en la línea |
+| --- | --- | --- | --- |
+| Problema y datos iniciales | Problema analítico, fuentes de datos, dataset inicial, variables e hipótesis | PS | Formular una necesidad como problema analítico viable y sustentado en datos. |
+| Dataset y pipeline | Dataset analítico, transformaciones, feature engineering y pipeline reproducible | PS o PI | Preparar datos confiables, trazables y listos para análisis, modelado o visualización. |
+| Construcción y experimentación | Dataset construido, limpieza, modelos, notebooks y bitácora de experimentos | PI | Ejecutar experimentos o análisis con trazabilidad técnica y comparación de enfoques. |
+| Evaluación y mejora | Métricas, análisis de errores, sesgos, monitoreo y estrategia de reentrenamiento | PI | Interpretar desempeño, reconocer límites y proponer mejora o monitoreo. |
+| Comunicación y uso | Visualizaciones, storytelling, interpretación y recomendaciones | PS o PI | Traducir resultados técnicos en decisiones comprensibles y accionables. |
+| Cierre | Solución final basada en datos o IA | EPE | Verificar la integración final de problema, datos, pipeline, experimentación, evaluación, comunicación y mejora. |
 
-Evidencias esperadas:
+### Sentido de la ruta
 
-- Ficha del problema.
-- Inventario de fuentes.
-- Diccionario inicial de datos.
-- Hipótesis de trabajo.
+Durante la carrera, el estudiante pasa de formular problemas de datos a construir soluciones analíticas o inteligentes que puedan explicarse, evaluarse y mejorarse. Los PS permiten comprobar capacidades específicas; los PI permiten articular el flujo completo de una solución basada en datos.
 
-Meta de la etapa:
-
-El estudiante demuestra que puede formular un problema de datos con sentido organizacional y viabilidad técnica.
-
-### Etapa 2: Preparación y pipeline
-
-En la segunda etapa, el estudiante debe preparar datos de manera ordenada, trazable y reproducible.
-
-Debe construir:
-
-- Dataset analítico diseñado.
-- Limpieza y transformación de datos.
-- Feature engineering.
-- Pipeline de preparación.
-- Estrategia analítica.
-
-Evidencias esperadas:
-
-- Scripts o notebooks reproducibles.
-- Registro de transformaciones.
-- Dataset versionado.
-- Justificación del enfoque analítico.
-
-Meta de la etapa:
-
-El estudiante demuestra que puede preparar datos confiables y listos para análisis, modelado o visualización.
-
-### Etapa 3: Modelado y experimentación
-
-En la tercera etapa, el estudiante debe ejecutar experimentos, entrenar modelos o aplicar técnicas analíticas con registro técnico.
-
-Debe construir:
-
-- Experimentos documentados.
-- Modelos entrenados o análisis ejecutados.
-- Comparación de enfoques.
-- Registro de parámetros y resultados.
-- Código reproducible.
-
-Evidencias esperadas:
-
-- Notebooks o scripts.
-- Bitácora de experimentos.
-- Métricas preliminares.
-- Análisis de errores.
-
-Meta de la etapa:
-
-El estudiante demuestra que puede experimentar con datos y justificar decisiones metodológicas.
-
-### Etapa 4: Evaluación, comunicación y uso
-
-En la etapa final, el estudiante debe evaluar resultados, comunicar hallazgos y proponer uso responsable de la solución.
-
-Debe construir:
-
-- Evaluación final del modelo o solución.
-- Métricas interpretadas.
-- Visualizaciones o tablero.
-- Recomendaciones.
-- Estrategia de monitoreo o mejora.
-- Sustentación técnica.
-
-Evidencias esperadas:
-
-- Informe final analítico.
-- Visualizaciones o dashboard.
-- Comparación de resultados.
-- Consideraciones éticas y limitaciones.
-- Plan de mejora o reentrenamiento.
-
-Meta de la etapa:
-
-El estudiante demuestra que puede convertir datos en una solución útil, explicable y defendible.
+La ruta culmina en la EPE. En ese momento no se recalifican todos los productos previos, sino la capacidad del estudiante para integrar lo aprendido en una solución final basada en datos o IA que evidencie el logro de la competencia de especialidad.
 
 ## 6. Producto integrador de la línea
 

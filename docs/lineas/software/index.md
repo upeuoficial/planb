@@ -99,111 +99,40 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 - CE0243: Gestión técnica y aseguramiento de calidad.
 - CE0244: Auditoría técnica y evolución del sistema.
 
-## 5. Construcción progresiva durante la carrera
+## 5. Ruta de construcción y evaluación durante la carrera
 
-### Etapa 1: Fundamentos de construcción
+La construcción de competencias en la línea de Software se organiza por ciclos y se verifica mediante tres tipos de hitos: Proyecto Sello (PS), Proyecto Integrador (PI) y Evaluación del Perfil de Egreso (EPE).
 
-En los primeros ciclos, el estudiante debe aprender a expresar soluciones con algoritmos, estructuras de datos y programas pequeños pero correctos.
+- PS: evidencia focalizada de un curso o ciclo, orientada a demostrar una competencia técnica específica.
+- PI: evidencia integradora entre cursos del mismo ciclo, orientada a articular requerimientos, datos, programación, diseño y calidad.
+- EPE: evaluación final del perfil de egreso, orientada a verificar la integración de las competencias de la línea en un producto final defendible.
 
-Debe construir:
+La ruta no reemplaza los niveles de logro. Los niveles de logro indican el grado de dominio alcanzado; la ruta muestra cómo se construyen y verifican las evidencias durante la carrera.
 
-- Programas de consola que resuelvan problemas concretos.
-- Algoritmos documentados con entradas, procesos y salidas.
-- Pequeñas aplicaciones con validación de datos.
-- Ejercicios usando arreglos, listas, archivos y funciones.
-- Primer repositorio personal con control de versiones.
+| Ciclo | Curso o cursos | Hito de evaluación | Propósito en la línea |
+| --- | --- | --- | --- |
+| C1 | Fundamentos de Programación (FP) | Compendio de ejercicios | Desarrollar pensamiento algorítmico mediante ejercicios progresivos al estilo matemático. |
+| C2 | Programación Orientada a Objetos (POO) | Proyecto Sello (PS) | Construir una aplicación orientada a objetos con estructura, clases, responsabilidades y persistencia inicial. |
+| C3 | Ingeniería de Requerimientos (REQ), Base de Datos I (BD1) y Lenguaje de Programación I (LP1) | Proyecto Integrador (PI) | Integrar requerimientos, modelo de datos e implementación web o de sistema de información inicial. |
+| C4 | Análisis y Diseño de Sistemas (ADS), Base de Datos II (BD2) y Lenguaje de Programación II (LP2) | Proyecto Integrador (PI) | Evolucionar el sistema con diseño arquitectónico, base de datos avanzada, backend, frontend y despliegue. |
+| C5 | Sistemas Distribuidos (DIST) | Proyecto Sello (PS) | Construir servicios distribuidos, integración de APIs, interoperabilidad, resiliencia y escalabilidad. |
+| C6 | Desarrollo de Aplicaciones Móviles (MOV) e Ingeniería de Software I (IS1) | Proyecto Sello (PS) | Construir una aplicación móvil integrada con servicios digitales y aplicar prácticas iniciales de calidad. |
+| C7 | Proyecto de Desarrollo de Software (PDS) e Ingeniería de Software II (IS2) | Proyecto Sello (PS) | Consolidar un producto de software con gestión técnica, aseguramiento de calidad, evolución y defensa. |
+| Cierre | Línea de Software | Evaluación del Perfil de Egreso (EPE) | Verificar la integración final de CE021, CE022, CE023 y CE024 en un producto funcional, documentado, probado, desplegable y defendible. |
 
-Evidencias esperadas:
+### Referencias de ruta por ciclo
 
-- Código organizado y comentado cuando sea necesario.
-- Explicación del problema resuelto.
-- Casos de prueba básicos.
-- Historial de versiones.
+- C1 FP: <https://recursosdecursos.github.io/fp2026/>
+- C2 POO: <https://262poo.github.io/comarket/>
+- C3 REQ + BD1 + LP1: <https://262ciclo3.github.io/bomstart/>
+- C4 ADS + BD2 + LP2: <https://262ciclo4.github.io/bomerp/>
+- C5 DIST: <https://261dist.github.io/ecom/>
 
-Meta de la etapa:
+### Sentido de la ruta
 
-El estudiante demuestra que puede pasar de un problema simple a un programa correcto, comprensible y verificable.
+Durante los primeros ciclos, el estudiante construye fundamentos de programación y productos focalizados mediante PS. En los ciclos intermedios, los PI permiten integrar cursos que naturalmente producen un sistema más completo. En los ciclos finales, los PS consolidan capacidades especializadas como servicios distribuidos, aplicaciones móviles, calidad, gestión técnica y evolución del producto.
 
-### Etapa 2: Aplicaciones con datos e interfaz
-
-En la segunda etapa, el estudiante debe construir aplicaciones que manejen información persistente y sean utilizables por una persona.
-
-Debe construir:
-
-- Aplicación CRUD con base de datos.
-- Interfaz gráfica o web sencilla.
-- Modelo de datos relacional o documental.
-- Validaciones de entrada y reglas de negocio.
-- Reportes básicos o consultas filtradas.
-- Manual breve de instalación y uso.
-
-Evidencias esperadas:
-
-- Diagrama de base de datos.
-- Historias de usuario o requerimientos funcionales.
-- Capturas o demostración funcional.
-- Repositorio con estructura clara.
-- Pruebas de operaciones principales.
-
-Meta de la etapa:
-
-El estudiante demuestra que puede construir una aplicación completa de pequeña escala, conectada a datos y orientada a usuarios.
-
-### Etapa 3: Sistemas web y arquitectura
-
-En la tercera etapa, el estudiante debe pasar de aplicaciones aisladas a sistemas organizados por capas, servicios o componentes.
-
-Debe construir:
-
-- Aplicación web con frontend, backend y base de datos.
-- API documentada.
-- Autenticación y roles básicos.
-- Separación entre lógica de negocio, persistencia e interfaz.
-- Manejo de errores y estados de la aplicación.
-- Pruebas unitarias y de integración.
-- Despliegue en un servidor o plataforma cloud.
-
-Evidencias esperadas:
-
-- Documento de arquitectura.
-- Diagrama de componentes.
-- Documentación de API.
-- Pipeline básico o instrucciones reproducibles de despliegue.
-- Registro de issues, mejoras y correcciones.
-
-Meta de la etapa:
-
-El estudiante demuestra que puede construir un sistema web mantenible, desplegable y organizado con criterios de arquitectura.
-
-### Etapa 4: Producto de software con valor real
-
-En la etapa final, el estudiante debe construir o evolucionar un producto que responda a un problema real, tenga usuarios definidos y pueda sostenerse técnicamente.
-
-Debe construir:
-
-- Producto mínimo viable funcional.
-- Módulos principales completos.
-- Gestión de usuarios, permisos y seguridad básica.
-- Pruebas automatizadas en flujos críticos.
-- Monitoreo o registro de errores.
-- Documentación técnica y de usuario.
-- Plan de mantenimiento y evolución.
-- Presentación ejecutiva y defensa técnica.
-
-Evidencias esperadas:
-
-- Repositorio profesional.
-- Versión desplegada.
-- Backlog del producto.
-- Historias de usuario priorizadas.
-- Justificación de arquitectura.
-- Pruebas y resultados.
-- Manual de usuario.
-- Informe final del producto.
-
-Meta de la etapa:
-
-El estudiante demuestra que puede entregar una solución de software usable, defendible, mantenible y alineada con una necesidad real.
+La ruta culmina en la EPE. En ese momento no se recalifican todos los productos previos, sino la capacidad del estudiante para integrar lo aprendido en una solución final que evidencie el logro de la competencia de especialidad.
 
 ## 6. Producto integrador de la línea
 
@@ -287,5 +216,4 @@ La línea de Software busca que el estudiante deje de ver la programación como 
 El cierre de la línea se verifica mediante la evaluación del perfil de egreso. En este momento no se evalúa toda la acumulación de evidencias progresivas, sino la capacidad del estudiante para integrar las competencias CE021, CE022, CE023 y CE024 en una solución final funcional, documentada, probada, desplegable y defendible.
 
 La evaluación específica se desarrolla en [Evaluación del perfil de egreso](evaluacion-perfil-egreso.md).
-
 
