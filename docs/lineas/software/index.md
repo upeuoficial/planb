@@ -55,11 +55,7 @@ Asegura y mejora la calidad. Gestiona y asegura la calidad del producto y del pr
 
 Cursos asociados: IS1, PDS, IS2.
 
-Estas competencias ordenan las evidencias que el estudiante debe construir durante la carrera. Cada evidencia representa un artefacto verificable: un documento, prototipo, modelo, sistema, base de datos, pipeline, suite de pruebas o producto técnico que puede ser revisado, sustentado y mejorado.
-
-El detalle de artefactos por evidencia se desarrolla en [Evidencias por competencia](evidencias.md).
-
-La evaluación final de estas competencias para el perfil de egreso se desarrolla en [Evaluación del perfil de egreso](evaluacion-perfil-egreso.md).
+Las evidencias y la evaluación de cierre se presentan en las secciones siguientes como mapa general y se desarrollan en páginas específicas.
 
 ## 4. Mapa de evidencias
 
