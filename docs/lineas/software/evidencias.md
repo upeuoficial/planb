@@ -1,6 +1,6 @@
-﻿# Artefactos de evidencia de la línea de Software
+# Evidencias por competencia de la línea de Software
 
-Este documento registra las competencias, evidencias y artefactos verificables de la línea de Software. Sirve como base para construir rúbricas, guías de entrega y fichas detalladas por evidencia.
+Este documento registra las competencias, evidencias y artefactos verificables de la línea de Software. Sirve como base para construir guías de entrega, revisión y sustentación.
 
 ## CE02: Ingeniería de Software
 
@@ -16,7 +16,11 @@ Cursos asociados: IR, ADS.
 
 ### CE0211: Especificación de requerimientos validada
 
-Artefactos:
+Propósito:
+
+Definir, organizar y validar las necesidades funcionales y no funcionales del sistema, asegurando que el problema, los usuarios, las reglas de negocio y los criterios de aceptación estén claramente comprendidos.
+
+Artefactos de la evidencia:
 
 - Documento de requerimientos.
 - Historias de usuario o casos de uso.
@@ -25,7 +29,11 @@ Artefactos:
 
 ### CE0212: Prototipo navegable validado
 
-Artefactos:
+Propósito:
+
+Representar la experiencia esperada del usuario y validar tempranamente la navegación, las pantallas principales y los flujos funcionales antes de la construcción del sistema.
+
+Artefactos de la evidencia:
 
 - Prototipo de baja o alta fidelidad.
 - Flujo de navegación.
@@ -33,7 +41,11 @@ Artefactos:
 
 ### CE0213: Diseño arquitectónico del sistema
 
-Artefactos:
+Propósito:
+
+Definir la estructura principal del sistema, sus componentes, responsabilidades, relaciones, despliegue y decisiones técnicas, asegurando coherencia con los requerimientos y restricciones del contexto.
+
+Artefactos de la evidencia:
 
 - Documento de arquitectura.
 - Diagramas de componentes.
@@ -42,7 +54,11 @@ Artefactos:
 
 ### CE0214: Diseño detallado del sistema
 
-Artefactos:
+Propósito:
+
+Especificar el comportamiento interno del sistema, sus clases, módulos, secuencias, estados y reglas de interacción, de manera que la implementación pueda realizarse con claridad técnica.
+
+Artefactos de la evidencia:
 
 - Diagramas UML.
 - Diagramas de secuencia.
@@ -57,7 +73,11 @@ Cursos asociados: BD1, BD2.
 
 ### CE0221: Modelo de datos relacional documentado y validado
 
-Artefactos:
+Propósito:
+
+Diseñar la estructura lógica de los datos del sistema, asegurando consistencia, normalización, claridad semántica y alineación con los requerimientos de información.
+
+Artefactos de la evidencia:
 
 - Modelo ER.
 - Modelo lógico.
@@ -66,7 +86,11 @@ Artefactos:
 
 ### CE0222: Base de datos relacional implementada y consultable
 
-Artefactos:
+Propósito:
+
+Implementar la base de datos del sistema y demostrar que puede almacenar, consultar y recuperar información de manera correcta mediante estructuras y consultas SQL verificables.
+
+Artefactos de la evidencia:
 
 - Scripts DDL.
 - Scripts DML.
@@ -75,7 +99,11 @@ Artefactos:
 
 ### CE0223: Motor transaccional programado y optimizado
 
-Artefactos:
+Propósito:
+
+Automatizar operaciones de datos y reglas transaccionales mediante programación en base de datos, considerando rendimiento, integridad y eficiencia operativa.
+
+Artefactos de la evidencia:
 
 - Procedimientos almacenados.
 - Funciones.
@@ -85,7 +113,11 @@ Artefactos:
 
 ### CE0224: Base de datos empresarial administrada, asegurada y operativa
 
-Artefactos:
+Propósito:
+
+Administrar la base de datos con criterios de seguridad, respaldo, recuperación, monitoreo y operación, asegurando disponibilidad y protección de la información.
+
+Artefactos de la evidencia:
 
 - Configuración de usuarios y roles.
 - Auditoría implementada.
@@ -101,7 +133,11 @@ Cursos asociados: FP, POO, LP1, LP2, DIST, MOV.
 
 ### CE0231: Aplicación desktop funcional con persistencia de datos
 
-Artefactos:
+Propósito:
+
+Construir una aplicación de escritorio funcional que implemente reglas de negocio, interacción con el usuario y persistencia de datos de manera verificable.
+
+Artefactos de la evidencia:
 
 - Repositorio fuente.
 - Ejecutable desktop.
@@ -110,7 +146,11 @@ Artefactos:
 
 ### CE0232: Sistema de información web integrado con base de datos
 
-Artefactos:
+Propósito:
+
+Construir un sistema web funcional que integre interfaz, lógica de negocio y base de datos, permitiendo gestionar información mediante flujos operativos completos.
+
+Artefactos de la evidencia:
 
 - Repositorio web.
 - Base de datos integrada.
@@ -119,7 +159,11 @@ Artefactos:
 
 ### CE0233: Aplicación empresarial full-stack desplegable
 
-Artefactos:
+Propósito:
+
+Construir una solución full-stack organizada en frontend, backend y API, preparada para despliegue y operación en un entorno verificable.
+
+Artefactos de la evidencia:
 
 - Frontend.
 - Backend.
@@ -128,7 +172,11 @@ Artefactos:
 
 ### CE0234: Sistema distribuido escalable basado en servicios interoperables
 
-Artefactos:
+Propósito:
+
+Diseñar e implementar una solución basada en servicios interoperables, considerando integración, comunicación entre componentes, resiliencia y criterios de escalabilidad.
+
+Artefactos de la evidencia:
 
 - Servicios distribuidos.
 - APIs interoperables.
@@ -137,7 +185,11 @@ Artefactos:
 
 ### CE0235: Aplicación móvil integrada con servicios digitales
 
-Artefactos:
+Propósito:
+
+Construir una aplicación móvil funcional que se integre con servicios digitales o backend, demostrando operación, intercambio de datos y despliegue o publicación verificable.
+
+Artefactos de la evidencia:
 
 - Aplicación móvil funcional.
 - Integración con backend.
@@ -152,7 +204,11 @@ Cursos asociados: IS1, PDS, IS2.
 
 ### CE0241: Suite de pruebas automatizadas
 
-Artefactos:
+Propósito:
+
+Verificar el comportamiento del sistema mediante pruebas automatizadas que cubran funciones, componentes o flujos críticos, generando evidencia objetiva de calidad.
+
+Artefactos de la evidencia:
 
 - Casos de prueba automatizados.
 - Reporte de ejecución.
@@ -160,7 +216,11 @@ Artefactos:
 
 ### CE0242: Pipeline de integración y despliegue continuo
 
-Artefactos:
+Propósito:
+
+Automatizar la integración, validación y despliegue del sistema para mejorar la confiabilidad del proceso de desarrollo y reducir errores en la entrega.
+
+Artefactos de la evidencia:
 
 - Pipeline CI/CD.
 - Configuración de automatización.
@@ -168,7 +228,11 @@ Artefactos:
 
 ### CE0243: Gestión técnica y aseguramiento de calidad
 
-Artefactos:
+Propósito:
+
+Gestionar la calidad técnica del proyecto mediante control de incidencias, revisión de código, métricas y seguimiento de deuda técnica.
+
+Artefactos de la evidencia:
 
 - Registro de incidencias.
 - Revisiones de código.
@@ -177,11 +241,13 @@ Artefactos:
 
 ### CE0244: Auditoría técnica y evolución del sistema
 
-Artefactos:
+Propósito:
+
+Evaluar técnicamente el sistema para identificar riesgos, limitaciones y oportunidades de mejora, proponiendo acciones de evolución sostenibles.
+
+Artefactos de la evidencia:
 
 - Informe de auditoría.
 - Métricas de rendimiento.
 - Métricas de seguridad.
 - Plan de mejora y evolución.
-
-
