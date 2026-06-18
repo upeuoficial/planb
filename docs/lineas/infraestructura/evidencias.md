@@ -1,8 +1,8 @@
-# Entregables integradores de Infraestructura
+# Evidencias integradoras de Infraestructura
 
 ## Criterio de rediseño
 
-Estos entregables toman como insumo operativo el proyecto de fin de carrera usado con futuros egresados. No incorporan sus rúbricas como oficiales. Para este libro, la base institucional son las competencias oficiales de la línea:
+Estas evidencias toman como insumo operativo el proyecto de fin de carrera usado con futuros egresados. No incorporan sus rúbricas como oficiales. Para este libro, la base institucional son las competencias oficiales de la línea:
 
 - `CE03`: Infraestructura Tecnológica.
 - `CE031`: Conectividad.
@@ -15,7 +15,7 @@ La evaluación de cierre debe centrarse en una evidencia final integradora de in
 
 El estudiante desarrolla un proyecto de infraestructura tecnológica que responda a una necesidad organizacional. El proyecto debe diseñar, implementar, validar y documentar una solución que integre conectividad, seguridad, servicios de infraestructura, monitoreo, disponibilidad y operación.
 
-## Entregable 1: Diseño de red
+## Evidencia 1: Diseño de red
 
 Competencia asociada: `CE031: Conectividad`.
 
@@ -23,7 +23,7 @@ Propósito:
 
 Demostrar que el estudiante puede levantar requerimientos técnicos y de negocio, diseñar una topología lógica y física, aplicar segmentación y proponer mecanismos de redundancia y alta disponibilidad.
 
-Artefactos esperados:
+Artefactos de la evidencia:
 
 - Levantamiento de requerimientos técnicos y de negocio.
 - Diseño de topología lógica y física.
@@ -40,7 +40,7 @@ Contenido mínimo:
 - Redundancia: enlaces, rutas, equipos o servicios críticos.
 - Cumplimiento de estándares aplicables, como TIA/EIA, IEEE 802.x o ISO/IEC 11801.
 
-## Entregable 2: Planificación de seguridad
+## Evidencia 2: Planificación de seguridad
 
 Competencia asociada: `CE032: Gestión de la Seguridad de la Información`.
 
@@ -48,7 +48,7 @@ Propósito:
 
 Demostrar que el estudiante puede identificar activos críticos, analizar riesgos, definir políticas de seguridad y establecer roles y responsabilidades.
 
-Artefactos esperados:
+Artefactos de la evidencia:
 
 - Inventario y clasificación de activos críticos.
 - Matriz de riesgos.
@@ -64,7 +64,7 @@ Contenido mínimo:
 - Políticas de seguridad para accesos, datos, dispositivos, continuidad y operación.
 - Matriz RACI u organigrama de responsabilidades.
 
-## Entregable 3: Diseño de centro de datos
+## Evidencia 3: Diseño de centro de datos
 
 Competencia asociada: `CE033: Implementación de Centro de Datos`.
 
@@ -72,7 +72,7 @@ Propósito:
 
 Demostrar que el estudiante puede diseñar una arquitectura de centro de datos o plataforma equivalente, dimensionar capacidades y proponer virtualización, almacenamiento o nube híbrida según el contexto.
 
-Artefactos esperados:
+Artefactos de la evidencia:
 
 - Definición de arquitectura.
 - Diseño de layout físico o lógico.
@@ -88,7 +88,7 @@ Contenido mínimo:
 - Esquema de virtualización, cloud híbrido o plataforma equivalente.
 - Consideraciones de disponibilidad, crecimiento y operación.
 
-## Entregable 4: Implementación y testing de red
+## Evidencia 4: Implementación y testing de red
 
 Competencia asociada: `CE031: Conectividad`.
 
@@ -96,7 +96,7 @@ Propósito:
 
 Demostrar que el estudiante puede implementar, probar y monitorear la infraestructura de red diseñada.
 
-Artefactos esperados:
+Artefactos de la evidencia:
 
 - Configuración de dispositivos.
 - Esquema de direccionamiento IP.
@@ -113,7 +113,7 @@ Contenido mínimo:
 - Pruebas de conectividad, latencia, pérdida de paquetes y throughput.
 - Evidencias de monitoreo, logs e incidencias corregidas.
 
-## Entregable 5: Implementación, monitoreo y ética de seguridad
+## Evidencia 5: Implementación, monitoreo y ética de seguridad
 
 Competencia asociada: `CE032: Gestión de la Seguridad de la Información`.
 
@@ -121,7 +121,7 @@ Propósito:
 
 Demostrar que el estudiante puede implementar controles técnicos, gestionar continuidad, monitorear riesgos y considerar implicancias éticas, legales y sociales.
 
-Artefactos esperados:
+Artefactos de la evidencia:
 
 - Controles técnicos implementados.
 - Gestión de parches y actualizaciones.
@@ -139,7 +139,7 @@ Contenido mínimo:
 - Monitoreo, registro, auditoría y evaluación de vulnerabilidades.
 - Análisis de confidencialidad, protección de datos e impacto social o legal.
 
-## Entregable 6: Implementación y control de centro de datos
+## Evidencia 6: Implementación y control de centro de datos
 
 Competencia asociada: `CE033: Implementación de Centro de Datos`.
 
@@ -147,7 +147,7 @@ Propósito:
 
 Demostrar que el estudiante puede implementar y operar servicios de infraestructura, almacenamiento, respaldo, monitoreo y disponibilidad.
 
-Artefactos esperados:
+Artefactos de la evidencia:
 
 - Configuración de servidores físicos o virtuales.
 - Servicios de infraestructura implementados.

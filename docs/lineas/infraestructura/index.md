@@ -18,11 +18,21 @@ Planifica e implementa controles de seguridad basados en estándares internacion
 
 Diseña y despliega servicios de infraestructura y centro de datos, integrando virtualización, almacenamiento, alta disponibilidad y monitoreo, garantizando soporte tecnológico confiable para los objetivos estratégicos de la organización.
 
+## Mapa de evidencias
+
+Las evidencias de la línea permiten comprobar que el estudiante puede diseñar, implementar, validar y operar infraestructura tecnológica. En esta página se presenta una vista de conjunto; el detalle se desarrolla en [Evidencias integradoras](evidencias.md).
+
+| Competencia | Foco de evidencia | Cantidad |
+| --- | --- | ---: |
+| CE031: Conectividad | Diseño, implementación, pruebas y monitoreo de red. | 2 |
+| CE032: Gestión de la Seguridad de la Información | Planificación, controles, monitoreo, continuidad y ética de seguridad. | 2 |
+| CE033: Implementación de Centro de Datos | Diseño, implementación, operación, disponibilidad y eficiencia. | 2 |
+
 ## Cierre de la línea
 
 El cierre de esta línea debe verificarse mediante una evidencia final integradora de infraestructura: red, plataforma, servicio, entorno de seguridad o centro de datos que pueda ser diseñado, implementado, validado, documentado y sustentado técnicamente.
 
-Los entregables integradores de cierre se desarrollan en [Entregables integradores](entregables.md).
+Las evidencias integradoras de cierre se desarrollan en [Evidencias integradoras](evidencias.md).
 
 ## Vista estructural
 

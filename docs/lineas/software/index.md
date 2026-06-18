@@ -22,14 +22,14 @@ Gestiona y desarrolla software de manera eficiente y efectiva, basándose en est
 
 Rol asociado: Software Engineer.
 
-La competencia CE02 se despliega en cuatro competencias específicas:
+La competencia CE02 se despliega en cuatro competencias específicas. La siguiente tabla funciona como mapa de orientación; la definición completa de cada competencia se desarrolla debajo.
 
-| Competencia específica | Detalle | Rol asociado |
+| Competencia específica | Aporte en la línea | Rol asociado |
 | --- | --- | --- |
-| CE021: Ingeniería de Requerimientos | Define, analiza, valida y documenta requerimientos del sistema; diseña la arquitectura y realiza el modelado funcional y estructural. | Ingeniero de Requerimientos, Analista Funcional o Arquitecto de Software |
-| CE022: Ingeniería de la Información | Modela, implementa, asegura y administra bases de datos para soportar los requerimientos de información del sistema. | DBA o Ingeniero de Datos orientado a bases de datos |
-| CE023: Programación | Construye soluciones de software mediante la implementación de componentes, servicios e interfaces funcionales integradas. | Desarrollador Móvil o Desarrollador de Software |
-| CE024: Calidad de Software | Evalúa la calidad del software, valida su funcionamiento, automatiza procesos de verificación y define acciones de mejora y evolución. | QA Engineer o DevOps Engineer |
+| CE021: Ingeniería de Requerimientos | Define y diseña el sistema. | Ingeniero de Requerimientos, Analista Funcional o Arquitecto de Software |
+| CE022: Ingeniería de la Información | Gestiona los datos del sistema. | DBA o Ingeniero de Datos orientado a bases de datos |
+| CE023: Programación | Construye e integra el software. | Desarrollador Móvil o Desarrollador de Software |
+| CE024: Calidad de Software | Asegura y mejora la calidad. | QA Engineer o DevOps Engineer |
 
 ### CE021: Ingeniería de Requerimientos
 
@@ -61,36 +61,16 @@ El detalle de artefactos por evidencia se desarrolla en [Evidencias por competen
 
 La evaluación final de estas competencias para el perfil de egreso se desarrolla en [Evaluación del perfil de egreso](evaluacion-perfil-egreso.md).
 
-## 4. Evidencias por competencia
+## 4. Mapa de evidencias
 
-### CE021: Ingeniería de Requerimientos
+Las evidencias de la línea permiten comprobar que el estudiante no solo conoce conceptos, sino que produce artefactos técnicos verificables. En esta página se presenta una vista de conjunto; el detalle de cada evidencia, con sus artefactos esperados, se desarrolla en [Evidencias por competencia](evidencias.md).
 
-- CE0211: Especificación de requerimientos validada.
-- CE0212: Prototipo navegable validado.
-- CE0213: Diseño arquitectónico del sistema.
-- CE0214: Diseño detallado del sistema.
-
-### CE022: Ingeniería de la Información
-
-- CE0221: Modelo de datos relacional documentado y validado.
-- CE0222: Base de datos relacional implementada y consultable.
-- CE0223: Motor transaccional programado y optimizado.
-- CE0224: Base de datos empresarial administrada, asegurada y operativa.
-
-### CE023: Programación
-
-- CE0231: Aplicación desktop funcional con persistencia de datos.
-- CE0232: Sistema de información web integrado con base de datos.
-- CE0233: Aplicación empresarial full-stack desplegable.
-- CE0234: Sistema distribuido escalable basado en servicios interoperables.
-- CE0235: Aplicación móvil integrada con servicios digitales.
-
-### CE024: Calidad de Software
-
-- CE0241: Suite de pruebas automatizadas.
-- CE0242: Pipeline de integración y despliegue continuo.
-- CE0243: Gestión técnica y aseguramiento de calidad.
-- CE0244: Auditoría técnica y evolución del sistema.
+| Competencia | Foco de evidencia | Cantidad |
+| --- | --- | ---: |
+| CE021: Ingeniería de Requerimientos | Definición, validación y diseño del sistema. | 4 |
+| CE022: Ingeniería de la Información | Modelado, implementación, programación y administración de datos. | 4 |
+| CE023: Programación | Construcción de soluciones desktop, web, full-stack, distribuidas o móviles. | 5 |
+| CE024: Calidad de Software | Pruebas, CI/CD, aseguramiento técnico, auditoría y evolución. | 4 |
 
 ## 5. Construcción progresiva durante la carrera
 
@@ -277,7 +257,7 @@ Al terminar la línea, el estudiante debería poder mostrar:
 
 La línea de Software busca que el estudiante deje de ver la programación como una colección de ejercicios y empiece a verla como una práctica profesional de construcción. El resultado final no es solo código: es una solución que responde a una necesidad, puede ser usada por personas, puede mantenerse en el tiempo y puede ser explicada con claridad.
 
-El cierre de la línea se verifica mediante la evaluación del perfil de egreso. En este momento no se evalúa toda la acumulación de entregables progresivos, sino la capacidad del estudiante para integrar las competencias CE021, CE022, CE023 y CE024 en una solución final funcional, documentada, probada, desplegable y defendible.
+El cierre de la línea se verifica mediante la evaluación del perfil de egreso. En este momento no se evalúa toda la acumulación de evidencias progresivas, sino la capacidad del estudiante para integrar las competencias CE021, CE022, CE023 y CE024 en una solución final funcional, documentada, probada, desplegable y defendible.
 
 La evaluación específica se desarrolla en [Evaluación del perfil de egreso](evaluacion-perfil-egreso.md).
 

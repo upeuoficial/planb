@@ -4,7 +4,7 @@
 
 La evaluación del perfil de egreso en la línea de Software verifica que el estudiante integra Ingeniería de Requerimientos, Ingeniería de la Información, Programación y Calidad de Software en una solución final funcional, documentada, probada, desplegable y defendible.
 
-Esta evaluación no revisa todos los entregables progresivos de la carrera. Su foco es comprobar que, al cierre del proceso formativo, el estudiante puede articular lo aprendido en un producto con valor real y sustentación técnica profesional.
+Esta evaluación no revisa todas las evidencias progresivas de la carrera. Su foco es comprobar que, al cierre del proceso formativo, el estudiante puede articular lo aprendido en un producto con valor real y sustentación técnica profesional.
 
 La evaluación corresponde a `CE02: Ingeniería de Software`, orientada a gestionar y desarrollar software con estándares de calidad según el contexto de la organización.
 
@@ -22,7 +22,7 @@ El estudiante presenta:
 
 Los artefactos históricos pueden usarse como soporte, pero la evaluación principal recae sobre la versión final del sistema y sus evidencias consolidadas.
 
-## Entregables obligatorios
+## Evidencias obligatorias
 
 ### 1. Dossier final de requerimientos y diseño
 

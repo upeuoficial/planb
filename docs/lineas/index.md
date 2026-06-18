@@ -11,4 +11,4 @@ La carrera de Ingeniería de Sistemas se organiza en cuatro líneas de formació
 
 ## Cierre de línea
 
-Cada línea debe culminar en una evaluación del perfil de egreso. Esa evaluación no debe revisar todos los entregables progresivos de la carrera, sino una evidencia final integradora que demuestre que el estudiante puede articular competencias, productos, documentación y sustentación profesional.
+Cada línea debe culminar en una evaluación del perfil de egreso. Esa evaluación no debe revisar todas las evidencias progresivas de la carrera, sino una evidencia final integradora que demuestre que el estudiante puede articular competencias, productos, documentación y sustentación profesional.

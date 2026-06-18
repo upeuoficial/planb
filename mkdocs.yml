@@ -36,13 +36,14 @@ nav:
       - Panorama general: lineas/index.md
       - Gestión TI:
           - Visión y competencias: lineas/gestion/index.md
-          - Entregables integradores: lineas/gestion/entregables.md
+          - Evidencias integradoras: lineas/gestion/evidencias.md
       - Ingeniería de Software:
           - Visión y competencias: lineas/software/index.md
           - Evidencias por competencia: lineas/software/evidencias.md
           - Evaluación del perfil de egreso: lineas/software/evaluacion-perfil-egreso.md
       - Infraestructura:
           - Visión y competencias: lineas/infraestructura/index.md
-          - Entregables integradores: lineas/infraestructura/entregables.md
+          - Evidencias integradoras: lineas/infraestructura/evidencias.md
       - Ciencia de Datos e IA:
           - Visión y competencias: lineas/cd-ia/index.md
+          - Evidencias integradoras: lineas/cd-ia/evidencias.md
