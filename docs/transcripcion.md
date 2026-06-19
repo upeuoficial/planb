@@ -1,4 +1,14 @@
+# Portada
+
+**UPeU - Universidad Peruana Unión**
+
+**Escuela Profesional de Ingeniería de Sistemas**
+
+**Sedes:** Lima · Juliaca · Tarapoto
+
 # Proyecto Evaluación de fin de carrera
+
+**Sé Íntegro. Sé Misionero. Sé Innovador.**
 
 ## Sobre evaluación de perfil de egreso
 
