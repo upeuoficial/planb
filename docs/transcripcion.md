@@ -1,4 +1,4 @@
-# Proyecto Evaluación de fin de carrera
+# Proyecto Evaluación de fin de carrera 2026
 
 ---
 
@@ -7,10 +7,6 @@
 **Escuela Profesional de Ingeniería de Sistemas**
 
 **Sedes:** Lima · Juliaca · Tarapoto
-
-
-                  2026
-
 ---
 
 **Sé Íntegro. Sé Misionero. Sé Innovador.**
