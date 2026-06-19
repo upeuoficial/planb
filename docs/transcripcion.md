@@ -604,7 +604,7 @@ Apoya la prestación, el uso y la gestión de sistemas de información dentro de
 
 ### Resumen de evidencias por competencia
 
-#### Entregable 1: Diagnóstico y Caso de Negocio
+#### Entregable 1: Diagnóstico Organizacional y Alineamiento Estratégico
 
 **Evalúa:** CE011 - Gobierno e Innovación de TI.
 
@@ -688,7 +688,7 @@ El producto final de este semestre tiene lo siguiente:
 
 ---
 
-### ENTREGABLE 1: Diagnóstico y Caso de Negocio
+### Entregable 1. Diagnóstico Organizacional y Alineamiento Estratégico
 **(Evalúa: CE011 — Gestión e Innovación de TI)**
 
 ##### CE0111 — Diagnóstico Organizacional
@@ -802,7 +802,7 @@ Este componente fundamenta la necesidad del proyecto y garantiza su alineamiento
 | Identificación de brechas estratégicas | No identifica brechas relevantes. | Identifica brechas generales sin sustento. | Identifica brechas coherentes con objetivos organizacionales. | Identifica brechas críticas con análisis fundamentado y evidencia objetiva. |
 | Alineamiento estratégico del proyecto | No demuestra relación entre estrategia y proyecto. | Relación débil o implícita. | Justifica el proyecto en función de objetivos organizacionales. | Evidencia alineamiento claro y coherente entre estrategia, problema y propuesta TI. |
 
-### 2. Business Case del Proyecto
+### Entregable 2. Business Case del Proyecto
 
 #### Descripción del Producto
 
@@ -853,7 +853,7 @@ Incluye análisis de beneficios tangibles e intangibles, estimación de inversi�
 
 ---
 
-### 3. Plan de Gestión del Proyecto (PMBOK / Agile)
+### Entregable 3. Plan de Gestión del Proyecto (PMBOK / Agile)
 
 #### Descripción del Producto
 
@@ -911,7 +911,7 @@ Puede desarrollarse bajo enfoques predictivos (alineados a buenas prácticas del
 | Gestión de Riesgos | No identifica riesgos relevantes. | Enumera riesgos sin análisis estructurado. | Presenta matriz de riesgos con análisis básico de probabilidad e impacto. | Desarrolla matriz completa con evaluación cualitativa, priorización y plan formal de respuesta y seguimiento. |
 | Gestión Ágil (si aplica) | No aplica prácticas ágiles cuando corresponden. | Menciona prácticas ágiles sin estructura clara. | Define backlog, iteraciones y entregables incrementales. | Integra marco ágil coherente (backlog priorizado, sprints definidos, criterios de aceptación y métricas de seguimiento). |
 
-### 4. Modelado de Procesos AS-IS / TO-BE
+### Entregable 4. Modelado de Procesos AS-IS / TO-BE
 
 #### Descripción del Producto
 
@@ -953,7 +953,7 @@ Este componente evidencia la capacidad del estudiante para analizar procesos, pr
 
 ---
 
-### 5. Propuesta de Solución TIC Integrada al Ecosistema de Sistemas de Información
+### Entregable 5. Propuesta de Solución TIC Integrada al Ecosistema de Sistemas de Información
 
 #### Descripción del Producto
 

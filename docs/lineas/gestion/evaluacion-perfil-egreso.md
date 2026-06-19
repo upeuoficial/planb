@@ -22,9 +22,9 @@ El estudiante presenta:
 
 Los artefactos históricos pueden usarse como soporte, pero la evaluación principal recae sobre la versión final de la iniciativa y sus evidencias consolidadas.
 
-## Evidencias obligatorias
+## Entregables obligatorios
 
-### 1. Dossier final de diagnóstico y caso de negocio
+### Entregable 1. Diagnóstico Organizacional y Alineamiento Estratégico
 
 Propósito:
 
@@ -42,11 +42,15 @@ Debe incluir:
 - Roadmap tecnológico.
 - Matriz de riesgos estratégicos.
 
-Evidencia evaluada:
+Evidencias evaluadas:
 
-- `CE0111`: Diagnóstico y caso de negocio.
+- `CE0111`: Diagnóstico Organizacional.
+- `CE0112`: Alineamiento Estratégico.
+- `CE0113`: Caso de Negocio.
+- `CE0114`: Roadmap de Tecnología.
+- `CE0115`: Matriz de Riesgos Estratégicos.
 
-### 2. Plan final de gestión del proyecto
+### Entregable 2. Plan de Gestión del Proyecto
 
 Propósito:
 
@@ -65,11 +69,15 @@ Debe incluir:
 - Plan de comunicaciones.
 - Evidencias de enfoque predictivo, ágil o híbrido según la naturaleza del proyecto.
 
-Evidencia evaluada:
+Evidencias evaluadas:
 
-- `CE0121`: Plan de gestión integral del proyecto.
+- `CE0121`: Acta de Constitución del Proyecto.
+- `CE0122`: Plan de Gestión del Proyecto.
+- `CE0123`: Estructura de Desglose del Trabajo y Cronograma.
+- `CE0124`: Análisis Económico y Evaluación de Viabilidad.
+- `CE0125`: Plan de Gestión de Riesgos del Proyecto.
 
-### 3. Dossier de mejora de procesos
+### Entregable 3. Mejora de Procesos
 
 Propósito:
 
@@ -85,11 +93,15 @@ Debe incluir:
 - Análisis comparativo de tiempo, costo o calidad.
 - Plan de cambio organizacional.
 
-Evidencia evaluada:
+Evidencias evaluadas:
 
-- `CE0131`: Mejora de procesos.
+- `CE0131`: Identificación y Caracterización de Procesos Organizacionales.
+- `CE0132`: Modelado de Procesos AS-IS.
+- `CE0133`: Modelado de Procesos TO-BE.
+- `CE0134`: Propuesta de Automatización o Mejora de Procesos mediante TIC.
+- `CE0135`: Indicadores de Desempeño y Evaluación de Impacto del Proceso.
 
-### 4. Propuesta final de solución TIC integrada
+### Entregable 4. Solución TIC Integrada
 
 Propósito:
 
@@ -108,11 +120,15 @@ Debe incluir:
 - Plan de operaciones.
 - Prototipo, simulación, tablero o prueba de concepto.
 
-Evidencia evaluada:
+Evidencias evaluadas:
 
-- `CE0141`: Solución TIC integrada.
+- `CE0141`: Mapa del Ecosistema de Sistemas de Información de la Organización.
+- `CE0142`: Arquitectura Conceptual del Sistema de Información Propuesto.
+- `CE0143`: Modelo de Integración de Sistemas y Flujos de Información.
+- `CE0144`: Plan de Implementación y Gestión del Sistema de Información.
+- `CE0145`: Indicadores de Uso, Valor y Mejora del Sistema de Información.
 
-### 5. Presentación y sustentación final
+### Componente transversal. Presentación y sustentación final
 
 Propósito:
 
@@ -126,7 +142,7 @@ Debe incluir:
 - Justificación de beneficios, costos, riesgos y viabilidad.
 - Respuesta a preguntas del jurado.
 
-Esta evidencia debe considerarse transversal, porque evalúa el conjunto completo de la iniciativa.
+Este componente no constituye un quinto entregable. Se considera transversal porque evalúa la comunicación, defensa y articulación final de los cuatro entregables obligatorios.
 
 ## Criterios de evaluación del perfil de egreso
 
@@ -152,4 +168,3 @@ Esta evidencia debe considerarse transversal, porque evalúa el conjunto complet
 Para considerar lograda la línea de Gestión TI en el perfil de egreso, el estudiante debe demostrar coherencia entre diagnóstico, estrategia, planificación, procesos, solución TIC, viabilidad y sustentación.
 
 La pregunta central es: ¿el estudiante puede gestionar, justificar y defender una iniciativa tecnológica con criterio estratégico, económico, organizacional y técnico?
-

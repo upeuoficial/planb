@@ -62,7 +62,7 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 
 ### Resumen de evidencias por competencia
 
-#### Entregable 1: Diagnóstico y Caso de Negocio
+#### Entregable 1: Diagnóstico Organizacional y Alineamiento Estratégico
 
 **Evalúa:** CE011 - Gobierno e Innovación de TI.
 
