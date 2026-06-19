@@ -54,7 +54,7 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 | CE032: Gestión de la Seguridad de la Información | CE0321, CE0322, CE0323 y CE0324. | 4 |
 | CE033: Implementación de Centro de Datos | CE0331, CE0332 y CE0333. | 3 |
 
-### Resumen de evidencias por competencia
+### Resumen de evidencias por competencia CE03 Infraestructura
 
 #### CE031: Conectividad
 

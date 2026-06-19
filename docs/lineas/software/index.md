@@ -68,7 +68,7 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 | CE023: Programación | Construcción de soluciones desktop, web, full-stack, distribuidas o móviles. | 5 |
 | CE024: Calidad de Software | Pruebas, CI/CD, aseguramiento técnico, auditoría y evolución. | 4 |
 
-### Resumen de evidencias por competencia
+### Resumen de evidencias por competencia CE02 Software
 
 #### CE021: Ingeniería de Requerimientos
 

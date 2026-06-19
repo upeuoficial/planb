@@ -66,7 +66,7 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 | CE044: Evaluación, monitoreo y mejora | CE0441: Evaluación, monitoreo y mejora. | 4 |
 | CE045: Comunicación y uso del modelo | CE0451: Comunicación y uso del modelo. | 3 |
 
-### Resumen de evidencias por competencia
+### Resumen de evidencias por competencia CE04 Ciencia de Datos e IA
 
 #### CE041: Problema analítico y preparación de datos
 
@@ -101,6 +101,55 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 - Estrategia de reentrenamiento.
 
 #### CE045: Comunicación y uso del modelo
+
+- CE0451: Comunicación y uso del modelo.
+- Storytelling con datos.
+- Visualización de resultados.
+- Interpretación y recomendaciones.
+
+### Distribución por semestre
+
+#### Semestre 1
+
+El producto final de este semestre tiene lo siguiente:
+
+##### CE041: Problema analítico y preparación de datos
+
+- CE0411: Problema analítico y dataset inicial.
+- Problema analítico formulado.
+- Fuentes de datos identificadas.
+- Dataset inicial.
+- Variables, supuestos e hipótesis.
+
+##### CE042: Diseño de dataset y pipeline analítico
+
+- CE0421: Diseño de dataset y pipeline analítico.
+- Diseño de dataset.
+- Feature engineering.
+- Pipeline de datos.
+- Estrategia analítica.
+
+#### Semestre 2
+
+El producto final de este semestre tiene lo siguiente:
+
+##### CE043: Construcción y experimentación
+
+- CE0431: Construcción, entrenamiento y experimentación.
+- Dataset construido.
+- Limpieza de datos ejecutada.
+- Entrenamiento de modelos.
+- Notebooks o bitácora de experimentos.
+
+##### CE044: Evaluación, monitoreo y mejora
+
+- CE0441: Evaluación, monitoreo y mejora.
+- Evaluación de modelos.
+- Métricas de desempeño.
+- Monitoreo del modelo o solución.
+- Estrategia de reentrenamiento.
+
+##### CE045: Comunicación y uso del modelo
 
 - CE0451: Comunicación y uso del modelo.
 - Storytelling con datos.

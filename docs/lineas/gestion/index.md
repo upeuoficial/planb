@@ -60,7 +60,7 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 | CE013: Gestión de Procesos | CE0131: Mejora de procesos. | 5 |
 | CE014: Gestión de Sistemas de Información | CE0141-CE0145: Solución TIC integrada. | 5 |
 
-### Resumen de evidencias por competencia
+### Resumen de evidencias por competencia CE01 Gestión
 
 #### Entregable 1: Diagnóstico Organizacional y Alineamiento Estratégico
 

@@ -50,7 +50,7 @@ Planifica e implementa controles de seguridad basados en estándares internacion
 
 Diseña y despliega servicios de infraestructura y centro de datos, integrando virtualización, almacenamiento, alta disponibilidad y monitoreo, garantizando soporte tecnológico confiable para los objetivos estratégicos de la organización.
 
-### Resumen de evidencias por competencia
+### Resumen de evidencias por competencia CE03 Infraestructura
 
 #### CE031: Conectividad
 
@@ -602,7 +602,7 @@ Gestiona los procesos de las organizaciones con soluciones TIC. Esta competencia
 
 Apoya la prestación, el uso y la gestión de sistemas de información dentro de un entorno de sistemas de información. Esta competencia conecta la solución tecnológica con datos, seguridad, integración, operación y toma de decisiones.
 
-### Resumen de evidencias por competencia
+### Resumen de evidencias por competencia CE01 Gestión
 
 #### Entregable 1: Diagnóstico Organizacional y Alineamiento Estratégico
 
@@ -1023,7 +1023,7 @@ Desarrolla e integra soluciones de software de escritorio, web, distribuido y m�
 
 Gestiona y asegura la calidad del producto y del proceso de desarrollo de software mediante pruebas automatizadas, integración y entrega continua, métricas, revisión técnica, gestión de deuda técnica y auditorías. Promueve la mejora continua y la madurez del proceso.
 
-### Resumen de evidencias por competencia
+### Resumen de evidencias por competencia CE02 Software
 
 #### CE021: Ingeniería de Requerimientos
 
