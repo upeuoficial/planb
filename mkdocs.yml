@@ -32,7 +32,7 @@ extra_css:
 
 nav:
   - Inicio: index.md
-  - Transcripción de trabajo: transcripcion.md
+  - Evaluación del perfil de egreso: transcripcion.md
   - Líneas de formación:
       - Panorama general: lineas/index.md
       - Gestión TI:
