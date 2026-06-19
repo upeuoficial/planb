@@ -32,7 +32,7 @@
   - [CE022 - Entregable 2: Plataforma de Datos del Sistema](#entregable-2-plataforma-de-datos-del-sistema-alineado-con-ce022)
   - [CE023 - Entregable 3: Sistema de Software Funcional Integrado](#entregable-3-sistema-de-software-funcional-integrado-alineado-con-ce023)
   - [CE024 - Entregable 4: Calidad, Operación y Evolución del Sistema](#entregable-4-calidad-operacion-y-evolucion-del-sistema-alineado-con-ce024)
-  - [CE0217 - Entregable 5: Presentación y Sustentación Final](#entregable-5-presentacion-y-sustentacion-final-alineado-con-ce0217)
+  - [CE0217 - Entregable 5: Presentación, Video pitch y Sustentación Final](#entregable-5-presentacion-video-pitch-y-sustentacion-final-alineado-con-ce0217)
 
 ## Sobre evaluación de perfil de egreso
 
@@ -1407,7 +1407,7 @@ Documento y evidencias que demuestran la calidad técnica del producto y del pro
 
 ---
 
-### Entregable 5: Presentación y Sustentación Final (Alineado con CE0217)
+### Entregable 5: Presentación, Video pitch y Sustentación Final (Alineado con CE0217)
 
 #### Descripción
 
