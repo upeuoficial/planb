@@ -8,6 +8,9 @@
 
 **Sedes:** Lima · Juliaca · Tarapoto
 
+
+                  2026
+
 ---
 
 **Sé Íntegro. Sé Misionero. Sé Innovador.**
