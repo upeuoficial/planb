@@ -241,7 +241,7 @@ Documento que incluye levantamiento de requerimientos, diseño de topología ló
 
 **6 criterios — Máximo 24 puntos**
 
-| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Insuficiente (1) |
+| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Deficiente (1) |
 |-----------|---------------|------------|-------------|------------------|
 | Levantamiento de Requerimientos | Completo, integra aspectos técnicos y de negocio con evidencia detallada. | Cubre lo esencial, pero falta profundidad en integración. | Parcial, omite algunos aspectos clave. | Incompleto o irrelevante. |
 | Diseño de Topología Lógica y Física | Diagramas claros, precisos y bien explicados con justificaciones. | Diagramas adecuados, pero explicaciones superficiales. | Diagramas básicos, con errores menores. | Diagramas ausentes o incorrectos. |
@@ -301,7 +301,7 @@ Documento que identifica activos críticos, análisis de riesgos, políticas de 
 
 **5 criterios, máximo 20 puntos**
 
-| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Insuficiente (1) |
+| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Deficiente (1) |
 |-----------|---------------|------------|-------------|------------------|
 | Identificación de Activos Críticos | Exhaustiva, con clasificación y justificación detallada. | Cubre lo principal, pero falta detalle. | Parcial, omite activos clave. | Incompleta. |
 | Análisis de Riesgos (ISO 27005/NIST) | Matriz completa con cálculos cuantitativos/cualitativos. | Matriz básica, con análisis cualitativo. | Matriz simple, con errores. | Ausente o superficial. |
@@ -359,7 +359,7 @@ Documento que define arquitectura, layout físico, dimensionamiento y virtualiza
 
 **6 criterios, máximo 24 puntos**
 
-| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Insuficiente (1) |
+| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Deficiente (1) |
 |-----------|---------------|------------|-------------|------------------|
 | Definición de Arquitectura (Tier I–IV) | Justificada con análisis de necesidades y estándares. | Definida correctamente, pero sin análisis profundo. | Definida básicamente. | Incorrecta o ausente. |
 | Diseño de Layout Físico | Diagramas detallados y realistas. | Diagramas adecuados, pero simplificados. | Diagramas básicos con errores. | Ausentes. |
@@ -437,7 +437,7 @@ Documento y evidencias de configuración de dispositivos, routing, controles, pr
 
 **7 criterios, máximo 28 puntos**
 
-| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Insuficiente (1) |
+| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Deficiente (1) |
 |-----------|---------------|------------|-------------|------------------|
 | Configuración de Dispositivos | Funcional y documentada con comandos precisos. | Funcional, pero documentación parcial. | Configurada básicamente, con errores. | No funcional. |
 | Implementación de Direccionamiento IP | Estructurado y escalable. | Básico, funcional. | Parcial, con inconsistencias. | Incorrecto. |
@@ -501,7 +501,7 @@ Documento con controles técnicos, planes de continuidad, KPIs, auditoría y ét
 
 **8 criterios, máximo 32 puntos**
 
-| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Insuficiente (1) |
+| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Deficiente (1) |
 |-----------|---------------|------------|-------------|------------------|
 | Implementación de Controles Técnicos (IAM, Cifrado) | Completos y probados. | Funcionales, probados parcialmente. | Básicos. | No implementados. |
 | Aplicación de Mínimo Privilegio | Integrada en todos los aspectos. | Aplicada en principales. | Parcial. | Ausente. |
@@ -567,7 +567,7 @@ Documento con configuración de servidores, servicios, almacenamiento, SLA, moni
 
 **7 criterios, máximo 28 puntos**
 
-| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Insuficiente (1) |
+| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Deficiente (1) |
 |-----------|---------------|------------|-------------|------------------|
 | Configuración de Servidores Físicos/Virtuales | Funcional y optimizada. | Funcional básica. | Parcial. | No configurada. |
 | Implementación de Servicios (AD, DNS, etc.) | Integrados perfectamente. | Integrados adecuadamente. | Básicos. | Ausentes. |
@@ -830,11 +830,11 @@ Este componente fundamenta la necesidad del proyecto y garantiza su alineamiento
 
 #### Rúbricas
 
-| Criterio | Nivel 1 – Insuficiente | Nivel 2 – Básico | Nivel 3 – Competente | Nivel 4 – Sobresaliente |
-|-----------|------------------------|------------------|----------------------|-------------------------|
-| Análisis del contexto organizacional | Descripción superficial sin análisis estructurado. | Describe la organización de forma general. | Analiza el contexto con identificación clara de problemas. | Analiza profundamente el entorno con evidencia y sustento estratégico. |
-| Identificación de brechas estratégicas | No identifica brechas relevantes. | Identifica brechas generales sin sustento. | Identifica brechas coherentes con objetivos organizacionales. | Identifica brechas críticas con análisis fundamentado y evidencia objetiva. |
-| Alineamiento estratégico del proyecto | No demuestra relación entre estrategia y proyecto. | Relación débil o implícita. | Justifica el proyecto en función de objetivos organizacionales. | Evidencia alineamiento claro y coherente entre estrategia, problema y propuesta TI. |
+| Criterio | Excelente | Bueno | Regular | Deficiente |
+| --- | --- | --- | --- | --- |
+| Análisis del contexto organizacional | Analiza profundamente el entorno con evidencia y sustento estratégico. | Analiza el contexto con identificación clara de problemas. | Describe la organización de forma general. | Descripción superficial sin análisis estructurado. |
+| Identificación de brechas estratégicas | Identifica brechas críticas con análisis fundamentado y evidencia objetiva. | Identifica brechas coherentes con objetivos organizacionales. | Identifica brechas generales sin sustento. | No identifica brechas relevantes. |
+| Alineamiento estratégico del proyecto | Evidencia alineamiento claro y coherente entre estrategia, problema y propuesta TI. | Justifica el proyecto en función de objetivos organizacionales. | Relación débil o implícita. | No demuestra relación entre estrategia y proyecto. |
 
 ### Entregable 2. Business Case del Proyecto
 
@@ -879,11 +879,11 @@ Incluye análisis de beneficios tangibles e intangibles, estimación de inversi�
 
 #### Rúbricas
 
-| Criterio | Nivel 1 | Nivel 2 | Nivel 3 | Nivel 4 |
-|-----------|----------|----------|----------|----------|
-| Análisis de alternativas | No evalúa alternativas. | Presenta alternativas sin comparación estructurada. | Compara alternativas con criterios definidos. | Analiza alternativas con matriz comparativa rigurosa y justificación sólida. |
-| Evaluación económica | No presenta estimación financiera. | Presenta costos generales sin sustento. | Estima costos y beneficios razonablemente. | Presenta análisis financiero estructurado con indicadores cuantificados. |
-| Identificación de riesgos | No identifica riesgos relevantes. | Enumera riesgos sin análisis. | Identifica riesgos con evaluación básica. | Analiza riesgos estratégicos con impacto y estrategias de mitigación. |
+| Criterio | Excelente | Bueno | Regular | Deficiente |
+| --- | --- | --- | --- | --- |
+| Análisis de alternativas | Analiza alternativas con matriz comparativa rigurosa y justificación sólida. | Compara alternativas con criterios definidos. | Presenta alternativas sin comparación estructurada. | No evalúa alternativas. |
+| Evaluación económica | Presenta análisis financiero estructurado con indicadores cuantificados. | Estima costos y beneficios razonablemente. | Presenta costos generales sin sustento. | No presenta estimación financiera. |
+| Identificación de riesgos | Analiza riesgos estratégicos con impacto y estrategias de mitigación. | Identifica riesgos con evaluación básica. | Enumera riesgos sin análisis. | No identifica riesgos relevantes. |
 
 ---
 
@@ -936,14 +936,14 @@ Puede desarrollarse bajo enfoques predictivos (alineados a buenas prácticas del
 
 #### Rúbricas
 
-| Criterio | Nivel 1 – Insuficiente | Nivel 2 – Básico | Nivel 3 – Competente | Nivel 4 – Sobresaliente |
-|-----------|------------------------|------------------|----------------------|-------------------------|
-| Acta de Constitución | No define formalmente el proyecto ni sus objetivos. | Presenta acta con información general y poco precisa. | Define objetivos, alcance preliminar y stakeholders de forma clara. | Formula acta completa con objetivos SMART, justificación estratégica, stakeholders identificados y criterios de éxito definidos. |
-| Gestión del Alcance | No delimita entregables ni estructura de trabajo. | Define alcance general sin desglose estructurado. | Presenta EDT/WBS coherente con entregables definidos. | Define alcance detallado con EDT estructurada, diccionario de trabajo y control de cambios establecido. |
-| Gestión del Cronograma | No presenta planificación temporal clara. | Presenta cronograma básico sin coherencia total con el alcance. | Presenta cronograma estructurado con actividades y hitos definidos. | Presenta cronograma detallado, secuenciado, con dependencias, hitos críticos y coherencia total con el alcance. |
-| Gestión de Costos | No estima costos o lo hace de manera informal. | Presenta estimación general sin estructura presupuestal clara. | Presenta presupuesto coherente alineado al alcance y cronograma. | Desarrolla presupuesto detallado con línea base de costos, estimaciones justificadas y control presupuestal definido. |
-| Gestión de Riesgos | No identifica riesgos relevantes. | Enumera riesgos sin análisis estructurado. | Presenta matriz de riesgos con análisis básico de probabilidad e impacto. | Desarrolla matriz completa con evaluación cualitativa, priorización y plan formal de respuesta y seguimiento. |
-| Gestión Ágil (si aplica) | No aplica prácticas ágiles cuando corresponden. | Menciona prácticas ágiles sin estructura clara. | Define backlog, iteraciones y entregables incrementales. | Integra marco ágil coherente (backlog priorizado, sprints definidos, criterios de aceptación y métricas de seguimiento). |
+| Criterio | Excelente | Bueno | Regular | Deficiente |
+| --- | --- | --- | --- | --- |
+| Acta de Constitución | Formula acta completa con objetivos SMART, justificación estratégica, stakeholders identificados y criterios de éxito definidos. | Define objetivos, alcance preliminar y stakeholders de forma clara. | Presenta acta con información general y poco precisa. | No define formalmente el proyecto ni sus objetivos. |
+| Gestión del Alcance | Define alcance detallado con EDT estructurada, diccionario de trabajo y control de cambios establecido. | Presenta EDT/WBS coherente con entregables definidos. | Define alcance general sin desglose estructurado. | No delimita entregables ni estructura de trabajo. |
+| Gestión del Cronograma | Presenta cronograma detallado, secuenciado, con dependencias, hitos críticos y coherencia total con el alcance. | Presenta cronograma estructurado con actividades y hitos definidos. | Presenta cronograma básico sin coherencia total con el alcance. | No presenta planificación temporal clara. |
+| Gestión de Costos | Desarrolla presupuesto detallado con línea base de costos, estimaciones justificadas y control presupuestal definido. | Presenta presupuesto coherente alineado al alcance y cronograma. | Presenta estimación general sin estructura presupuestal clara. | No estima costos o lo hace de manera informal. |
+| Gestión de Riesgos | Desarrolla matriz completa con evaluación cualitativa, priorización y plan formal de respuesta y seguimiento. | Presenta matriz de riesgos con análisis básico de probabilidad e impacto. | Enumera riesgos sin análisis estructurado. | No identifica riesgos relevantes. |
+| Gestión Ágil (si aplica) | Integra marco ágil coherente (backlog priorizado, sprints definidos, criterios de aceptación y métricas de seguimiento). | Define backlog, iteraciones y entregables incrementales. | Menciona prácticas ágiles sin estructura clara. | No aplica prácticas ágiles cuando corresponden. |
 
 ### Entregable 4. Modelado de Procesos AS-IS / TO-BE
 
@@ -979,11 +979,11 @@ Este componente evidencia la capacidad del estudiante para analizar procesos, pr
 
 #### Rúbricas
 
-| Criterio | Nivel 1 | Nivel 2 | Nivel 3 | Nivel 4 |
-|-----------|----------|----------|----------|----------|
-| Modelado AS-IS | Incorrecto o incompleto. | Representación básica sin análisis crítico. | Modelado correcto del proceso actual. | Modelado detallado con identificación clara de ineficiencias. |
-| Propuesta TO-BE | No responde al problema. | Propone mejoras generales. | Rediseño coherente apoyado en TIC. | Rediseño innovador con mejora cuantificada en eficiencia y calidad. |
-| Análisis comparativo | No presenta comparación. | Comparación descriptiva básica. | Evidencia mejoras esperadas. | Cuantifica mejoras en tiempo, costo y calidad. |
+| Criterio | Excelente | Bueno | Regular | Deficiente |
+| --- | --- | --- | --- | --- |
+| Modelado AS-IS | Modelado detallado con identificación clara de ineficiencias. | Modelado correcto del proceso actual. | Representación básica sin análisis crítico. | Incorrecto o incompleto. |
+| Propuesta TO-BE | Rediseño innovador con mejora cuantificada en eficiencia y calidad. | Rediseño coherente apoyado en TIC. | Propone mejoras generales. | No responde al problema. |
+| Análisis comparativo | Cuantifica mejoras en tiempo, costo y calidad. | Evidencia mejoras esperadas. | Comparación descriptiva básica. | No presenta comparación. |
 
 ---
 
@@ -1023,11 +1023,11 @@ Incluye la descripción de componentes, interoperabilidad, infraestructura reque
 
 #### Rúbricas
 
-| Criterio | Nivel 1 | Nivel 2 | Nivel 3 | Nivel 4 |
-|-----------|----------|----------|----------|----------|
-| Diseño de arquitectura | No presenta arquitectura clara. | Arquitectura básica sin integración clara. | Arquitectura coherente con integración definida. | Arquitectura estructurada, integrada y alineada al ecosistema SI. |
-| Integración con sistemas existentes | No considera integración. | Integración mencionada sin detalle técnico. | Define integración básica con sistemas existentes. | Diseña integración completa considerando interoperabilidad y seguridad. |
-| Sustento técnico y escalabilidad | Sin justificación técnica. | Justificación limitada. | Sustenta técnicamente la solución. | Justifica solución considerando seguridad, escalabilidad y sostenibilidad. |
+| Criterio | Excelente | Bueno | Regular | Deficiente |
+| --- | --- | --- | --- | --- |
+| Diseño de arquitectura | Arquitectura estructurada, integrada y alineada al ecosistema SI. | Arquitectura coherente con integración definida. | Arquitectura básica sin integración clara. | No presenta arquitectura clara. |
+| Integración con sistemas existentes | Diseña integración completa considerando interoperabilidad y seguridad. | Define integración básica con sistemas existentes. | Integración mencionada sin detalle técnico. | No considera integración. |
+| Sustento técnico y escalabilidad | Justifica solución considerando seguridad, escalabilidad y sostenibilidad. | Sustenta técnicamente la solución. | Justificación limitada. | Sin justificación técnica. |
 
 ---
 
@@ -1465,7 +1465,7 @@ Presentación ejecutiva y defensa técnica del sistema desarrollado. Evalúa la 
 
 #### Rúbrica de Evaluación
 
-| Criterio | Excelente (18-20) | Bueno (15-17) | Regular (13-14) | Deficiente (<13) |
+| Criterio | Excelente | Bueno | Regular | Deficiente |
 | --- | --- | --- | --- | --- |
 | Dominio técnico | Dominio completo del sistema y arquitectura | Dominio adecuado | Dominio parcial | No domina el sistema |
 | Claridad de presentación | Presentación clara y estructurada | Presentación adecuada | Presentación confusa | Presentación deficiente |

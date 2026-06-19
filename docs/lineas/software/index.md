@@ -1,5 +1,7 @@
 ﻿# Línea de Software
 
+!!! note "Guía complementaria en construcción"
+    Esta página es una orientación operativa para proyectos progresivos de la línea. El documento oficial vigente para la evaluación es [Evaluación del perfil de egreso](../../transcripcion.md).
 ## 1. Visión de la línea
 
 La línea de Software forma al estudiante para construir soluciones digitales útiles, confiables, mantenibles y adaptables. Su centro no es aprender lenguajes de programación de manera aislada, sino desarrollar la capacidad de convertir problemas reales en sistemas de software que puedan ser usados, evaluados, corregidos y evolucionados.
@@ -258,3 +260,4 @@ La línea de Software busca que el estudiante deje de ver la programación como 
 El cierre de la línea se verifica mediante la evaluación del perfil de egreso. En este momento no se evalúa toda la acumulación de evidencias progresivas, sino la capacidad del estudiante para integrar las competencias CE021, CE022, CE023 y CE024 en una solución final funcional, documentada, probada, desplegable y defendible.
 
 La evaluación específica se desarrolla en [Evaluación del perfil de egreso](evaluacion-perfil-egreso.md).
+

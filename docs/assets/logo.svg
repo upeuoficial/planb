@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Libro">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Documentos">
   <rect width="64" height="64" rx="12" fill="#3f51b5"/>
   <path d="M18 16h13c4 0 7 3 7 7v25c0-3-3-6-7-6H18V16z" fill="#fff"/>
   <path d="M46 16h-8v31c2-3 5-5 8-5V16z" fill="#dbe4ff"/>

@@ -2,7 +2,7 @@
 
 Este documento registra las competencias, evidencias y artefactos verificables de la línea de Gestión TI. Sirve como base para construir guías de entrega, revisión y sustentación.
 
-Estas evidencias toman como insumo operativo el proyecto de fin de carrera usado con futuros egresados. No incorporan sus criterios de calificación como oficiales. Para este libro, la base institucional son las competencias de la línea y sus competencias específicas.
+Estas evidencias toman como insumo operativo el proyecto de fin de carrera usado con futuros egresados. No incorporan sus criterios de calificación como oficiales. Para estos documentos, la base institucional son las competencias de la línea y sus competencias específicas.
 
 ## CE01: Gestión de TI e Innovación Tecnológica
 
@@ -188,4 +188,3 @@ Artefactos de la evidencia transversal:
 - Resumen del diagnóstico, caso de negocio, plan, procesos y solución TIC.
 - Evidencia del prototipo o prueba de concepto.
 - Respuesta a observaciones del jurado.
-

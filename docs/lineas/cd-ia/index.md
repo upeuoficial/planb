@@ -1,4 +1,7 @@
-# Línea de Ciencia de Datos e IA
+﻿# Línea de Ciencia de Datos e IA
+
+!!! note "Guía complementaria en construcción"
+    Esta página es una orientación operativa para proyectos progresivos de la línea. El documento oficial vigente para la evaluación es [Evaluación del perfil de egreso](../../transcripcion.md).
 
 ## 1. Visión de la línea
 

@@ -1,5 +1,8 @@
 # Línea de Gestión TI
 
+!!! note "Guía complementaria en construcción"
+    Esta página es una orientación operativa para proyectos progresivos de la línea. El documento oficial vigente para la evaluación es [Evaluación del perfil de egreso](../../transcripcion.md).
+
 ## 1. Visión de la línea
 
 La línea de Gestión TI forma al estudiante para comprender la tecnología como un medio de transformación organizacional. Su centro no es solo administrar proyectos, sino identificar necesidades reales, alinear iniciativas tecnológicas con objetivos institucionales, rediseñar procesos y proponer soluciones TIC sostenibles.

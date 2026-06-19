@@ -1,8 +1,8 @@
 # Ingeniería de Sistemas
 
-Este libro digital describe lo que un estudiante de Ingeniería de Sistemas debe construir a lo largo de su carrera y lo que debería poder presentar al finalizarla.
+El documento oficial vigente de este espacio es la [Evaluación del perfil de egreso](transcripcion.md). Las guías por línea son material complementario en construcción para que el estudiante entienda cómo sus proyectos progresivos aportan a esa evaluación final.
 
-No es únicamente una guía para la Evaluación del Perfil de Egreso (EPE). Es una guía de construcción progresiva del portafolio de competencias del estudiante, desde los primeros ciclos hasta el cierre de la carrera.
+Las demás secciones no reemplazan el documento oficial. Funcionan como orientación operativa para interpretar la ruta de construcción progresiva del portafolio de competencias, desde los primeros ciclos hasta el cierre de la carrera.
 
 ## Competencia general del programa
 
@@ -17,9 +17,9 @@ La carrera se organiza en cuatro líneas formativas:
 3. Infraestructura Tecnológica: CE03.
 4. Ciencia de Datos e Inteligencia Artificial: CE04.
 
-## Propósito del libro
+## Propósito de los documentos
 
-El libro busca servir como guía longitudinal de formación por competencias. No se centra solo en cursos, temas o contenidos, sino en evidencias concretas: sistemas, prototipos, documentos técnicos, decisiones de arquitectura, pruebas, despliegues y productos que demuestren que el estudiante está desarrollando criterio profesional.
+El documento oficial orienta la evaluación final. Las guías complementarias, todavía en construcción, sirven como apoyo longitudinal de formación por competencias. No se centran solo en cursos, temas o contenidos, sino en evidencias concretas: sistemas, prototipos, documentos técnicos, decisiones de arquitectura, pruebas, despliegues y productos que demuestren que el estudiante está desarrollando criterio profesional.
 
 Durante los ciclos y cursos, el estudiante construye evidencias mediante ejercicios, Proyecto Sello (PS) y Proyecto Integrador (PI). En cada línea, esas evidencias forman un portafolio progresivo. Al final, la EPE no aparece como un evento aislado, sino como el cierre natural de una ruta que empieza desde los primeros ciclos.
 
