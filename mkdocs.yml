@@ -34,7 +34,6 @@ nav:
   - Inicio: index.md
   - Evaluación del perfil de egreso: transcripcion.md
   - Líneas de formación:
-      - Panorama general: lineas/index.md
       - Gestión TI:
           - Visión y competencias: lineas/gestion/index.md
           - Evidencias por competencia: lineas/gestion/evidencias.md

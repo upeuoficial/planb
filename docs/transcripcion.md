@@ -1,4 +1,6 @@
-# Portada
+# Proyecto Evaluación de fin de carrera
+
+---
 
 **UPeU - Universidad Peruana Unión**
 
@@ -6,9 +8,15 @@
 
 **Sedes:** Lima · Juliaca · Tarapoto
 
-# Proyecto Evaluación de fin de carrera
+---
 
 **Sé Íntegro. Sé Misionero. Sé Innovador.**
+
+## Índice de líneas evaluadas
+
+- [Infraestructura Tecnológica](#a-area-de-infraestructura)
+- [Gestión de Tecnologías de Información](#b-area-de-gestion-de-tecnologias-de-informacion-gti)
+- [Ingeniería de Software](#c-area-de-ingenieria-de-software)
 
 ## Sobre evaluación de perfil de egreso
 
