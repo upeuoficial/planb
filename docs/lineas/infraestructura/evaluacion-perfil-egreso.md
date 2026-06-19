@@ -79,9 +79,9 @@ Debe incluir:
 Evidencias evaluadas:
 
 - `CE0321`: Planificación de seguridad.
-- `CE0322`: Implementación de controles de seguridad.
-- `CE0323`: Monitoreo y mejora de seguridad.
-- `CE0324`: Ética ACM en seguridad.
+- `CE0322`: Implementación de controles.
+- `CE0323`: Monitoreo y mejora.
+- `CE0324`: Ética ACM.
 
 ### 3. Plataforma final de servicios de infraestructura
 
@@ -150,4 +150,3 @@ Esta evidencia debe considerarse transversal, porque evalúa el conjunto complet
 Para considerar lograda la línea de Infraestructura en el perfil de egreso, el estudiante debe demostrar coherencia entre requerimientos, diseño, implementación, seguridad, operación, monitoreo, documentación y sustentación.
 
 La pregunta central es: ¿el estudiante puede diseñar, implementar, validar, operar y defender una solución de infraestructura tecnológica con criterio profesional?
-

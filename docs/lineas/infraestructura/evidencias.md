@@ -50,9 +50,9 @@ Evidencias incluidas:
 
 - CE0312: Implementación de red.
 - CE0313: Testing y control de red.
-- CE0322: Implementación de controles de seguridad.
-- CE0323: Monitoreo y mejora de seguridad.
-- CE0324: Ética ACM en seguridad.
+- CE0322: Implementación de controles.
+- CE0323: Monitoreo y mejora.
+- CE0324: Ética ACM.
 - CE0332: Implementación de centro de datos.
 - CE0333: Control y operación de centro de datos.
 
@@ -217,7 +217,7 @@ Contenido mínimo:
 - Políticas de seguridad.
 - Roles y responsabilidades.
 
-### CE0322: Implementación de controles de seguridad
+### CE0322: Implementación de controles
 
 Propósito:
 
@@ -250,7 +250,7 @@ Contenido mínimo:
 - Procedimientos de parches y actualizaciones.
 - Planes de continuidad y recuperación.
 
-### CE0323: Monitoreo y mejora de seguridad
+### CE0323: Monitoreo y mejora
 
 Propósito:
 
@@ -288,7 +288,7 @@ Contenido mínimo:
 - Evaluación de vulnerabilidades.
 - Propuesta de acciones de mejora continua.
 
-### CE0324: Ética ACM en seguridad
+### CE0324: Ética ACM
 
 Propósito:
 
@@ -435,4 +435,3 @@ Contenido mínimo:
 - Monitoreo de infraestructura.
 - Procedimientos operativos.
 - Evaluación de eficiencia energética y disponibilidad.
-

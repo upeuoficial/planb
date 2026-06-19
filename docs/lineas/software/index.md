@@ -99,6 +99,48 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 - CE0243: Gestión técnica y aseguramiento de calidad.
 - CE0244: Auditoría técnica y evolución del sistema.
 
+### Distribución por semestre
+
+#### Semestre 1
+
+El producto final de este semestre tiene lo siguiente:
+
+##### CE021: Ingeniería de Requerimientos
+
+- CE0211: Especificación de requerimientos validada.
+- CE0212: Prototipo navegable validado.
+- CE0213: Diseño arquitectónico del sistema.
+- CE0214: Diseño detallado del sistema.
+
+##### CE022: Ingeniería de la Información
+
+- CE0221: Modelo de datos relacional documentado y validado.
+- CE0222: Base de datos relacional implementada y consultable.
+
+#### Semestre 2
+
+El producto final de este semestre tiene lo siguiente:
+
+##### CE022: Ingeniería de la Información
+
+- CE0223: Motor transaccional programado y optimizado.
+- CE0224: Base de datos empresarial administrada, asegurada y operativa.
+
+##### CE023: Programación
+
+- CE0231: Aplicación desktop funcional con persistencia de datos.
+- CE0232: Sistema de información web integrado con base de datos.
+- CE0233: Aplicación empresarial full-stack desplegable.
+- CE0234: Sistema distribuido escalable basado en servicios interoperables.
+- CE0235: Aplicación móvil integrada con servicios digitales.
+
+##### CE024: Calidad de Software
+
+- CE0241: Suite de pruebas automatizadas.
+- CE0242: Pipeline de integración y despliegue continuo.
+- CE0243: Gestión técnica y aseguramiento de calidad.
+- CE0244: Auditoría técnica y evolución del sistema.
+
 ## 5. Ruta de construcción y evaluación durante la carrera
 
 La construcción de competencias en la línea de Software se organiza por ciclos y se verifica mediante tres tipos de hitos: Proyecto Sello (PS), Proyecto Integrador (PI) y Evaluación del Perfil de Egreso (EPE).
@@ -216,4 +258,3 @@ La línea de Software busca que el estudiante deje de ver la programación como 
 El cierre de la línea se verifica mediante la evaluación del perfil de egreso. En este momento no se evalúa toda la acumulación de evidencias progresivas, sino la capacidad del estudiante para integrar las competencias CE021, CE022, CE023 y CE024 en una solución final funcional, documentada, probada, desplegable y defendible.
 
 La evaluación específica se desarrolla en [Evaluación del perfil de egreso](evaluacion-perfil-egreso.md).
-

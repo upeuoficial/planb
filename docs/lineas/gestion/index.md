@@ -56,54 +56,93 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 | Competencia | Evidencia integradora | Artefactos asociados |
 | --- | --- | ---: |
 | CE011: Gestión e Innovación de TI | CE0111: Diagnóstico y caso de negocio. | 5 |
-| CE012: Gestión de Proyectos | CE0121: Plan de gestión integral del proyecto. | 6 |
+| CE012: Gestión de Proyectos | CE0121-CE0125: Plan de gestión integral del proyecto. | 5 |
 | CE013: Gestión de Procesos | CE0131: Mejora de procesos. | 5 |
-| CE014: Gestión de Sistemas de Información | CE0141: Solución TIC integrada. | 7 |
+| CE014: Gestión de Sistemas de Información | CE0141-CE0145: Solución TIC integrada. | 5 |
 
 ### Resumen de evidencias por competencia
 
 #### Entregable 1: Diagnóstico y Caso de Negocio
 
-**Evalúa:** C1 - Gobierno e Innovación de TI.
+**Evalúa:** CE011 - Gobierno e Innovación de TI.
 
-- GP-1.1 - Diagnóstico Organizacional.
-- GP-1.2 - Alineamiento Estratégico.
-- GP-1.3 - Caso de Negocio.
-- GP-1.4 - Roadmap de Tecnología.
-- GP-1.5 - Matriz de Riesgos Estratégicos.
+- CE0111 - Diagnóstico Organizacional.
+- CE0112 - Alineamiento Estratégico.
+- CE0113 - Caso de Negocio.
+- CE0114 - Roadmap de Tecnología.
+- CE0115 - Matriz de Riesgos Estratégicos.
 
 #### Entregable 2: Plan de Gestión Integral
 
-**Evalúa:** C2 - Gestión de Proyectos.
+**Evalúa:** CE012 - Gestión de Proyectos.
 
-- GP-2.1 - Plan del Proyecto.
-- GP-2.2 - Cronograma Detallado.
-- GP-2.3 - Presupuesto.
-- GP-2.4 - Matriz de Riesgos del Proyecto.
-- GP-2.5 - Backlog Priorizado.
-- GP-2.6 - Plan de Comunicaciones.
+- CE0121 - Acta de Constitución del Proyecto (Project Charter).
+- CE0122 - Plan de Gestión del Proyecto (alcance, tiempo, costo y recursos).
+- CE0123 - Estructura de Desglose del Trabajo (WBS) y Cronograma del Proyecto.
+- CE0124 - Análisis Económico y Evaluación de Viabilidad del Proyecto.
+- CE0125 - Plan de Gestión de Riesgos del Proyecto.
 
 #### Entregable 3: Mejora de Procesos
 
-**Evalúa:** C3 - Gestión de Procesos.
+**Evalúa:** CE013 - Gestión de Procesos.
 
-- GP-3.1 - Modelado Procesos Actuales.
-- GP-3.2 - Análisis de Oportunidades.
-- GP-3.3 - Modelado Procesos Mejorados.
-- GP-3.4 - Indicadores de Proceso.
-- GP-3.5 - Plan de Cambio Organizacional.
+- CE0131 - Identificación y Caracterización de Procesos Organizacionales.
+- CE0132 - Modelado de Procesos AS-IS (situación actual).
+- CE0133 - Modelado de Procesos TO-BE (propuesta de mejora).
+- CE0134 - Propuesta de Automatización o Mejora de Procesos mediante TIC.
+- CE0135 - Indicadores de Desempeño y Evaluación de Impacto del Proceso.
 
 #### Entregable 4: Solución Técnica Integrada
 
-**Evalúa:** C4 - Gestión de Sistemas de Información.
+**Evalúa:** CE014 - Gestión de Sistemas de Información.
 
-- GP-4.1 - Arquitectura de Solución.
-- GP-4.2 - Integración con SI Existentes.
-- GP-4.3 - Diseño de Seguridad.
-- GP-4.4 - Diseño de Dato.
-- GP-4.5 - Soporte a Decisiones.
-- GP-4.6 - Plan de Operaciones.
-- GP-4.7 - Prototipo o Prueba de Concepto.
+- CE0141 - Mapa del Ecosistema de Sistemas de Información de la Organización.
+- CE0142 - Arquitectura Conceptual del Sistema de Información Propuesto.
+- CE0143 - Modelo de Integración de Sistemas y Flujos de Información.
+- CE0144 - Plan de Implementación y Gestión del Sistema de Información.
+- CE0145 - Indicadores de Uso, Valor y Mejora del Sistema de Información.
+
+### Distribución por semestre
+
+#### Semestre 1
+
+El producto final de este semestre tiene lo siguiente:
+
+##### CE011: Gestión e Innovación de TI
+
+- CE0111: Diagnóstico Organizacional.
+- CE0112: Alineamiento Estratégico.
+- CE0113: Caso de Negocio.
+- CE0114: Roadmap de Tecnología.
+- CE0115: Matriz de Riesgos Estratégicos.
+
+##### CE012: Gestión de Proyectos
+
+- CE0121: Acta de Constitución del Proyecto (Project Charter).
+- CE0122: Plan de Gestión del Proyecto (alcance, tiempo, costo y recursos).
+- CE0123: Estructura de Desglose del Trabajo (WBS) y Cronograma del Proyecto.
+- CE0124: Análisis Económico y Evaluación de Viabilidad del Proyecto.
+- CE0125: Plan de Gestión de Riesgos del Proyecto.
+
+##### CE013: Gestión de Procesos
+
+- CE0131: Identificación y Caracterización de Procesos Organizacionales.
+- CE0132: Modelado de Procesos AS-IS (situación actual).
+- CE0133: Modelado de Procesos TO-BE (propuesta de mejora).
+- CE0134: Propuesta de Automatización o Mejora de Procesos mediante TIC.
+- CE0135: Indicadores de Desempeño y Evaluación de Impacto del Proceso.
+
+#### Semestre 2
+
+El producto final de este semestre tiene lo siguiente:
+
+##### CE014: Gestión de Sistemas de Información
+
+- CE0141: Mapa del Ecosistema de Sistemas de Información de la Organización.
+- CE0142: Arquitectura Conceptual del Sistema de Información Propuesto.
+- CE0143: Modelo de Integración de Sistemas y Flujos de Información.
+- CE0144: Plan de Implementación y Gestión del Sistema de Información.
+- CE0145: Indicadores de Uso, Valor y Mejora del Sistema de Información.
 
 ## 5. Ruta de construcción y evaluación durante la carrera
 

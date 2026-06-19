@@ -43,11 +43,11 @@ Demostrar que el estudiante comprende el contexto organizacional, identifica bre
 
 Artefactos de la evidencia:
 
-- GP-1.1: Diagnóstico organizacional.
-- GP-1.2: Alineamiento estratégico.
-- GP-1.3: Caso de negocio.
-- GP-1.4: Roadmap de tecnología.
-- GP-1.5: Matriz de riesgos estratégicos.
+- CE0111: Diagnóstico Organizacional.
+- CE0112: Alineamiento Estratégico.
+- CE0113: Caso de Negocio.
+- CE0114: Roadmap de Tecnología.
+- CE0115: Matriz de Riesgos Estratégicos.
 
 Componentes del producto:
 
@@ -90,12 +90,11 @@ Demostrar que el estudiante puede planificar, organizar, controlar y sustentar u
 
 Artefactos de la evidencia:
 
-- GP-2.1: Plan del proyecto.
-- GP-2.2: Cronograma detallado.
-- GP-2.3: Presupuesto.
-- GP-2.4: Matriz de riesgos del proyecto.
-- GP-2.5: Backlog priorizado.
-- GP-2.6: Plan de comunicaciones.
+- CE0121: Acta de Constitución del Proyecto (Project Charter).
+- CE0122: Plan de Gestión del Proyecto (alcance, tiempo, costo y recursos).
+- CE0123: Estructura de Desglose del Trabajo (WBS) y Cronograma del Proyecto.
+- CE0124: Análisis Económico y Evaluación de Viabilidad del Proyecto.
+- CE0125: Plan de Gestión de Riesgos del Proyecto.
 
 Descripción:
 
@@ -125,11 +124,11 @@ Demostrar que el estudiante puede analizar procesos organizacionales, identifica
 
 Artefactos de la evidencia:
 
-- GP-3.1: Modelado de procesos actuales.
-- GP-3.2: Análisis de oportunidades.
-- GP-3.3: Modelado de procesos mejorados.
-- GP-3.4: Indicadores de proceso.
-- GP-3.5: Plan de cambio organizacional.
+- CE0131: Identificación y Caracterización de Procesos Organizacionales.
+- CE0132: Modelado de Procesos AS-IS (situación actual).
+- CE0133: Modelado de Procesos TO-BE (propuesta de mejora).
+- CE0134: Propuesta de Automatización o Mejora de Procesos mediante TIC.
+- CE0135: Indicadores de Desempeño y Evaluación de Impacto del Proceso.
 
 Descripción:
 
@@ -154,13 +153,11 @@ Demostrar que el estudiante puede proponer una solución tecnológica coherente 
 
 Artefactos de la evidencia:
 
-- GP-4.1: Arquitectura de solución.
-- GP-4.2: Integración con sistemas de información existentes.
-- GP-4.3: Diseño de seguridad.
-- GP-4.4: Diseño de datos.
-- GP-4.5: Soporte a decisiones.
-- GP-4.6: Plan de operaciones.
-- GP-4.7: Prototipo o prueba de concepto.
+- CE0141: Mapa del Ecosistema de Sistemas de Información de la Organización.
+- CE0142: Arquitectura Conceptual del Sistema de Información Propuesto.
+- CE0143: Modelo de Integración de Sistemas y Flujos de Información.
+- CE0144: Plan de Implementación y Gestión del Sistema de Información.
+- CE0145: Indicadores de Uso, Valor y Mejora del Sistema de Información.
 
 Descripción:
 

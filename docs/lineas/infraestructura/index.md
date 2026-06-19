@@ -50,31 +50,52 @@ Las evidencias de la línea permiten comprobar que el estudiante no solo conoce 
 
 | Competencia | Foco de evidencia | Cantidad |
 | --- | --- | ---: |
-| CE031: Conectividad | Diseño, implementación, testing y control de red. | 3 |
-| CE032: Gestión de la Seguridad de la Información | Planificación, implementación de controles, monitoreo, mejora y ética. | 4 |
-| CE033: Implementación de Centro de Datos | Diseño, implementación, control y operación de centro de datos. | 3 |
+| CE031: Conectividad | CE0311, CE0312 y CE0313. | 3 |
+| CE032: Gestión de la Seguridad de la Información | CE0321, CE0322, CE0323 y CE0324. | 4 |
+| CE033: Implementación de Centro de Datos | CE0331, CE0332 y CE0333. | 3 |
 
 ### Resumen de evidencias por competencia
+
+#### CE031: Conectividad
+
+- CE0311: Diseño de red.
+- CE0312: Implementación de red.
+- CE0313: Testing y control de red.
+
+#### CE032: Gestión de la Seguridad de la Información
+
+- CE0321: Planificación de Seguridad.
+- CE0322: Implementación de controles.
+- CE0323: Monitoreo y mejora.
+- CE0324: Ética ACM.
+
+#### CE033: Implementación de Centro de Datos
+
+- CE0331: Diseño de centro de datos.
+- CE0332: Implementación de centro de datos.
+- CE0333: Control y operación de centro de datos.
+
+### Distribución por semestre
 
 #### Semestre 1: Marzo - Junio
 
 El producto final de este semestre tiene lo siguiente:
 
-##### C1.1 Diseño de red
+##### CE0311 Diseño de red
 
 - Levanta requerimientos técnicos y de negocio.
 - Diseña topología lógica y física adecuada.
 - Aplica segmentación (VLAN, DMZ, subnetting).
 - Incorpora redundancia y alta disponibilidad.
 
-##### C2.1 Planificación
+##### CE0321 Planificación de Seguridad
 
 - Identifica activos críticos.
 - Realiza análisis de riesgos (ISO 27005 / NIST).
 - Define políticas de seguridad.
 - Establece roles y responsabilidades.
 
-##### C3.1 Diseño de centro de datos
+##### CE0331 Diseño de centro de datos
 
 - Define arquitectura (Tier I-IV, Uptime Institute).
 - Diseña layout físico.
@@ -85,7 +106,7 @@ El producto final de este semestre tiene lo siguiente:
 
 El producto final de este semestre tiene lo siguiente:
 
-##### C1.2 Implementación
+##### CE0312 Implementación de red
 
 - Configura correctamente dispositivos (switch, router, firewall).
 - Implementa direccionamiento IP estructurado.
@@ -93,41 +114,41 @@ El producto final de este semestre tiene lo siguiente:
 - Implementa controles de acceso (ACL).
 - Cumple estándares (TIA/EIA, IEEE 802.x, ISO/IEC 11801).
 
-##### C1.3 Testing y control
+##### CE0313 Testing y control de red
 
 - Ejecuta pruebas de conectividad y rendimiento.
 - Mide latencia, pérdida de paquetes y throughput.
 - Documenta incidencias y acciones correctivas.
 - Implementa monitoreo (SNMP, logs).
 
-##### C2.2 Implementación de controles
+##### CE0322 Implementación de controles
 
 - Implementa controles técnicos (IAM, cifrado, firewall, backup).
 - Aplica principio de mínimo privilegio.
 - Gestiona parches y actualizaciones.
 - Implementa planes de continuidad.
 
-##### C2.3 Monitoreo y mejora
+##### CE0323 Monitoreo y mejora
 
 - Define KPIs de seguridad.
 - Implementa registro y auditoría.
 - Evalúa vulnerabilidades.
 - Propone mejoras continuas.
 
-##### C2.4 Ética ACM
+##### CE0324 Ética ACM
 
 - Respeta confidencialidad.
 - Cumple normativa de protección de datos.
 - Evalúa impacto social y legal de decisiones técnicas.
 
-##### C3.2 Implementación
+##### CE0332 Implementación de centro de datos
 
 - Configura servidores físicos o virtuales.
 - Implementa servicios (AD, DNS, Web, BD).
 - Configura almacenamiento (RAID, SAN, NAS).
 - Implementa políticas de respaldo.
 
-##### C3.3 Control y operación
+##### CE0333 Control y operación de centro de datos
 
 - Define SLA.
 - Implementa monitoreo de infraestructura.

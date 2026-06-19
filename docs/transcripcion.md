@@ -38,39 +38,62 @@ Diseña y ejecuta proyectos de infraestructura tecnológica para contribuir en l
 
 ### Competencia de Infraestructura Tecnológica
 
-#### 🔷 C1 — (Conectividad)
+#### CE031 — Conectividad
 
 Diseña, implementa y valida infraestructuras de red organizacionales, asegurando segmentación, disponibilidad, rendimiento y cumplimiento de normas nacionales e internacionales de conectividad, garantizando transferencia segura y eficiente de la información.
 
-#### 🔷 C2 — (Gestión de la Seguridad de la Información)
+#### CE032 — Gestión de la Seguridad de la Información
 
 Planifica e implementa controles de seguridad basados en estándares internacionales, asegurando protección de activos críticos, gestión de riesgos, continuidad operativa, monitoreo permanente y mejora continua conforme a marcos como ISO 27001 y NIST.
 
-#### 🔷 C3 — (Implementación de Centro de Datos)
+#### CE033 — Implementación de Centro de Datos
 
 Diseña y despliega servicios de infraestructura y centro de datos, integrando virtualización, almacenamiento, alta disponibilidad y monitoreo, garantizando soporte tecnológico confiable para los objetivos estratégicos de la organización.
 
+### Resumen de evidencias por competencia
+
+#### CE031: Conectividad
+
+- CE0311: Diseño de red.
+- CE0312: Implementación de red.
+- CE0313: Testing y control de red.
+
+#### CE032: Gestión de la Seguridad de la Información
+
+- CE0321: Planificación de Seguridad.
+- CE0322: Implementación de controles.
+- CE0323: Monitoreo y mejora.
+- CE0324: Ética ACM.
+
+#### CE033: Implementación de Centro de Datos
+
+- CE0331: Diseño de centro de datos.
+- CE0332: Implementación de centro de datos.
+- CE0333: Control y operación de centro de datos.
+
 ---
+
+### Distribución por semestre
 
 ### Semestre 1: Marzo – Junio
 
 El producto final de este semestre tiene lo siguiente:
 
-#### C1.1 Diseño de red
+#### CE0311 Diseño de red
 
 - Levanta requerimientos técnicos y de negocio.
 - Diseña topología lógica y física adecuada.
 - Aplica segmentación (VLAN, DMZ, subnetting).
 - Incorpora redundancia y alta disponibilidad.
 
-#### C2.1 Planificación
+#### CE0321 Planificación de Seguridad
 
 - Identifica activos críticos.
 - Realiza análisis de riesgos (ISO 27005 / NIST).
 - Define políticas de seguridad.
 - Establece roles y responsabilidades.
 
-#### C3.1 Diseño de centro de datos
+#### CE0331 Diseño de centro de datos
 
 - Define arquitectura (Tier I–IV, Uptime Institute).
 - Diseña layout físico.
@@ -83,7 +106,7 @@ El producto final de este semestre tiene lo siguiente:
 
 El producto final de este semestre tiene lo siguiente:
 
-#### C1.2 Implementación
+#### CE0312 Implementación de red
 
 - Configura correctamente dispositivos (switch, router, firewall).
 - Implementa direccionamiento IP estructurado.
@@ -91,41 +114,41 @@ El producto final de este semestre tiene lo siguiente:
 - Implementa controles de acceso (ACL).
 - Cumple estándares (TIA/EIA, IEEE 802.x, ISO/IEC 11801).
 
-#### C1.3 Testing y control
+#### CE0313 Testing y control de red
 
 - Ejecuta pruebas de conectividad y rendimiento.
 - Mide latencia, pérdida de paquetes y throughput.
 - Documenta incidencias y acciones correctivas.
 - Implementa monitoreo (SNMP, logs).
 
-#### C2.2 Implementación de controles
+#### CE0322 Implementación de controles
 
 - Implementa controles técnicos (IAM, cifrado, firewall, backup).
 - Aplica principio de mínimo privilegio.
 - Gestiona parches y actualizaciones.
 - Implementa planes de continuidad.
 
-#### C2.3 Monitoreo y mejora
+#### CE0323 Monitoreo y mejora
 
 - Define KPIs de seguridad.
 - Implementa registro y auditoría.
 - Evalúa vulnerabilidades.
 - Propone mejoras continuas.
 
-#### C2.4 Ética ACM
+#### CE0324 Ética ACM
 
 - Respeta confidencialidad.
 - Cumple normativa de protección de datos.
 - Evalúa impacto social y legal de decisiones técnicas.
 
-#### C3.2 Implementación
+#### CE0332 Implementación de centro de datos
 
 - Configura servidores físicos o virtuales.
 - Implementa servicios (AD, DNS, Web, BD).
 - Configura almacenamiento (RAID, SAN, NAS).
 - Implementa políticas de respaldo.
 
-#### C3.3 Control y operación
+#### CE0333 Control y operación de centro de datos
 
 - Define SLA.
 - Implementa monitoreo de infraestructura.
@@ -134,7 +157,7 @@ El producto final de este semestre tiene lo siguiente:
 
 ---
 
-### Entregable 1: Diseño de Red (Alineado con C1.1)
+### Entregable 1: Diseño de Red (Alineado con CE0311)
 
 #### Descripción
 
@@ -194,7 +217,7 @@ Documento que incluye levantamiento de requerimientos, diseño de topología ló
 | Calidad Documental y Ética | Documento profesional, con lenguaje claro y mención ética (ACM). | Buena estructura, pero con errores menores. | Estructura básica, con fallos en claridad. | Desorganizado o sin ética. |
 
 
-### Entregable 2: Planificación de Seguridad (Alineado con C2.1)
+### Entregable 2: Planificación de Seguridad (Alineado con CE0321)
 
 #### Descripción
 
@@ -254,7 +277,7 @@ Documento que identifica activos críticos, análisis de riesgos, políticas de 
 
 ---
 
-### Entregable 3: Diseño de Centro de Datos (Alineado con C3.1)
+### Entregable 3: Diseño de Centro de Datos (Alineado con CE0331)
 
 #### Descripción
 
@@ -329,7 +352,7 @@ La rúbrica para el producto final suma las de los entregables (**máximo 68 pun
 
 ---
 
-### Entregable 1: Implementación y Testing de Red (Alineado con C1.2 y C1.3)
+### Entregable 1: Implementación y Testing de Red (Alineado con CE0312 y CE0313)
 
 #### Descripción
 
@@ -392,7 +415,7 @@ Documento y evidencias de configuración de dispositivos, routing, controles, pr
 
 ---
 
-### Entregable 2: Implementación, Monitoreo y Ética de Seguridad (Alineado con C2.2, C2.3 y C2.4)
+### Entregable 2: Implementación, Monitoreo y Ética de Seguridad (Alineado con CE0322, CE0323 y CE0324)
 
 #### Descripción
 
@@ -457,7 +480,7 @@ Documento con controles técnicos, planes de continuidad, KPIs, auditoría y ét
 
 ---
 
-### Entregable 3: Implementación y Control de Centro de Datos (Alineado con C3.2 y C3.3)
+### Entregable 3: Implementación y Control de Centro de Datos (Alineado con CE0332 y CE0333)
 
 #### Descripción
 
@@ -561,71 +584,167 @@ El proyecto cubre integralmente las etapas del modelo CDIO (Conceive, Design, Im
 
 El proyecto integrador abarca cuatro competencias fundamentales de especialidad y culmina con la presentación y evaluación de 4 entregables principales.
 
+### Competencias de Gestión TI
+
+#### CE011: Gestión e Innovación de TI
+
+Administra un Plan Estratégico de TI alineado a la estrategia de negocio. Esta competencia permite diagnosticar brechas, priorizar iniciativas, justificar inversiones y orientar la tecnología hacia resultados organizacionales.
+
+#### CE012: Gestión de Proyectos
+
+Aplica los principios de gestión en computación, las metodologías apropiadas a su campo y la toma de decisiones económicas considerando eventuales riesgos, como individuo y como miembro o líder de equipo, para gestionar proyectos en entornos multidisciplinarios.
+
+#### CE013: Gestión de Procesos
+
+Gestiona los procesos de las organizaciones con soluciones TIC. Esta competencia permite modelar procesos actuales, identificar oportunidades de mejora, proponer rediseños y definir indicadores de desempeño.
+
+#### CE014: Gestión de Sistemas de Información
+
+Apoya la prestación, el uso y la gestión de sistemas de información dentro de un entorno de sistemas de información. Esta competencia conecta la solución tecnológica con datos, seguridad, integración, operación y toma de decisiones.
+
+### Resumen de evidencias por competencia
+
+#### Entregable 1: Diagnóstico y Caso de Negocio
+
+**Evalúa:** CE011 - Gobierno e Innovación de TI.
+
+- CE0111 - Diagnóstico Organizacional.
+- CE0112 - Alineamiento Estratégico.
+- CE0113 - Caso de Negocio.
+- CE0114 - Roadmap de Tecnología.
+- CE0115 - Matriz de Riesgos Estratégicos.
+
+#### Entregable 2: Plan de Gestión Integral
+
+**Evalúa:** CE012 - Gestión de Proyectos.
+
+- CE0121 - Acta de Constitución del Proyecto (Project Charter).
+- CE0122 - Plan de Gestión del Proyecto (alcance, tiempo, costo y recursos).
+- CE0123 - Estructura de Desglose del Trabajo (WBS) y Cronograma del Proyecto.
+- CE0124 - Análisis Económico y Evaluación de Viabilidad del Proyecto.
+- CE0125 - Plan de Gestión de Riesgos del Proyecto.
+
+#### Entregable 3: Mejora de Procesos
+
+**Evalúa:** CE013 - Gestión de Procesos.
+
+- CE0131 - Identificación y Caracterización de Procesos Organizacionales.
+- CE0132 - Modelado de Procesos AS-IS (situación actual).
+- CE0133 - Modelado de Procesos TO-BE (propuesta de mejora).
+- CE0134 - Propuesta de Automatización o Mejora de Procesos mediante TIC.
+- CE0135 - Indicadores de Desempeño y Evaluación de Impacto del Proceso.
+
+#### Entregable 4: Solución Técnica Integrada
+
+**Evalúa:** CE014 - Gestión de Sistemas de Información.
+
+- CE0141 - Mapa del Ecosistema de Sistemas de Información de la Organización.
+- CE0142 - Arquitectura Conceptual del Sistema de Información Propuesto.
+- CE0143 - Modelo de Integración de Sistemas y Flujos de Información.
+- CE0144 - Plan de Implementación y Gestión del Sistema de Información.
+- CE0145 - Indicadores de Uso, Valor y Mejora del Sistema de Información.
+
+### Distribución por semestre
+
+#### Semestre 1
+
+El producto final de este semestre tiene lo siguiente:
+
+##### CE011: Gestión e Innovación de TI
+
+- CE0111: Diagnóstico Organizacional.
+- CE0112: Alineamiento Estratégico.
+- CE0113: Caso de Negocio.
+- CE0114: Roadmap de Tecnología.
+- CE0115: Matriz de Riesgos Estratégicos.
+
+##### CE012: Gestión de Proyectos
+
+- CE0121: Acta de Constitución del Proyecto (Project Charter).
+- CE0122: Plan de Gestión del Proyecto (alcance, tiempo, costo y recursos).
+- CE0123: Estructura de Desglose del Trabajo (WBS) y Cronograma del Proyecto.
+- CE0124: Análisis Económico y Evaluación de Viabilidad del Proyecto.
+- CE0125: Plan de Gestión de Riesgos del Proyecto.
+
+##### CE013: Gestión de Procesos
+
+- CE0131: Identificación y Caracterización de Procesos Organizacionales.
+- CE0132: Modelado de Procesos AS-IS (situación actual).
+- CE0133: Modelado de Procesos TO-BE (propuesta de mejora).
+- CE0134: Propuesta de Automatización o Mejora de Procesos mediante TIC.
+- CE0135: Indicadores de Desempeño y Evaluación de Impacto del Proceso.
+
+#### Semestre 2
+
+El producto final de este semestre tiene lo siguiente:
+
+##### CE014: Gestión de Sistemas de Información
+
+- CE0141: Mapa del Ecosistema de Sistemas de Información de la Organización.
+- CE0142: Arquitectura Conceptual del Sistema de Información Propuesto.
+- CE0143: Modelo de Integración de Sistemas y Flujos de Información.
+- CE0144: Plan de Implementación y Gestión del Sistema de Información.
+- CE0145: Indicadores de Uso, Valor y Mejora del Sistema de Información.
+
 ---
 
 ### ENTREGABLE 1: Diagnóstico y Caso de Negocio
-**(Evalúa: C1 — Gobierno e Innovación de TI)**
+**(Evalúa: CE011 — Gestión e Innovación de TI)**
 
-##### GP-1.1 — Diagnóstico Organizacional
+##### CE0111 — Diagnóstico Organizacional
 
-##### GP-1.2 — Alineamiento Estratégico
+##### CE0112 — Alineamiento Estratégico
 
-##### GP-1.3 — Caso de Negocio
+##### CE0113 — Caso de Negocio
 
-##### GP-1.4 — Roadmap de Tecnología
+##### CE0114 — Roadmap de Tecnología
 
-##### GP-1.5 — Matriz de Riesgos Estratégicos
+##### CE0115 — Matriz de Riesgos Estratégicos
 
 ---
 
 ### ENTREGABLE 2: Plan de Gestión Integral
-**(Evalúa: C2 — Gestión de Proyectos)**
+**(Evalúa: CE012 — Gestión de Proyectos)**
 
-##### GP-2.1 — Plan del Proyecto
+##### CE0121 - Acta de Constitución del Proyecto (Project Charter)
 
-##### GP-2.2 — Cronograma Detallado
+##### CE0122 - Plan de Gestión del Proyecto (alcance, tiempo, costo y recursos)
 
-##### GP-2.3 — Presupuesto
+##### CE0123 - Estructura de Desglose del Trabajo (WBS) y Cronograma del Proyecto
 
-##### GP-2.4 — Matriz de Riesgos del Proyecto
+##### CE0124 - Análisis Económico y Evaluación de Viabilidad del Proyecto
 
-##### GP-2.5 — Backlog Priorizado
-
-##### GP-2.6 — Plan de Comunicaciones
+##### CE0125 - Plan de Gestión de Riesgos del Proyecto
 
 ---
 
 ### ENTREGABLE 3: Mejora de Procesos
-**(Evalúa: C3 — Gestión de Procesos)**
+**(Evalúa: CE013 — Gestión de Procesos)**
 
-##### GP-3.1 — Modelado Procesos Actuales
+##### CE0131 - Identificación y Caracterización de Procesos Organizacionales
 
-##### GP-3.2 — Análisis de Oportunidades
+##### CE0132 - Modelado de Procesos AS-IS (situación actual)
 
-##### GP-3.3 — Modelado Procesos Mejorados
+##### CE0133 - Modelado de Procesos TO-BE (propuesta de mejora)
 
-##### GP-3.4 — Indicadores de Proceso
+##### CE0134 - Propuesta de Automatización o Mejora de Procesos mediante TIC
 
-##### GP-3.5 — Plan de Cambio Organizacional
+##### CE0135 - Indicadores de Desempeño y Evaluación de Impacto del Proceso
 
 ---
 
 ### ENTREGABLE 4: Solución Técnica Integrada
-**(Evalúa: C4 — Gestión de Sistemas de Información)**
+**(Evalúa: CE014 — Gestión de Sistemas de Información)**
 
-##### GP-4.1 — Arquitectura de Solución
+##### CE0141 - Mapa del Ecosistema de Sistemas de Información de la Organización
 
-##### GP-4.2 — Integración con SI Existentes
+##### CE0142 - Arquitectura Conceptual del Sistema de Información Propuesto
 
-##### GP-4.3 — Diseño de Seguridad
+##### CE0143 - Modelo de Integración de Sistemas y Flujos de Información
 
-##### GP-4.4 — Diseño de Dato
+##### CE0144 - Plan de Implementación y Gestión del Sistema de Información
 
-##### GP-4.5 — Soporte a Decisiones
-
-##### GP-4.6 — Plan de Operaciones
-
-##### GP-4.7 — Prototipo o Prueba de Concepto
+##### CE0145 - Indicadores de Uso, Valor y Mejora del Sistema de Información
 
 ---
 
@@ -929,6 +1048,48 @@ Gestiona y asegura la calidad del producto y del proceso de desarrollo de softwa
 - CE0235: Aplicación móvil integrada con servicios digitales.
 
 #### CE024: Calidad de Software
+
+- CE0241: Suite de pruebas automatizadas.
+- CE0242: Pipeline de integración y despliegue continuo.
+- CE0243: Gestión técnica y aseguramiento de calidad.
+- CE0244: Auditoría técnica y evolución del sistema.
+
+### Distribución por semestre
+
+#### Semestre 1
+
+El producto final de este semestre tiene lo siguiente:
+
+##### CE021: Ingeniería de Requerimientos
+
+- CE0211: Especificación de requerimientos validada.
+- CE0212: Prototipo navegable validado.
+- CE0213: Diseño arquitectónico del sistema.
+- CE0214: Diseño detallado del sistema.
+
+##### CE022: Ingeniería de la Información
+
+- CE0221: Modelo de datos relacional documentado y validado.
+- CE0222: Base de datos relacional implementada y consultable.
+
+#### Semestre 2
+
+El producto final de este semestre tiene lo siguiente:
+
+##### CE022: Ingeniería de la Información
+
+- CE0223: Motor transaccional programado y optimizado.
+- CE0224: Base de datos empresarial administrada, asegurada y operativa.
+
+##### CE023: Programación
+
+- CE0231: Aplicación desktop funcional con persistencia de datos.
+- CE0232: Sistema de información web integrado con base de datos.
+- CE0233: Aplicación empresarial full-stack desplegable.
+- CE0234: Sistema distribuido escalable basado en servicios interoperables.
+- CE0235: Aplicación móvil integrada con servicios digitales.
+
+##### CE024: Calidad de Software
 
 - CE0241: Suite de pruebas automatizadas.
 - CE0242: Pipeline de integración y despliegue continuo.
