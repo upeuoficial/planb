@@ -8,7 +8,7 @@ Los estándares técnicos o académicos particulares de cada línea se documenta
 
 ## Estándar de topics
 
-Todos los repositorios académicos deben configurar los siguientes **topics**:
+Todos los repositorios académicos deben configurar como mínimo los siguientes **topics**:
 
 ```text
 campus-<lima|juliaca|tarapoto>
