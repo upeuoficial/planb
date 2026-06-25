@@ -110,5 +110,8 @@ Los nombres de los cursos deben corresponder al catálogo oficial definido por l
 | Big Data                      | `bigdata`      |
 | Minería de Datos              | `mineriadatos` |
 | Inteligencia de Negocios (BI) | `bi`           |
+| Inteligencia Artificial (IA)  | `ia`           |
+| Machine Learning (ML)         | `ml`           |
+| Internet de las Cosas (IoT)   | `iot`          |
 
 Utilizar únicamente los topics definidos en este catálogo. No crear variantes, traducciones ni abreviaturas diferentes.
