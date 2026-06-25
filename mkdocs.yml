@@ -1,6 +1,8 @@
 site_name: Documentos oficiales de la Escuela de Sistemas
 site_description: Documento oficial de evaluación del perfil de egreso y guías complementarias en construcción para proyectos progresivos de Ingeniería de Sistemas.
 docs_dir: docs
+exclude_docs: |
+  lineas/**
 
 theme:
   name: material
@@ -33,20 +35,6 @@ extra_css:
 nav:
   - Inicio: index.md
   - Evaluación del perfil de egreso: transcripcion.md
-  - Guías complementarias en construcción:
-      - Gestión TI:
-          - Guía preliminar de la línea: lineas/gestion/index.md
-          - Evidencias progresivas en construcción: lineas/gestion/evidencias.md
-          - Orientación preliminar para la EPE: lineas/gestion/evaluacion-perfil-egreso.md
-      - Ingeniería de Software:
-          - Guía preliminar de la línea: lineas/software/index.md
-          - Evidencias progresivas en construcción: lineas/software/evidencias.md
-          - Orientación preliminar para la EPE: lineas/software/evaluacion-perfil-egreso.md
-      - Infraestructura:
-          - Guía preliminar de la línea: lineas/infraestructura/index.md
-          - Evidencias progresivas en construcción: lineas/infraestructura/evidencias.md
-          - Orientación preliminar para la EPE: lineas/infraestructura/evaluacion-perfil-egreso.md
-      - Ciencia de Datos e IA:
-          - Guía preliminar de la línea: lineas/cd-ia/index.md
-          - Evidencias progresivas en construcción: lineas/cd-ia/evidencias.md
-          - Orientación preliminar para la EPE: lineas/cd-ia/evaluacion-perfil-egreso.md
+  - Anexos:
+      - Estándares transversales:
+          - Topics para repositorios académicos: anexos/estandar-topics-repositorios.md
