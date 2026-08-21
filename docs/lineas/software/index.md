@@ -155,7 +155,7 @@ La ruta no reemplaza los niveles de logro. Los niveles de logro indican el grado
 
 | Ciclo | Curso o cursos | Hito de evaluación | Propósito en la línea |
 | --- | --- | --- | --- |
-| C1 | Fundamentos de Programación (FP) | Compendio de ejercicios | Desarrollar pensamiento algorítmico mediante ejercicios progresivos al estilo matemático. |
+| C1 | Fundamentos de Programación (FP) | Proyecto Sello inicial (PS) | Desarrollar pensamiento algorítmico mediante ejercicios progresivos que alimentan una aplicación CLI simple, funcional y sustentable. |
 | C2 | Programación Orientada a Objetos (POO) | Proyecto Sello (PS) | Construir una aplicación orientada a objetos con estructura, clases, responsabilidades y persistencia inicial. |
 | C3 | Ingeniería de Requerimientos (REQ), Base de Datos I (BD1) y Lenguaje de Programación I (LP1) | Proyecto Integrador (PI) | Integrar requerimientos, modelo de datos e implementación web o de sistema de información inicial. |
 | C4 | Análisis y Diseño de Sistemas (ADS), Base de Datos II (BD2) y Lenguaje de Programación II (LP2) | Proyecto Integrador (PI) | Evolucionar el sistema con diseño arquitectónico, base de datos avanzada, backend, frontend y despliegue. |

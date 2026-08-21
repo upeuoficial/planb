@@ -14,11 +14,12 @@
 ## Índice de líneas evaluadas
 
 - [CE03: Infraestructura Tecnológica](#a-area-de-infraestructura)
-    - [CE0311 - S1 - E1: Análisis y Diseño de Red](#ce0311-entregable-1-analisis-y-diseno-de-red)
-    - [CE0331 - S1 - E2: Análisis y Diseño de Centro de Datos Híbrido](#ce0331-entregable-2-analisis-y-diseno-de-centro-de-datos-hibrido)
-    - [CE0321-CE0324 - S2 - E1: Planificación e Implementación del SGSI](#ce0321-ce0324-entregable-1-planificacion-e-implementacion-del-sgsi)
-    - [CE0312-CE0313 - S2 - E2: Implementación, Testing y Monitoreo de Red](#ce0312-ce0313-entregable-2-implementacion-testing-y-monitoreo-de-red)
-    - [CE0332-CE0333 - S2 - E3: Implementación, Gestión y Control de Centro de Datos](#ce0332-ce0333-entregable-3-implementacion-gestion-y-control-de-centro-de-datos)
+    - [CE0311 - Entregable 1: Diseño de Red](#entregable-1-diseno-de-red-alineado-con-ce0311)
+    - [CE0321 - Entregable 2: Planificación de Seguridad](#entregable-2-planificacion-de-seguridad-alineado-con-ce0321)
+    - [CE0331 - Entregable 3: Diseño de Centro de Datos](#entregable-3-diseno-de-centro-de-datos-alineado-con-ce0331)
+    - [CE0312-CE0313 - Entregable 1: Implementación y Testing de Red](#entregable-1-implementacion-y-testing-de-red-alineado-con-ce0312-y-ce0313)
+    - [CE0322-CE0324 - Entregable 2: Implementación, Monitoreo y Ética de Seguridad](#entregable-2-implementacion-monitoreo-y-etica-de-seguridad-alineado-con-ce0322-ce0323-y-ce0324)
+    - [CE0332-CE0333 - Entregable 3: Implementación y Control de Centro de Datos](#entregable-3-implementacion-y-control-de-centro-de-datos-alineado-con-ce0332-y-ce0333)
 - [CE01: Gestión de Tecnologías de Información](#b-area-de-gestion-de-tecnologias-de-informacion-gti)
     - [CE0111-CE0115 - Entregable 1: Diagnóstico Organizacional y Alineamiento Estratégico](#entregable-1-diagnostico-organizacional-y-alineamiento-estrategico)
     - [CE0113 - Entregable 2: Business Case del Proyecto](#entregable-2-business-case-del-proyecto)
@@ -62,17 +63,11 @@ Los niveles están organizados de manera secuencial y acumulativa:
 
 ## A. ÁREA DE INFRAESTRUCTURA
 
-Proyecto de fin de carrera en la línea de infraestructura tecnológica de la carrera de Ingeniería de Sistemas.
+Proyecto de fin de carrera en la línea de infraestructura tecnológica de la carrera de ingeniería de sistemas.
 
 ### Infraestructura Tecnológica
 
 Diseña y ejecuta proyectos de infraestructura tecnológica para contribuir en la solución de problemas de la organización siguiendo estándares internacionales y presenta formalmente sus resultados demostrando una actitud ética de la ACM.
-
-### Enfoque curricular de la línea
-
-La línea de Infraestructura evalúa la capacidad del estudiante para concebir, diseñar, implementar, validar, operar y sustentar una arquitectura tecnológica híbrida, integrando conectividad, seguridad de la información, centro de datos, servicios cloud, monitoreo y criterios éticos profesionales.
-
-El proyecto integrador de la línea se organiza alrededor de una **arquitectura de seguridad híbrida On-Premise + Cloud**, tomando como referencia un entorno local virtualizado con VMware ESXi y recursos cloud en AWS. La tecnología específica puede ajustarse según disponibilidad institucional, siempre que se mantenga la equivalencia técnica de los resultados esperados.
 
 ### Competencia de Infraestructura Tecnológica
 
@@ -82,11 +77,11 @@ Diseña, implementa y valida infraestructuras de red organizacionales, asegurand
 
 #### CE032 — Gestión de la Seguridad de la Información
 
-Planifica e implementa controles de seguridad basados en estándares internacionales, asegurando protección de activos críticos, gestión de riesgos, continuidad operativa, monitoreo permanente y mejora continua conforme a marcos como ISO/IEC 27001, ISO/IEC 27002, ISO/IEC 27005 y NIST.
+Planifica e implementa controles de seguridad basados en estándares internacionales, asegurando protección de activos críticos, gestión de riesgos, continuidad operativa, monitoreo permanente y mejora continua conforme a marcos como ISO 27001 y NIST.
 
 #### CE033 — Implementación de Centro de Datos
 
-Diseña y despliega servicios de infraestructura y centro de datos, integrando virtualización, almacenamiento, alta disponibilidad, nube híbrida y monitoreo, garantizando soporte tecnológico confiable para los objetivos estratégicos de la organización.
+Diseña y despliega servicios de infraestructura y centro de datos, integrando virtualización, almacenamiento, alta disponibilidad y monitoreo, garantizando soporte tecnológico confiable para los objetivos estratégicos de la organización.
 
 ### Resumen de evidencias por competencia CE03 Infraestructura
 
@@ -98,7 +93,7 @@ Diseña y despliega servicios de infraestructura y centro de datos, integrando v
 
 #### CE032: Gestión de la Seguridad de la Información
 
-- CE0321: Planificación de seguridad.
+- CE0321: Planificación de Seguridad.
 - CE0322: Implementación de controles.
 - CE0323: Monitoreo y mejora.
 - CE0324: Ética ACM.
@@ -109,375 +104,497 @@ Diseña y despliega servicios de infraestructura y centro de datos, integrando v
 - CE0332: Implementación de centro de datos.
 - CE0333: Control y operación de centro de datos.
 
-### Codificación de entregables por competencia específica
-
-La codificación de los entregables conserva la trazabilidad de la copia 2026-1 y se reorganiza según los nuevos documentos fuente de la línea. Cada código corresponde a un contenido evaluable de la competencia específica CE03.
-
-| Semestre | Entregable nuevo | Código(s) | Competencia específica | Contenidos asociados |
-| --- | --- | --- | --- | --- |
-| 1 | Análisis y Diseño de Red | CE0311 | CE031: Conectividad | Requerimientos de red, topología lógica y física, VLAN, DMZ, subnetting, direccionamiento, ruteo, seguridad perimetral, VPN híbrida, matriz de comunicación y diseño de detección. |
-| 1 | Análisis y Diseño de Centro de Datos Híbrido | CE0331 | CE033: Implementación de Centro de Datos | Arquitectura on-premise, VMware ESXi, arquitectura AWS, VPC, subredes, EC2, Security Groups, NACL, integración híbrida, dimensionamiento, capacidad, disponibilidad y continuidad prevista. |
-| 2 | Planificación e Implementación del SGSI | CE0321, CE0322, CE0323, CE0324 | CE032: Gestión de la Seguridad de la Información | Alcance del SGSI, inventario de activos, clasificación C-I-D, análisis de riesgos, tratamiento de riesgos, SoA, políticas, procedimientos, controles, monitoreo, auditoría, mejora y ética de seguridad. |
-| 2 | Implementación, Testing y Monitoreo de Red | CE0312, CE0313 | CE031: Conectividad | Implementación de VPN, firewall, DMZ, segmentación, IDS/IPS, honeypot, monitoreo, logs, pruebas de conectividad, pruebas de permitido/denegado, incidencias y evidencias técnicas. |
-| 2 | Implementación, Gestión y Control de Centro de Datos | CE0332, CE0333 | CE033: Implementación de Centro de Datos | Despliegue ESXi, vSwitches, port groups, VM, VPC, EC2, IAM, inventario final, backup, restore, recuperación, RTO/RPO, monitoreo operativo, CloudWatch y control de configuración. |
-
 ---
 
 ### Distribución por semestre
 
 ### Semestre 1: Marzo – Junio
 
-El primer semestre consolida el diseño técnico de la arquitectura híbrida. El estudiante debe demostrar que comprende el problema organizacional, diseña una red segura y plantea una plataforma de centro de datos híbrido técnicamente viable.
+El producto final de este semestre tiene lo siguiente:
 
-#### Entregables del Semestre 1
+#### CE0311 Diseño de red
 
-1. CE0311 - Análisis y Diseño de Red.
-2. CE0331 - Análisis y Diseño de Centro de Datos Híbrido.
+- Levanta requerimientos técnicos y de negocio.
+- Diseña topología lógica y física adecuada.
+- Aplica segmentación (VLAN, DMZ, subnetting).
+- Incorpora redundancia y alta disponibilidad.
+
+#### CE0321 Planificación de Seguridad
+
+- Identifica activos críticos.
+- Realiza análisis de riesgos (ISO 27005 / NIST).
+- Define políticas de seguridad.
+- Establece roles y responsabilidades.
+
+#### CE0331 Diseño de centro de datos
+
+- Define arquitectura (Tier I–IV, Uptime Institute).
+- Diseña layout físico.
+- Dimensiona capacidad (CPU, RAM, almacenamiento).
+- Incorpora virtualización o cloud híbrido.
+
+---
 
 ### Semestre 2: Agosto – Noviembre
 
-El segundo semestre consolida la implementación, validación, monitoreo y control de la arquitectura diseñada. El estudiante debe demostrar que puede ejecutar el diseño, justificar cambios, implementar controles de seguridad y evidenciar operación técnica.
+El producto final de este semestre tiene lo siguiente:
 
-#### Entregables del Semestre 2
+#### CE0312 Implementación de red
 
-1. CE0321-CE0324 - Planificación e Implementación del SGSI.
-2. CE0312-CE0313 - Implementación, Testing y Monitoreo de Red.
-3. CE0332-CE0333 - Implementación, Gestión y Control de Centro de Datos.
+- Configura correctamente dispositivos (switch, router, firewall).
+- Implementa direccionamiento IP estructurado.
+- Configura routing (estático/dinámico).
+- Implementa controles de acceso (ACL).
+- Cumple estándares (TIA/EIA, IEEE 802.x, ISO/IEC 11801).
+
+#### CE0313 Testing y control de red
+
+- Ejecuta pruebas de conectividad y rendimiento.
+- Mide latencia, pérdida de paquetes y throughput.
+- Documenta incidencias y acciones correctivas.
+- Implementa monitoreo (SNMP, logs).
+
+#### CE0322 Implementación de controles
+
+- Implementa controles técnicos (IAM, cifrado, firewall, backup).
+- Aplica principio de mínimo privilegio.
+- Gestiona parches y actualizaciones.
+- Implementa planes de continuidad.
+
+#### CE0323 Monitoreo y mejora
+
+- Define KPIs de seguridad.
+- Implementa registro y auditoría.
+- Evalúa vulnerabilidades.
+- Propone mejoras continuas.
+
+#### CE0324 Ética ACM
+
+- Respeta confidencialidad.
+- Cumple normativa de protección de datos.
+- Evalúa impacto social y legal de decisiones técnicas.
+
+#### CE0332 Implementación de centro de datos
+
+- Configura servidores físicos o virtuales.
+- Implementa servicios (AD, DNS, Web, BD).
+- Configura almacenamiento (RAID, SAN, NAS).
+- Implementa políticas de respaldo.
+
+#### CE0333 Control y operación de centro de datos
+
+- Define SLA.
+- Implementa monitoreo de infraestructura.
+- Documenta procedimientos operativos.
+- Evalúa eficiencia energética y disponibilidad.
 
 ---
 
-### Reglas comunes para los entregables de Infraestructura
-
-Todos los entregables de la línea se califican sobre **100 puntos** y se convierten a **nota sobre 20**. La escala de desempeño es:
-
-| Nivel | Valor |
-| --- | ---: |
-| Excelente | 4 |
-| Logrado | 3 |
-| En proceso | 2 |
-| Insuficiente | 1 |
-| No evidenciado | 0 |
-
-La regla de cálculo es: **puntaje = peso × (nivel / 4)**.
-
-La evidencia debe ser verificable y reproducible. No se evalúa como diseñado, implementado o probado aquello que solo se describe de forma genérica. Cada elemento técnico debe permitir identificar qué se diseñó o configuró, dónde, con qué propósito y cuál fue el resultado.
-
-Por seguridad, ningún informe, captura, archivo de configuración o repositorio debe contener contraseñas, llaves privadas, tokens, secretos de AWS ni datos personales reales.
-
-La sustentación individual puede complementar la nota del equipo para verificar autoría, dominio técnico y capacidad de defensa profesional.
-
----
-
-### CE0311 - Entregable 1: Análisis y Diseño de Red
-
-#### Fuente base
-
-`S1_E1_Analisis_y_Diseno_de_Red.docx` y `Rubrica_S1_E1_Diseno_de_Red.xlsx`.
-
-#### Código evaluado y contenido asociado
-
-| Código | Contenido de competencia específica |
-| --- | --- |
-| CE0311 | Diseño de red: levantamiento de requerimientos técnicos y organizacionales, topología lógica y física, segmentación VLAN/DMZ/subnetting, direccionamiento, ruteo, seguridad perimetral, conectividad híbrida y diseño de detección. |
+### Entregable 1: Diseño de Red (Alineado con CE0311)
 
 #### Descripción
 
-Documento de análisis y diseño, sin implementación, para la red de una **infraestructura híbrida AWS + on-premise VMware ESXi**, con seguridad perimetral y articulación posterior con un SGSI basado en ISO/IEC 27001.
+Documento que incluye levantamiento de requerimientos, diseño de topología lógica y física, segmentación y redundancia.
 
-El diseño debe resolver un problema de conectividad y seguridad de red mediante topologías, segmentación, conectividad VPN, controles perimetrales, detección y trazabilidad técnica.
+#### Plantilla del Producto
 
-#### Productos obligatorios
+**Formato sugerido:** Documento Word/PDF de 15–20 páginas, con secciones claras y diagramas.
 
-| Producto | Formato sugerido | Criterio de aceptación |
-| --- | --- | --- |
-| Informe de análisis y diseño de red | DOCX + PDF | Completo, versionado y coherente con la organización descrita. |
-| Diagramas de red | Draw.io/Visio + PDF/PNG | Incluye topología general, lógica, seguridad por zonas y VPN híbrida. |
-| Matriz de componentes de red | XLSX u hoja del informe | Cubre el 100 % de los componentes dibujados. |
-| Matriz de pruebas de conectividad planeadas | XLSX u hoja del informe | Coherente con el diseño de VPN y segmentación. |
+##### Portada
 
-#### Contenido mínimo del informe
+- Título.
+- Nombre del estudiante.
+- Semestre.
+- Fecha.
 
-1. Resumen ejecutivo del diseño de red: proyecto, organización, problema de conectividad y seguridad, topología propuesta, VPN, zonas de seguridad, riesgos preliminares y siguientes pasos.
-2. Descripción de la organización y necesidades de red: usuarios, sedes, servicios TI, uso previsto de cloud y entorno local, ancho de banda, disponibilidad y crecimiento.
-3. Servicios y procesos críticos dependientes de la red: proceso, servicio TI y criticidad.
-4. Partes interesadas relevantes: clientes, empleados, dirección, administradores, proveedores, ISP, AWS y organismos reguladores.
-5. Alcance del diseño de red: declaración de alcance, límites físicos, tecnológicos y organizacionales, y exclusiones justificadas.
-6. Objetivos medibles del diseño: por ejemplo, segmentar el 100 % de servidores críticos, aislar segmentos de gestión y considerar rutas alternas.
-7. Topología general de infraestructura de red: usuarios, Internet, firewall perimetral, on-premise, DMZ, LAN, gestión, AWS y VPN.
-8. Topología lógica de red: VLAN, subredes, gateways, ruteo, direccionamiento y comunicación permitida/denegada entre zonas.
-9. Diseño de seguridad perimetral y zonas: firewall, IDS/IPS, honeypot, DMZ y segmentos protegidos.
-10. Diseño de conectividad VPN híbrida: extremo on-premise, extremo AWS, redes anunciadas, tipo de túnel IPsec y cifrado previsto sin exponer secretos.
-11. Diagrama de flujo de información planeado: origen, destino, protocolos y puertos.
-12. Matriz de componentes de red: componente, IP planeada, zona, función y criticidad.
-13. Diseño de seguridad perimetral: producto propuesto, interfaces, zonas, política por defecto y criterio general de reglas.
-14. Diseño de detección: IDS/IPS y honeypot, ubicación, eventos esperados y plan de validación para el Semestre 2.
-15. Consideraciones de escalabilidad, conclusiones, hoja de ruta hacia la implementación y referencias en formato IEEE.
+##### Resumen Ejecutivo
 
-#### Rúbrica de evaluación
+- 1 página resumiendo el diseño.
 
-| N° | Criterio de evaluación | Peso |
-| ---: | --- | ---: |
-| 1 | Contexto y alcance del diseño de red | 10% |
-| 2 | Arquitectura lógica de red: VLAN, subredes y direccionamiento | 20% |
-| 3 | Diseño de conectividad híbrida (VPN) | 15% |
-| 4 | Diseño de seguridad perimetral: firewall, DMZ y segmentación | 20% |
-| 5 | Diseño de detección: IDS/IPS y honeypot (planificación) | 10% |
-| 6 | Diagrama de flujo de información y matriz de componentes | 10% |
-| 7 | Calidad documental y trazabilidad del diseño | 8% |
-| 8 | Sustentación del diseño | 7% |
-|  | **Total** | **100%** |
+##### Sección 1: Levantamiento de Requerimientos
 
----
+- Técnicos: ancho de banda, usuarios.
+- De negocio: objetivos organizacionales.
 
-### CE0331 - Entregable 2: Análisis y Diseño de Centro de Datos Híbrido
+##### Sección 2: Diseño de Topología
 
-#### Fuente base
+- Diagramas lógicos y físicos usando herramientas como Visio o Draw.io.
+- Explicación de VLAN, DMZ, subnetting.
 
-`S1_E2_Analisis_y_Diseno_de_Centro_de_Datos_Hibrido.docx` y `Rubrica_S1_E2_Diseno_Centro_de_Datos.xlsx`.
+##### Sección 3: Incorporación de Redundancia
 
-#### Código evaluado y contenido asociado
+- Descripción de alta disponibilidad.
+- Enlaces redundantes.
 
-| Código | Contenido de competencia específica |
-| --- | --- |
-| CE0331 | Diseño de centro de datos: arquitectura on-premise, hipervisor VMware ESXi, arquitectura AWS, VPC, subredes, EC2, seguridad cloud, integración híbrida, dimensionamiento, disponibilidad y continuidad prevista. |
+##### Sección 4: Cumplimiento de Estándares
 
-#### Descripción
+- Referencias a TIA/EIA.
+- IEEE 802.x.
 
-Documento de análisis y diseño, sin implementación, que define una arquitectura de centro de datos híbrido con infraestructura local virtualizada en VMware ESXi y recursos AWS. Debe justificar el reparto on-premise/cloud, la capacidad, disponibilidad, continuidad e integración con el diseño de red.
+##### Anexos
 
-#### Productos obligatorios
+- Diagramas detallados.
+- Lista de requerimientos.
 
-| Producto | Formato sugerido | Criterio de aceptación |
-| --- | --- | --- |
-| Informe de análisis y diseño de centro de datos híbrido | DOCX + PDF | Completo, versionado y coherente con la organización descrita. |
-| Diagramas de arquitectura | Draw.io/Visio + PDF/PNG | Incluye topología física on-premise, hipervisor ESXi y VPC/AWS. |
-| Matriz de componentes y dimensionamiento | XLSX u hoja del informe | Cubre el 100 % de los elementos dibujados y sustenta el dimensionamiento. |
+#### Rúbrica de Evaluación
 
-#### Contenido mínimo del informe
+**6 criterios — Máximo 24 puntos**
 
-1. Resumen ejecutivo del diseño del centro de datos híbrido: proyecto, organización, problema de capacidad, disponibilidad o costos, tecnología on-premise, tecnología cloud, dimensionamiento y siguientes pasos.
-2. Descripción de la organización y necesidades de infraestructura: servicios a alojar, información gestionada, uso previsto de cloud/local y crecimiento estimado.
-3. Alcance del diseño: límites físicos, tecnológicos y organizacionales; exclusiones justificadas.
-4. Objetivos medibles: dimensionamiento del host ESXi, arquitectura AWS costo-eficiente, disponibilidad mínima y RTO/RPO preliminar.
-5. Arquitectura on-premise: topología física, rack, firewall, switches, almacenamiento, UPS, host ESXi y enlaces.
-6. Diseño del hipervisor: vSwitches, port groups, VLAN asociadas, NIC teaming y máquinas virtuales planeadas.
-7. Arquitectura AWS: región justificada, VPC, CIDR, subredes públicas/privadas, route tables, Internet Gateway, NAT, VPN Gateway, instancias EC2, Security Groups y NACL.
-8. Mecanismo de integración híbrida: coherencia con el diseño de red y con la VPN IPsec entre firewall on-premise y AWS.
-9. Matriz de componentes del centro de datos: componente, entorno, tipo, función y criticidad.
-10. Dimensionamiento y capacidad: vCPU, RAM, almacenamiento, carga esperada, margen de crecimiento y justificación técnica.
-11. Disponibilidad y continuidad: redundancia, respaldo previsto, RTO/RPO objetivo por servicio y validación esperada en el Semestre 2.
-12. Conclusiones, hoja de ruta hacia la implementación y referencias en formato IEEE.
+| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Deficiente (1) |
+|-----------|---------------|------------|-------------|------------------|
+| Levantamiento de Requerimientos | Completo, integra aspectos técnicos y de negocio con evidencia detallada. | Cubre lo esencial, pero falta profundidad en integración. | Parcial, omite algunos aspectos clave. | Incompleto o irrelevante. |
+| Diseño de Topología Lógica y Física | Diagramas claros, precisos y bien explicados con justificaciones. | Diagramas adecuados, pero explicaciones superficiales. | Diagramas básicos, con errores menores. | Diagramas ausentes o incorrectos. |
+| Aplicación de Segmentación (VLAN, DMZ, Subnetting) | Implementación detallada y justificada con ejemplos. | Aplicada correctamente, pero sin ejemplos profundos. | Aplicada parcialmente, con inconsistencias. | No aplicada o mal entendida. |
+| Incorporación de Redundancia y Alta Disponibilidad | Soluciones robustas con análisis de fallos. | Soluciones básicas, sin análisis detallado. | Menciona redundancia, pero no detalla. | Ausente. |
+| Cumplimiento de Estándares Internacionales | Referencias explícitas y aplicación correcta a todos los elementos. | Referencias presentes, pero no aplicadas consistentemente. | Referencias mínimas. | Sin referencias. |
+| Calidad Documental y Ética | Documento profesional, con lenguaje claro y mención ética (ACM). | Buena estructura, pero con errores menores. | Estructura básica, con fallos en claridad. | Desorganizado o sin ética. |
 
-#### Rúbrica de evaluación
 
-| N° | Criterio de evaluación | Peso |
-| ---: | --- | ---: |
-| 1 | Contexto y alcance del diseño de infraestructura | 8% |
-| 2 | Diseño de arquitectura on-premise (VMware ESXi) | 22% |
-| 3 | Diseño de arquitectura AWS | 22% |
-| 4 | Mecanismo de integración híbrida | 10% |
-| 5 | Dimensionamiento, capacidad y justificación técnica | 12% |
-| 6 | Matriz de componentes y trazabilidad | 10% |
-| 7 | Disponibilidad y continuidad en el diseño | 8% |
-| 8 | Calidad documental y sustentación | 8% |
-|  | **Total** | **100%** |
-
-### Producto Final del Semestre 1: Diseño Técnico Consolidado de Infraestructura Híbrida
-
-Formato sugerido: PDF consolidado.
-
-Integra los dos entregables del semestre en un expediente único: diseño de red, diseño de centro de datos híbrido, diagramas, matrices, trazabilidad de requerimientos, conclusiones, referencias IEEE, anexos cruzados y declaración de responsabilidad ética.
-
----
-
-### CE0321-CE0324 - Entregable 1: Planificación e Implementación del SGSI
-
-#### Fuente base
-
-`S2_E1_Planificacion_e_Implementacion_del_SGSI.docx` y `Rubrica_S2_E1_SGSI.xlsx`.
-
-#### Códigos evaluados y contenidos asociados
-
-| Código | Contenido de competencia específica |
-| --- | --- |
-| CE0321 | Planificación de seguridad: alcance del SGSI, contexto organizacional, partes interesadas, inventario de activos, clasificación C-I-D, análisis de riesgos y objetivos de seguridad. |
-| CE0322 | Implementación de controles: selección de controles, Declaración de Aplicabilidad, políticas, procedimientos, control de accesos, MFA, mínimo privilegio, respaldo y continuidad. |
-| CE0323 | Monitoreo y mejora: métricas, indicadores, auditoría interna, hallazgos, no conformidades, acciones correctivas, revisión por la dirección y mejora continua. |
-| CE0324 | Ética ACM: confidencialidad, privacidad, consentimiento, alcance ético de pruebas, protección de datos, divulgación responsable y conducta profesional. |
+### Entregable 2: Planificación de Seguridad (Alineado con CE0321)
 
 #### Descripción
 
-Documento de análisis, planificación, implementación, monitoreo y ética de seguridad para el Sistema de Gestión de Seguridad de la Información aplicado a la arquitectura híbrida diseñada en el Semestre 1.
+Documento que identifica activos críticos, análisis de riesgos, políticas de seguridad y roles.
 
-El SGSI debe apoyarse en los diseños de red y centro de datos para definir alcance, activos, riesgos, controles, políticas, monitoreo, auditoría y mejora continua.
+#### Plantilla del Producto
 
-#### Productos obligatorios
+**Formato sugerido:** Documento Word/PDF de 10-15 páginas, con tablas y matrices.
 
-| Producto | Formato sugerido | Criterio de aceptación |
-| --- | --- | --- |
-| Informe del SGSI | DOCX + PDF | Completo, versionado y trazable con los diseños del Semestre 1. |
-| Inventario de activos | XLSX | Cubre todo el alcance del SGSI. |
-| Matriz de evaluación y tratamiento de riesgos | XLSX | Criterios definidos y resultados consistentes. |
-| Declaración de Aplicabilidad (SoA) | XLSX/DOCX | Trazabilidad riesgo → control → evidencia. |
-| Políticas y procedimientos del SGSI | DOCX/PDF | Adaptados al proyecto; no plantillas genéricas. |
-| Declaración de ética de seguridad | DOCX/PDF | Firmada por el equipo y coherente con el comportamiento observado. |
+##### Portada
 
-#### Contenido mínimo del informe
+- Título.
+- Nombre.
+- Semestre.
+- Fecha.
 
-1. Resumen ejecutivo del SGSI: alcance, riesgos principales, controles ISO/IEC 27001, estado de la SoA, ciclo PHVA y conclusiones.
-2. Contexto de la organización según ISO/IEC 27001: qué protege el SGSI y quiénes son las partes interesadas.
-3. Alcance del SGSI: infraestructura virtualizada VMware ESXi, recursos AWS, redes, servidores, dispositivos de seguridad, VPN, monitoreo y procesos asociados.
-4. Liderazgo y objetivos de seguridad: política, roles, responsabilidades y objetivos medibles.
-5. Inventario de activos y clasificación de información: activo, propietario, ubicación, clasificación C-I-D y criticidad.
-6. Evaluación de riesgos ISO/IEC 27005: activo, amenaza, vulnerabilidad, impacto, probabilidad y nivel.
-7. Tratamiento de riesgos: mitigar, transferir, evitar o aceptar; responsable, plazo y riesgo residual.
-8. Declaración de Aplicabilidad (SoA): controles aplicables, justificación, estado, evidencia y exclusiones justificadas.
-9. Políticas y procedimientos: seguridad de la información, control de accesos, gestión de incidentes, proveedores/nube, respaldo/DR y uso aceptable.
-10. Gestión de identidades y accesos: mínimo privilegio, matriz de accesos por rol, MFA y manejo seguro de credenciales.
-11. Gestión de incidentes, continuidad y recuperación: roles, escalamiento, registro, servicios críticos, RTO y RPO.
-12. Ética de la seguridad de la información: código de conducta, alcance ético de pruebas, consentimiento/autorización, confidencialidad, protección de datos, divulgación responsable y conflictos de interés.
-13. Evaluación del desempeño del SGSI: métricas, auditoría interna, criterios, hallazgos, no conformidades, acciones correctivas y revisión por la dirección.
-14. Conclusiones y matriz maestra de trazabilidad.
+##### Resumen Ejecutivo
 
-#### Rúbrica de evaluación
+- 1 página con overview de la planificación.
 
-| N° | Criterio de evaluación | Peso |
-| ---: | --- | ---: |
-| 1 | Contexto, alcance y liderazgo del SGSI | 10% |
-| 2 | Inventario de activos y clasificación de información | 10% |
-| 3 | Evaluación y tratamiento de riesgos (ISO/IEC 27005) | 18% |
-| 4 | Declaración de Aplicabilidad (SoA) y selección de controles | 12% |
-| 5 | Políticas y procedimientos del SGSI | 10% |
-| 6 | Gestión de identidades, accesos y protección de datos (gobernanza) | 8% |
-| 7 | Gestión de incidentes, continuidad y recuperación (planificación) | 8% |
-| 8 | Ética de la seguridad de la información | 8% |
-| 9 | Monitoreo, medición y auditoría interna del SGSI | 9% |
-| 10 | Calidad documental y sustentación | 7% |
-|  | **Total** | **100%** |
+##### Sección 1: Identificación de Activos Críticos
 
----
+- Lista y clasificación de activos.
 
-### CE0312-CE0313 - Entregable 2: Implementación, Testing y Monitoreo de Red
+##### Sección 2: Análisis de Riesgos
 
-#### Fuente base
+- Matriz basada en ISO 27005/NIST:
+  - Amenazas.
+  - Vulnerabilidades.
+  - Impacto.
+  - Probabilidad.
 
-`S2_E2_Implementacion_Testing_y_Monitoreo_de_Red.docx` y `Rubrica_S2_E2_Implementacion_Red.xlsx`.
+##### Sección 3: Políticas de Seguridad
 
-#### Códigos evaluados y contenidos asociados
+- Políticas detalladas para accesos, datos, etc.
 
-| Código | Contenido de competencia específica |
-| --- | --- |
-| CE0312 | Implementación de red: configuración de VPN, firewall, DMZ, segmentación, rutas, reglas, controles de acceso y componentes de conectividad híbrida. |
-| CE0313 | Testing y control de red: pruebas de conectividad, pruebas permitido/denegado, monitoreo, logs, IDS/IPS, honeypot, incidencias, métricas y evidencias técnicas. |
+##### Sección 4: Roles y Responsabilidades
 
-#### Descripción
+- Organigrama o tabla de RACI.
 
-Documento y evidencias técnicas de implementación, pruebas y monitoreo de red. Debe demostrar la ejecución del diseño del Semestre 1, incluyendo conectividad híbrida, seguridad perimetral, DMZ, IDS/IPS, honeypot, monitoreo y pruebas reproducibles.
+##### Anexos
 
-#### Productos obligatorios
+- Matriz de riesgos completa.
+- Referencias a estándares.
 
-| Producto | Formato sugerido | Criterio de aceptación |
-| --- | --- | --- |
-| Informe de implementación, testing y monitoreo de red | DOCX + PDF | Completo, versionado y coherente con el diseño de red del Semestre 1. |
-| Evidencias técnicas de configuración | PDF + archivos de configuración | Capturas legibles, export/config y explicación del propósito de cada evidencia. |
-| Plan y resultados de pruebas | XLSX/PDF | Incluye pruebas positivas y negativas: permitido/denegado y detección. |
-| Repositorio técnico de red | Git/GitHub/GitLab o ZIP | Permite revisar o reconstruir la configuración sin credenciales expuestas. |
+#### Rúbrica de Evaluación
 
-#### Contenido mínimo del informe
+**5 criterios, máximo 20 puntos**
 
-1. Resumen ejecutivo de la implementación de red: diseño de referencia, VPN, firewall, DMZ, IDS/IPS, monitoreo, pruebas, hallazgos y cumplimiento del diseño.
-2. Trazabilidad con el diseño de red: elementos implementados según diseño y cambios justificados.
-3. Implementación de conectividad híbrida VPN: extremos, redes anunciadas, algoritmo/cifrado sin secretos, rutas activas y pruebas bidireccionales.
-4. Implementación de seguridad perimetral: producto, interfaces, zonas, política por defecto, reglas configuradas y DMZ.
-5. Pruebas de segmentación: Internet → DMZ, Internet → LAN, DMZ → DB, usuarios → MGMT y ADMIN → MGMT.
-6. IDS/IPS, honeypot y detección: tecnología, ubicación, eventos detectados, alertas, SIEM y evidencia de punta a punta.
-7. Monitoreo y visibilidad de red: centralización de logs, dashboards, métricas, correlación de eventos y conservación de evidencias.
-8. Plan y resultados de pruebas técnicas: caso, objetivo, resultado esperado, resultado obtenido, estado y evidencia.
-9. Incidencias detectadas: clasificación, contención, lecciones aprendidas y vínculo con el procedimiento de incidentes del SGSI.
-10. Evidencias técnicas: índice de capturas, configuraciones exportadas y explicación del propósito de cada evidencia.
-11. Conclusiones, limitaciones, mejoras futuras y referencias en formato IEEE.
-
-#### Rúbrica de evaluación
-
-| N° | Criterio de evaluación | Peso |
-| ---: | --- | ---: |
-| 1 | Trazabilidad con el diseño de red (Semestre 1) | 6% |
-| 2 | Conectividad híbrida implementada: VPN y enrutamiento | 15% |
-| 3 | Seguridad perimetral implementada: firewall, DMZ y segmentación | 22% |
-| 4 | IDS/IPS, honeypot y detección implementados | 18% |
-| 5 | Monitoreo, registros y visibilidad de red | 15% |
-| 6 | Plan y resultados de pruebas técnicas | 12% |
-| 7 | Calidad documental, evidencias y repositorio | 6% |
-| 8 | Sustentación técnica | 6% |
-|  | **Total** | **100%** |
+| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Deficiente (1) |
+|-----------|---------------|------------|-------------|------------------|
+| Identificación de Activos Críticos | Exhaustiva, con clasificación y justificación detallada. | Cubre lo principal, pero falta detalle. | Parcial, omite activos clave. | Incompleta. |
+| Análisis de Riesgos (ISO 27005/NIST) | Matriz completa con cálculos cuantitativos/cualitativos. | Matriz básica, con análisis cualitativo. | Matriz simple, con errores. | Ausente o superficial. |
+| Definición de Políticas de Seguridad | Políticas claras, alineadas a estándares y aplicables. | Políticas adecuadas, pero genéricas. | Políticas básicas, inconsistentes. | No definidas. |
+| Establecimiento de Roles y Responsabilidades | Estructura detallada con RACI y justificación. | Estructura básica, sin justificación profunda. | Menciona roles, pero vaga. | Ausente. |
+| Calidad Documental y Ética | Profesional, con integración ética ACM y referencias. | Buena, con errores menores. | Básica, falta claridad. | Desorganizada. |
 
 ---
 
-### CE0332-CE0333 - Entregable 3: Implementación, Gestión y Control de Centro de Datos
-
-#### Fuente base
-
-`S2_E3_Implementacion_Gestion_y_Control_de_Centro_de_Datos.docx` y `Rubrica_S2_E3_Implementacion_Centro_de_Datos.xlsx`.
-
-#### Códigos evaluados y contenidos asociados
-
-| Código | Contenido de competencia específica |
-| --- | --- |
-| CE0332 | Implementación de centro de datos: despliegue de ESXi, vSwitches, port groups, máquinas virtuales, VPC, subredes, EC2, Security Groups, NACL, IAM y servicios de infraestructura. |
-| CE0333 | Control y operación de centro de datos: inventario final, gestión de accesos, backup, restore, recuperación, RTO/RPO, monitoreo operativo, métricas, alertas, control de cambios y repositorio técnico. |
+### Entregable 3: Diseño de Centro de Datos (Alineado con CE0331)
 
 #### Descripción
 
-Documento y evidencias técnicas de implementación, gestión y control del centro de datos híbrido. Debe demostrar el despliegue on-premise en VMware ESXi, el despliegue AWS, la gestión de identidades, el inventario final, la continuidad, el monitoreo operativo y el control de configuración.
+Documento que define arquitectura, layout físico, dimensionamiento y virtualización/cloud híbrido.
 
-#### Productos obligatorios
+#### Plantilla del Producto
 
-| Producto | Formato sugerido | Criterio de aceptación |
-| --- | --- | --- |
-| Informe de implementación, gestión y control de centro de datos | DOCX + PDF | Completo, versionado y coherente con el diseño de centro de datos del Semestre 1. |
-| Evidencias técnicas de configuración | PDF + archivos de configuración | Incluye AWS (VPC/EC2/SG/NACL/IAM) y ESXi (vSwitch/VLAN/VM). |
-| Registro de prueba de recuperación | XLSX/PDF | Al menos un ejercicio de recuperación completo, documentado. |
-| Repositorio técnico de centro de datos | Git/GitHub/GitLab o ZIP | Scripts, configuraciones sanitizadas, README y control de versiones sin secretos expuestos. |
+**Formato sugerido:** Documento Word/PDF de 15-20 páginas, con diagramas y cálculos.
 
-#### Contenido mínimo del informe
+##### Portada
 
-1. Resumen ejecutivo de la implementación del centro de datos: diseño de referencia, despliegue on-premise y AWS, identidades, respaldo, recuperación y cumplimiento del diseño.
-2. Trazabilidad con el diseño de centro de datos: elementos implementados según diseño y cambios justificados.
-3. Implementación del entorno on-premise: ESXi, vSwitches, port groups, VLAN, NIC teaming, máquinas virtuales, firewall virtual e IDS si corresponde.
-4. Implementación del entorno AWS: VPC, CIDR, subredes, route tables, Internet Gateway, NAT, EC2, Security Groups y NACL.
-5. Gestión de identidades y accesos: AWS IAM, roles, políticas, MFA, rotación de credenciales, claves SSH y accesos administrativos a ESXi, firewall y servidores.
-6. Inventario final de activos: activo, propietario, ubicación, criticidad y evidencia.
-7. Continuidad, respaldo y recuperación: backup, restore, recuperación de VM, recuperación de recurso AWS y recuperación de VPN ante interrupción simulada.
-8. RTO/RPO: comparación entre objetivos y resultados obtenidos.
-9. Monitoreo y control operativo: métricas de host ESXi, CloudWatch, CPU, RAM, almacenamiento y alertas de capacidad.
-10. Control de cambios y gestión de configuración: repositorio, README, carpetas separadas para diagramas, ESXi, AWS, scripts y logs, historial de cambios relevantes.
-11. Resultados, conclusiones, limitaciones, mejoras futuras y referencias en formato IEEE.
+- Título.
+- Nombre.
+- Semestre.
+- Fecha.
 
-#### Rúbrica de evaluación
+##### Resumen Ejecutivo
 
-| N° | Criterio de evaluación | Peso |
-| ---: | --- | ---: |
-| 1 | Trazabilidad con el diseño de centro de datos (Semestre 1) | 6% |
-| 2 | Implementación on-premise: hipervisor ESXi y VMs | 18% |
-| 3 | Implementación AWS: VPC, EC2, Security Groups y NACL | 18% |
-| 4 | Gestión de identidades y accesos del centro de datos | 14% |
-| 5 | Inventario final de activos con evidencia | 12% |
-| 6 | Continuidad: backup, restore y recuperación probada | 14% |
-| 7 | Monitoreo y control operativo del centro de datos | 10% |
-| 8 | Calidad documental, control de versiones y sustentación | 8% |
-|  | **Total** | **100%** |
+- 1 página resumiendo el diseño.
+
+##### Sección 1: Definición de Arquitectura (Tier I–IV)
+
+- Justificación basada en Uptime Institute.
+
+##### Sección 2: Diseño de Layout Físico
+
+- Diagramas de distribución física.
+
+##### Sección 3: Dimensionamiento de Capacidad
+
+- Cálculos de CPU.
+- RAM.
+- Almacenamiento.
+
+##### Sección 4: Incorporación de Virtualización/Cloud Híbrido
+
+- Esquema de integración, como VMware/AWS.
+
+##### Anexos
+
+- Cálculos detallados.
+- Diagramas.
+
+#### Rúbrica de Evaluación
+
+**6 criterios, máximo 24 puntos**
+
+| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Deficiente (1) |
+|-----------|---------------|------------|-------------|------------------|
+| Definición de Arquitectura (Tier I–IV) | Justificada con análisis de necesidades y estándares. | Definida correctamente, pero sin análisis profundo. | Definida básicamente. | Incorrecta o ausente. |
+| Diseño de Layout Físico | Diagramas detallados y realistas. | Diagramas adecuados, pero simplificados. | Diagramas básicos con errores. | Ausentes. |
+| Dimensionamiento de Capacidad | Cálculos precisos con proyecciones. | Cálculos básicos, sin proyecciones. | Cálculos parciales. | Sin cálculos. |
+| Incorporación de Virtualización/Cloud Híbrido | Integración detallada con beneficios y riesgos. | Integración básica. | Mencionada superficialmente. | Ausente. |
+| Cumplimiento de Estándares | Referencias explícitas a Uptime y otros. | Referencias presentes, pero no integradas. | Mínimas referencias. | Sin referencias. |
+| Calidad Documental y Ética | Profesional, con ética ACM integrada. | Buena estructura. | Básica. | Desorganizada. |
+
+### Producto Final del Semestre 1: Documento Consolidado de Diseño Preliminar
+
+**Formato:** PDF de 40-50 páginas.
+
+Integra los tres entregables en un solo documento con una introducción general, conclusiones y declaración ética ACM.
+
+Incluye:
+
+- Índice.
+- Referencias unificadas.
+- Anexos cruzados.
+
+La rúbrica para el producto final suma las de los entregables (**máximo 68 puntos**), más un criterio adicional:
+
+- Integración Coherente (4 niveles, evaluando consistencia entre componentes).
+
+---
+
+### Entregable 1: Implementación y Testing de Red (Alineado con CE0312 y CE0313)
+
+#### Descripción
+
+Documento y evidencias de configuración de dispositivos, routing, controles, pruebas y monitoreo.
+
+#### Plantilla del Producto
+
+**Formato:** Documento Word/PDF de 20-25 páginas + carpeta de evidencias como capturas de pantalla/configuraciones.
+
+##### Portada
+
+- Título.
+- Nombre.
+- Semestre.
+- Fecha.
+
+##### Resumen Ejecutivo
+
+- 1 página con resultados de implementación.
+
+##### Sección 1: Configuración de Dispositivos
+
+- Comandos/configuraciones para switch, router, firewall.
+
+##### Sección 2: Implementación de Direccionamiento y Routing
+
+- Esquema IP.
+- Routing estático/dinámico.
+
+##### Sección 3: Controles de Acceso y Estándares
+
+- ACL.
+- Cumplimiento TIA/EIA.
+- IEEE.
+
+##### Sección 4: Pruebas y Monitoreo
+
+- Resultados de latencia.
+- Throughput.
+- Configuración SNMP/logs.
+
+##### Anexos
+
+- Capturas de pruebas.
+- Logs.
+
+#### Rúbrica de Evaluación
+
+**7 criterios, máximo 28 puntos**
+
+| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Deficiente (1) |
+|-----------|---------------|------------|-------------|------------------|
+| Configuración de Dispositivos | Funcional y documentada con comandos precisos. | Funcional, pero documentación parcial. | Configurada básicamente, con errores. | No funcional. |
+| Implementación de Direccionamiento IP | Estructurado y escalable. | Básico, funcional. | Parcial, con inconsistencias. | Incorrecto. |
+| Configuración de Routing | Dinámico/estático implementado con optimización. | Implementado correctamente. | Básico, sin optimización. | Ausente. |
+| Implementación de Controles de Acceso (ACL) | Seguros y justificados. | Aplicados, pero sin justificación profunda. | Parciales. | No implementados. |
+| Cumplimiento de Estándares | Total, con evidencias. | Parcial, con referencias. | Mínimo. | Ausente. |
+| Pruebas de Conectividad y Rendimiento | Completas con métricas cuantitativas. | Básicas, con métricas. | Parciales. | Sin pruebas. |
+| Implementación de Monitoreo y Documentación | Avanzada (SNMP), profesional. | Básica, adecuada. | Simple. | Desorganizada. |
+
+---
+
+### Entregable 2: Implementación, Monitoreo y Ética de Seguridad (Alineado con CE0322, CE0323 y CE0324)
+
+#### Descripción
+
+Documento con controles técnicos, planes de continuidad, KPIs, auditoría y ética ACM.
+
+#### Plantilla del Producto
+
+**Formato:** Documento Word/PDF de 15-20 páginas + evidencias.
+
+##### Portada
+
+- Título.
+- Nombre.
+- Semestre.
+- Fecha.
+
+##### Resumen Ejecutivo
+
+- 1 página con overview de seguridad.
+
+##### Sección 1: Implementación de Controles Técnicos
+
+- IAM.
+- Cifrado.
+- Firewall.
+- Backus.
+
+##### Sección 2: Gestión de Parches y Planes de Continuidad
+
+- Procedimientos detallados.
+
+##### Sección 3: Monitoreo y Mejora
+
+- KPIs.
+- Registro.
+- Evaluación de vulnerabilidades.
+
+##### Sección 4: Ética ACM
+
+- Análisis de confidencialidad.
+- Impacto social/legal.
+
+##### Anexos
+
+- Configuraciones.
+- Scans de vulnerabilidades.
+
+#### Rúbrica de Evaluación
+
+**8 criterios, máximo 32 puntos**
+
+| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Deficiente (1) |
+|-----------|---------------|------------|-------------|------------------|
+| Implementación de Controles Técnicos (IAM, Cifrado) | Completos y probados. | Funcionales, probados parcialmente. | Básicos. | No implementados. |
+| Aplicación de Mínimo Privilegio | Integrada en todos los aspectos. | Aplicada en principales. | Parcial. | Ausente. |
+| Gestión de Parches y Actualizaciones | Procedimientos automatizados. | Manuales, documentados. | Básicos. | Sin gestión. |
+| Implementación de Planes de Continuidad | Detallados con simulaciones. | Básicos, sin simulaciones. | Parciales. | Ausentes. |
+| Definición de KPIs de Seguridad | Cuantitativos y relevantes. | Básicos. | Vagos. | Sin KPIs. |
+| Implementación de Registro y Auditoría | Avanzada con herramientas. | Básica. | Mínima. | Ausente. |
+| Evaluación de Vulnerabilidades y Mejoras | Análisis profundo con propuestas. | Análisis básico. | Superficial. | No evaluado. |
+| Integración Ética ACM | Análisis exhaustivo de impactos. | Mencionada con ejemplos. | Básica. | Ignorada. |
+
+---
+
+### Entregable 3: Implementación y Control de Centro de Datos (Alineado con CE0332 y CE0333)
+
+#### Descripción
+
+Documento con configuración de servidores, servicios, almacenamiento, SLA, monitoreo y eficiencia.
+
+#### Plantilla del Producto
+
+**Formato:** Documento Word/PDF de 20-25 páginas + evidencias.
+
+##### Portada
+
+- Título.
+- Nombre.
+- Semestre.
+- Fecha.
+
+##### Resumen Ejecutivo
+
+- 1 página con resultados operativos.
+
+##### Sección 1: Configuración de Servidores y Servicios
+
+- Físicos/virtuales.
+- AD.
+- DNS.
+- Etc.
+
+##### Sección 2: Implementación de Almacenamiento y Respaldos
+
+- RAID.
+- SAN.
+- Políticas.
+
+##### Sección 3: Definición de SLA y Monitoreo
+
+- Acuerdos.
+- Herramientas de monitoreo.
+
+##### Sección 4: Procedimientos Operativos y Eficiencia
+
+- Documentación.
+- Evaluación energética.
+
+##### Anexos
+
+- Configuraciones.
+- Métricas de disponibilidad.
+
+#### Rúbrica de Evaluación
+
+**7 criterios, máximo 28 puntos**
+
+| Criterio | Excelente (4) | Bueno (3) | Regular (2) | Deficiente (1) |
+|-----------|---------------|------------|-------------|------------------|
+| Configuración de Servidores Físicos/Virtuales | Funcional y optimizada. | Funcional básica. | Parcial. | No configurada. |
+| Implementación de Servicios (AD, DNS, etc.) | Integrados perfectamente. | Integrados adecuadamente. | Básicos. | Ausentes. |
+| Configuración de Almacenamiento (RAID, SAN) | Avanzada con redundancia. | Básica. | Parcial. | Incorrecta. |
+| Implementación de Políticas de Respaldo | Automatizadas y probadas. | Manuales, probadas. | Básicas. | Sin políticas. |
+| Definición de SLA | Detallados y medibles. | Básicos. | Vagos. | Ausentes. |
+| Implementación de Monitoreo | Herramientas avanzadas. | Básicas. | Mínimas. | Sin monitoreo. |
+| Documentación de Procedimientos y Eficiencia | Profesional, con análisis energético. | Adecuada. | Básica. | Desorganizada. |
+
+---
 
 ### Producto Final del Semestre 2: Informe de Implementación Integral y Operativa
 
-Formato sugerido: PDF consolidado, más demo, video o recorrido técnico.
+**Formato:** PDF de 50-60 páginas + demo y video.
 
-Integra los tres entregables del semestre con presentación ejecutiva, evidencias unificadas, análisis de riesgos, SoA, declaración ética, pruebas, monitoreo, respaldo/recuperación, recomendaciones finales y trazabilidad con el diseño técnico consolidado del Semestre 1.
+Integra los tres entregables con:
 
-### Evaluación de cierre de la línea
+- Presentación ejecutiva.
+- Evidencias unificadas (logs, pruebas).
+- Análisis de riesgos global.
+- Declaración de cumplimiento ético ACM.
+- Recomendaciones finales.
 
-Para considerar lograda la línea de Infraestructura en el perfil de egreso, el estudiante debe demostrar coherencia entre requerimientos, diseño, implementación, seguridad, operación, monitoreo, documentación, repositorio técnico y sustentación.
+La rúbrica suma las de los entregables (**máximo 88 puntos**), más criterios adicionales:
 
-La pregunta central de evaluación es: ¿el estudiante puede diseñar, implementar, validar, operar y defender una solución de infraestructura tecnológica híbrida con criterio profesional, responsabilidad ética y evidencia técnica verificable?
+- Funcionalidad Integral (pruebas end-to-end).
+- Profesionalismo (presentación formal).
+
 ## B. ÁREA DE GESTIÓN DE TECNOLOGÍAS DE INFORMACIÓN (GTI)
 
 ### Nombre
