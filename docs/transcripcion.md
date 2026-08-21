@@ -20,17 +20,17 @@
     - [CE0312-CE0313 - S2 - E2: Implementación, Testing y Monitoreo de Red](#ce0312-ce0313-entregable-2-implementacion-testing-y-monitoreo-de-red)
     - [CE0332-CE0333 - S2 - E3: Implementación, Gestión y Control de Centro de Datos](#ce0332-ce0333-entregable-3-implementacion-gestion-y-control-de-centro-de-datos)
 - [CE01: Gestión de Tecnologías de Información](#b-area-de-gestion-de-tecnologias-de-informacion-gti)
-    - [CE0111-CE0115 - Entregable 1: Diagnóstico Organizacional y Alineamiento Estratégico](#entregable-1-diagnostico-organizacional-y-alineamiento-estrategico)
-    - [CE0113 - Entregable 2: Business Case del Proyecto](#entregable-2-business-case-del-proyecto)
-    - [CE0121-CE0125 - Entregable 3: Plan de Gestión del Proyecto](#entregable-3-plan-de-gestion-del-proyecto-pmbok-agile)
-    - [CE0131-CE0135 - Entregable 4: Modelado de Procesos AS-IS / TO-BE](#entregable-4-modelado-de-procesos-as-is-to-be)
-    - [CE0141-CE0145 - Entregable 5: Propuesta de Solución TIC Integrada](#entregable-5-propuesta-de-solucion-tic-integrada-al-ecosistema-de-sistemas-de-informacion)
+    - [CE0111-CE0115 - S1 - E1: Diagnóstico Organizacional y Alineamiento Estratégico](#entregable-1-diagnostico-organizacional-y-alineamiento-estrategico)
+    - [CE0113 - S1 - E2: Business Case del Proyecto](#entregable-2-business-case-del-proyecto)
+    - [CE0121-CE0125 - S1 - E3: Plan de Gestión del Proyecto](#entregable-3-plan-de-gestion-del-proyecto-pmbok-agile)
+    - [CE0131-CE0135 - S1 - E4: Modelado de Procesos AS-IS / TO-BE](#entregable-4-modelado-de-procesos-as-is-to-be)
+    - [CE0141-CE0145 - S2 - E5: Propuesta de Solución TIC Integrada](#entregable-5-propuesta-de-solucion-tic-integrada-al-ecosistema-de-sistemas-de-informacion)
 - [CE02: Ingeniería de Software](#c-area-de-ingenieria-de-software)
-    - [CE021 - Entregable 1: Requerimientos y Diseño del Sistema](#entregable-1-requerimientos-y-diseno-del-sistema-alineado-con-ce021)
-    - [CE022 - Entregable 2: Plataforma de Datos del Sistema](#entregable-2-plataforma-de-datos-del-sistema-alineado-con-ce022)
-    - [CE023 - Entregable 3: Sistema de Software Funcional Integrado](#entregable-3-sistema-de-software-funcional-integrado-alineado-con-ce023)
-    - [CE024 - Entregable 4: Calidad, Operación y Evolución del Sistema](#entregable-4-calidad-operacion-y-evolucion-del-sistema-alineado-con-ce024)
-    - [CE0217 - Entregable 5: Presentación, Video pitch y Sustentación Final](#entregable-5-presentacion-video-pitch-y-sustentacion-final-alineado-con-ce0217)
+    - [CE021 - S1 - E1: Requerimientos y Diseño del Sistema](#entregable-1-requerimientos-y-diseno-del-sistema-alineado-con-ce021)
+    - [CE022 - S2 - E2: Plataforma de Datos del Sistema](#entregable-2-plataforma-de-datos-del-sistema-alineado-con-ce022)
+    - [CE023 - S2 - E3: Sistema de Software Funcional Integrado](#entregable-3-sistema-de-software-funcional-integrado-alineado-con-ce023)
+    - [CE024 - S2 - E4: Calidad, Operación y Evolución del Sistema](#entregable-4-calidad-operacion-y-evolucion-del-sistema-alineado-con-ce024)
+    - [CE0217 - S2 - E5: Presentación, Video pitch y Sustentación Final](#entregable-5-presentacion-video-pitch-y-sustentacion-final-alineado-con-ce0217)
 
 ## Sobre evaluación de perfil de egreso
 
@@ -113,13 +113,21 @@ Diseña y despliega servicios de infraestructura y centro de datos, integrando v
 
 La codificación de los entregables conserva la trazabilidad de la copia 2026-1 y se reorganiza según los nuevos documentos fuente de la línea. Cada código corresponde a un contenido evaluable de la competencia específica CE03.
 
-| Semestre | Entregable nuevo | Código(s) | Competencia específica | Contenidos asociados |
-| --- | --- | --- | --- | --- |
-| 1 | Análisis y Diseño de Red | CE0311 | CE031: Conectividad | Requerimientos de red, topología lógica y física, VLAN, DMZ, subnetting, direccionamiento, ruteo, seguridad perimetral, VPN híbrida, matriz de comunicación y diseño de detección. |
-| 1 | Análisis y Diseño de Centro de Datos Híbrido | CE0331 | CE033: Implementación de Centro de Datos | Arquitectura on-premise, VMware ESXi, arquitectura AWS, VPC, subredes, EC2, Security Groups, NACL, integración híbrida, dimensionamiento, capacidad, disponibilidad y continuidad prevista. |
-| 2 | Planificación e Implementación del SGSI | CE0321, CE0322, CE0323, CE0324 | CE032: Gestión de la Seguridad de la Información | Alcance del SGSI, inventario de activos, clasificación C-I-D, análisis de riesgos, tratamiento de riesgos, SoA, políticas, procedimientos, controles, monitoreo, auditoría, mejora y ética de seguridad. |
-| 2 | Implementación, Testing y Monitoreo de Red | CE0312, CE0313 | CE031: Conectividad | Implementación de VPN, firewall, DMZ, segmentación, IDS/IPS, honeypot, monitoreo, logs, pruebas de conectividad, pruebas de permitido/denegado, incidencias y evidencias técnicas. |
-| 2 | Implementación, Gestión y Control de Centro de Datos | CE0332, CE0333 | CE033: Implementación de Centro de Datos | Despliegue ESXi, vSwitches, port groups, VM, VPC, EC2, IAM, inventario final, backup, restore, recuperación, RTO/RPO, monitoreo operativo, CloudWatch y control de configuración. |
+| Competencia | Código(s) | Momento | Entregable / evidencia | Documento fuente | Rúbrica |
+| --- | --- | --- | --- | --- | --- |
+| CE031: Conectividad | CE0311 | S1 | E1: Análisis y Diseño de Red | `fuentes/CE03/S1_E1_Analisis_y_Diseno_de_Red.docx` | `fuentes/CE03/Rubrica_S1_E1_Diseno_de_Red.xlsx` |
+| CE031: Conectividad | CE0312, CE0313 | S2 | E2: Implementación, Testing y Monitoreo de Red | `fuentes/CE03/S2_E2_Implementacion_Testing_y_Monitoreo_de_Red.docx` | `fuentes/CE03/Rubrica_S2_E2_Implementacion_Red.xlsx` |
+| CE032: Gestión de la Seguridad de la Información | CE0321, CE0322, CE0323, CE0324 | S2 | E1: Planificación e Implementación del SGSI | `fuentes/CE03/S2_E1_Planificacion_e_Implementacion_del_SGSI.docx` | `fuentes/CE03/Rubrica_S2_E1_SGSI.xlsx` |
+| CE033: Implementación de Centro de Datos | CE0331 | S1 | E2: Análisis y Diseño de Centro de Datos Híbrido | `fuentes/CE03/S1_E2_Analisis_y_Diseno_de_Centro_de_Datos_Hibrido.docx` | `fuentes/CE03/Rubrica_S1_E2_Diseno_Centro_de_Datos.xlsx` |
+| CE033: Implementación de Centro de Datos | CE0332, CE0333 | S2 | E3: Implementación, Gestión y Control de Centro de Datos | `fuentes/CE03/S2_E3_Implementacion_Gestion_y_Control_de_Centro_de_Datos.docx` | `fuentes/CE03/Rubrica_S2_E3_Implementacion_Centro_de_Datos.xlsx` |
+
+Los contenidos asociados a cada código se desarrollan en la sección específica de cada entregable.
+
+Nota interpretativa:
+
+1. `CE031`: en S1 primero diseña la red; luego la implementa, prueba y controla en S2.
+2. `CE033`: en S1 primero diseña la arquitectura; luego despliega, opera y controla en S2.
+3. `CE032`: se evalúa como SGSI integral en S2: planificación, controles, monitoreo/mejora y ética.
 
 ---
 
@@ -172,7 +180,7 @@ La sustentación individual puede complementar la nota del equipo para verificar
 
 #### Fuente base
 
-`S1_E1_Analisis_y_Diseno_de_Red.docx` y `Rubrica_S1_E1_Diseno_de_Red.xlsx`.
+`fuentes/CE03/S1_E1_Analisis_y_Diseno_de_Red.docx` y `fuentes/CE03/Rubrica_S1_E1_Diseno_de_Red.xlsx`.
 
 #### Código evaluado y contenido asociado
 
@@ -233,7 +241,7 @@ El diseño debe resolver un problema de conectividad y seguridad de red mediante
 
 #### Fuente base
 
-`S1_E2_Analisis_y_Diseno_de_Centro_de_Datos_Hibrido.docx` y `Rubrica_S1_E2_Diseno_Centro_de_Datos.xlsx`.
+`fuentes/CE03/S1_E2_Analisis_y_Diseno_de_Centro_de_Datos_Hibrido.docx` y `fuentes/CE03/Rubrica_S1_E2_Diseno_Centro_de_Datos.xlsx`.
 
 #### Código evaluado y contenido asociado
 
@@ -294,7 +302,7 @@ Integra los dos entregables del semestre en un expediente único: diseño de red
 
 #### Fuente base
 
-`S2_E1_Planificacion_e_Implementacion_del_SGSI.docx` y `Rubrica_S2_E1_SGSI.xlsx`.
+`fuentes/CE03/S2_E1_Planificacion_e_Implementacion_del_SGSI.docx` y `fuentes/CE03/Rubrica_S2_E1_SGSI.xlsx`.
 
 #### Códigos evaluados y contenidos asociados
 
@@ -361,7 +369,7 @@ El SGSI debe apoyarse en los diseños de red y centro de datos para definir alca
 
 #### Fuente base
 
-`S2_E2_Implementacion_Testing_y_Monitoreo_de_Red.docx` y `Rubrica_S2_E2_Implementacion_Red.xlsx`.
+`fuentes/CE03/S2_E2_Implementacion_Testing_y_Monitoreo_de_Red.docx` y `fuentes/CE03/Rubrica_S2_E2_Implementacion_Red.xlsx`.
 
 #### Códigos evaluados y contenidos asociados
 
@@ -417,7 +425,7 @@ Documento y evidencias técnicas de implementación, pruebas y monitoreo de red.
 
 #### Fuente base
 
-`S2_E3_Implementacion_Gestion_y_Control_de_Centro_de_Datos.docx` y `Rubrica_S2_E3_Implementacion_Centro_de_Datos.xlsx`.
+`fuentes/CE03/S2_E3_Implementacion_Gestion_y_Control_de_Centro_de_Datos.docx` y `fuentes/CE03/Rubrica_S2_E3_Implementacion_Centro_de_Datos.xlsx`.
 
 #### Códigos evaluados y contenidos asociados
 
@@ -983,17 +991,14 @@ El producto final de este semestre tiene lo siguiente:
 - CE0213: Diseño arquitectónico del sistema.
 - CE0214: Diseño detallado del sistema.
 
-##### CE022: Ingeniería de la Información
-
-- CE0221: Modelo de datos relacional documentado y validado.
-- CE0222: Base de datos relacional implementada y consultable.
-
 #### Semestre 2
 
 El producto final de este semestre tiene lo siguiente:
 
 ##### CE022: Ingeniería de la Información
 
+- CE0221: Modelo de datos relacional documentado y validado.
+- CE0222: Base de datos relacional implementada y consultable.
 - CE0223: Motor transaccional programado y optimizado.
 - CE0224: Base de datos empresarial administrada, asegurada y operativa.
 
