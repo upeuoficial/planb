@@ -139,14 +139,19 @@ Sin depurar: cada curso aparece en todas las competencias donde el Excel le marc
 
 ### Ingeniería de Software — Progresión de competencias (v2, depurada)
 
-Cada curso queda solo en la competencia donde tiene evidencia diferenciada (entrega o unidad propia); se quitan IIS y los cursos repetidos sin distinción de nivel. PI1 se separa como cierre de línea, no como nivel 3 de cada competencia. Validado contra el producto real de los 13 sílabos vigentes (2026-2): cada curso entrega exactamente lo que su competencia y nivel exigen — confirmado en particular que IS2 es 100% auditoría de calidad (sin programación) y PDS es 100% pruebas/despliegue (sin requerimientos). LP2 se evaluó como candidato a doble competencia (CE023 + CE024, por "pruebas/estabilización"), pero esa parte no tiene entrega propia — vive dentro de la misma Unidad 3 del Full-Stack — así que se queda solo en CE023.
-
 | Competencia | Nivel 1 | Nivel 2 | Nivel 3 | Cierre (Nivel 3) |
 | --- | --- | --- | --- | --- |
-| CE021 Ingeniería de Requerimientos | IR | ADS | — | PI1 |
+| CE021 Ingeniería de Requerimientos | IR, BD1 | ADS | — | PI1 |
 | CE022 Ingeniería de la Información | BD1 | BD2 | — | PI1 |
-| CE023 Programación | FP, POO, LP1 | LP2 | DIST, MOV | PI1 |
-| CE024 Calidad de Software | — | IS1 | IS2, PDS | PI1 |
+| CE023 Programación | FP, POO, LP1, BD2 | LP2 | DIST, MOV | PI1 |
+| CE024 Calidad de Software | ADS | IS1 | IS2, PDS | PI1 |
+
+Cada curso queda solo en la competencia donde tiene evidencia diferenciada; se quitan IIS y los cursos repetidos sin distinción de nivel. PI1 se separa como cierre de línea, no como nivel 3 de cada competencia. Validado contra las 13 unidades de aprendizaje reales de los sílabos vigentes (2026-2), no solo contra el producto final del curso:
+
+- **BD2 → CE023 N1** (nuevo): su Unidad 1 se titula "Programación y optimización (Oracle XE)" y es programación PL/SQL real (procedimientos, funciones, triggers, excepciones) — unidad completa propia, evidencia fuerte.
+- **BD1 → CE021 N1** (nuevo): Unidad 1, sesión 1, "dominio del problema, restricciones y reglas de negocio"; criterio 1 "Identifica entidades, atributos y reglas de negocio" — es análisis de requerimientos acotado al dominio de datos. Evidencia de criterio/sesión, no de unidad completa — más débil que la de BD2.
+- **ADS → CE024 N1** (nuevo): Unidad 1, sesión 1, "atributos de calidad" explícito; criterio 3 "Aplica principios SOLID, cohesión, acoplamiento, modularidad y abstracción". Igual que BD1, evidencia de criterio, no de unidad completa.
+- Se revisó y **descartó** agregar: DIST→CE022 (solo menciona "persistente" como requisito técnico menor, ninguna unidad de modelado de datos), LP1→CE022 y POO→CE022 (ambos consumen persistencia vía DAO/ORM, no diseñan el modelo de datos — esa autoría es de BD1/BD2), MOV→CE022 (persistencia local, no ingeniería de datos empresarial), LP2→CE024 ("pruebas/estabilización" vive dentro de la misma Unidad 3 Full-Stack, sin entrega propia).
 
 ### Infraestructura de TI — Progresión de competencias
 
