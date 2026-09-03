@@ -2,13 +2,11 @@
 
 Este documento registra las competencias, evidencias y artefactos verificables de la línea de Ciencia de Datos e IA. Sirve como base para construir guías de entrega, revisión y sustentación.
 
-La fuente institucional disponible confirma la competencia de línea CE04. Mientras no se cuente con competencias específicas formalizadas para esta línea, los bloques CE041 a CE045 se usan como estructura operativa para organizar evidencias, artefactos y evaluación sin atribuirles carácter oficial adicional.
+Las cuatro competencias específicas (CE041 a CE044) corresponden a la formulación de la línea. Los cursos que hoy las cubren (BI y Big Data) se declaran en su propio sílabo bajo `CE04: Ciencia de Datos e Inteligencia Artificial`.
 
 ## CE04: Ciencia de Datos e Inteligencia Artificial
 
 Diseña y gestiona sistemas inteligentes basándose en metodologías, estándares y herramientas a fin de lograr estrategias de mejora para la organización.
-
-Rol asociado: Data Scientist, Data Analyst o AI Engineer.
 
 ## Proyecto integrador de la línea
 
@@ -18,68 +16,41 @@ El producto integrador debe demostrar coherencia entre problema, datos, preparac
 
 Entregables de referencia:
 
-- Entregable 1: Dossier de problema analítico y dataset inicial, alineado con CE0411.
-- Entregable 2: Dataset analítico y pipeline reproducible, alineado con CE0421.
-- Entregable 3: Proyecto de construcción, entrenamiento y experimentación, alineado con CE0431.
-- Entregable 4: Dossier de evaluación, monitoreo y mejora, alineado con CE0441.
-- Entregable 5: Comunicación de resultados y sustentación, alineado con CE0451.
+- Entregable 1: Dossier de requerimientos de la solución analítica, alineado con CE0411.
+- Entregable 2: Infraestructura de extracción, integración y preparación de datos, alineado con CE0421.
+- Entregable 3: Modelos predictivos, descriptivos o prescriptivos entrenados y evaluados, alineado con CE0431.
+- Entregable 4: Indicadores, visualización y recomendaciones estratégicas, alineado con CE0441.
 
-## Distribución por semestre de referencia
+## Distribución por curso de referencia
 
-Esta distribución queda preparada para la activación de la línea. No reemplaza la programación académica vigente del semestre en curso.
+Esta distribución viene del Plan Matricial oficial (`Plan Matricial - Sistemas 2024 - V 3.0.xlsx`, pestañas Plan 2024/2025), que asigna un nivel de logro (1 introductorio, 2 intermedio, 3 dominado) por curso y por competencia — no de un mapeo hecho a mano. No reemplaza la programación académica vigente del semestre en curso; el detalle completo de la ruta por ciclo está en [la página principal de la línea](index.md#5-ruta-de-construcción-y-evaluación-durante-la-carrera).
 
-### Semestre 1
+| Curso | Ciclo | CE041 | CE042 | CE043 | CE044 |
+| --- | --- | ---: | ---: | ---: | ---: |
+| Introducción a la Ingeniería de Computación | C1 | 1 | — | — | — |
+| Administración de Base de Datos I | C3 | — | 1 | — | — |
+| Administración de Base de Datos II | C4 | — | 2 | — | — |
+| Estadística para la Investigación | C5 | 1 | — | 1 | 1 |
+| Métodos Numéricos | C6 | 1 | — | 1 | — |
+| Análisis Multivariado | C7 | 2 | — | 2 | 2 |
+| Inteligencia de Negocios | C8 | 2 | 2 | 2 | 2 |
+| Inteligencia Artificial | C8 | 2 | 2 | 2 | 2 |
+| Proyecto Integrador I | C8 | 2 | 2 | 2 | 2 |
+| Minería de Datos | C9 | 3 | 3 | 3 | 3 |
+| Big Data | C10 | 3 | 3 | 3 | 3 |
+| Proyecto Integrador II | C10 | 3 | 3 | 3 | 3 |
 
-El producto final de este semestre tiene lo siguiente:
+Administración de Base de Datos I y II son compartidos con la línea de Software (CE022); ahí solo aportan a CE042. Inteligencia Artificial y Minería de Datos no tienen repositorio en este workspace todavía — no se encontró carpeta ni sílabo con esos nombres.
 
-#### CE041: Problema analítico y preparación de datos
+Hay una tensión sin resolver: el sílabo propio de Inteligencia de Negocios (BI) no menciona modelado entre sus dimensiones ("define requerimientos, construye datasets, analiza los datos y define estrategias" — sin CE043), pero el Plan Matricial le asigna nivel 2 en las cuatro. Puede deberse a que el nivel se registra junto con Proyecto Integrador I, evaluado en el mismo ciclo.
 
-- CE0411: Problema analítico y dataset inicial.
-- Problema analítico formulado.
-- Fuentes de datos identificadas.
-- Dataset inicial.
-- Variables, supuestos e hipótesis.
+## CE041: Define Requerimientos de Inteligencia Analítica
 
-#### CE042: Diseño de dataset y pipeline analítico
+Analiza necesidades y procesos organizacionales para definir requerimientos de soluciones de analítica de datos e inteligencia artificial.
 
-- CE0421: Diseño de dataset y pipeline analítico.
-- Diseño de dataset.
-- Feature engineering.
-- Pipeline de datos.
-- Estrategia analítica.
+Rol asociado: Data/AI Consultant – Business Analyst.
 
-### Semestre 2
-
-El producto final de este semestre tiene lo siguiente:
-
-#### CE043: Construcción y experimentación
-
-- CE0431: Construcción, entrenamiento y experimentación.
-- Dataset construido.
-- Limpieza de datos ejecutada.
-- Entrenamiento de modelos.
-- Notebooks o bitácora de experimentos.
-
-#### CE044: Evaluación, monitoreo y mejora
-
-- CE0441: Evaluación, monitoreo y mejora.
-- Evaluación de modelos.
-- Métricas de desempeño.
-- Monitoreo del modelo o solución.
-- Estrategia de reentrenamiento.
-
-#### CE045: Comunicación y uso del modelo
-
-- CE0451: Comunicación y uso del modelo.
-- Storytelling con datos.
-- Visualización de resultados.
-- Interpretación y recomendaciones.
-
-## CE041: Problema analítico y preparación de datos
-
-Formula una necesidad organizacional como problema analítico, identifica fuentes de datos, construye un dataset inicial y define variables, supuestos e hipótesis de trabajo.
-
-### CE0411: Problema analítico y dataset inicial
+### CE0411: Necesidades organizacionales y requerimientos de la solución
 
 Propósito:
 
@@ -87,40 +58,40 @@ Demostrar que el estudiante puede convertir una necesidad organizacional en un p
 
 Artefactos de la evidencia:
 
+- Necesidad organizacional y proceso identificado.
 - Problema analítico formulado.
-- Fuentes de datos identificadas.
-- Dataset inicial.
-- Variables, supuestos e hipótesis.
+- Requerimientos de la solución de analítica o IA.
+- Variables, supuestos e hipótesis de trabajo.
 
 Formato sugerido:
 
-Documento técnico breve o notebook documentado, acompañado del dataset inicial o una muestra controlada de datos.
+Documento técnico breve o notebook documentado.
 
 Estructura sugerida del producto:
 
-- Contexto organizacional y necesidad de mejora.
+- Contexto organizacional, proceso involucrado y necesidad de mejora.
 - Pregunta analítica o problema de predicción, clasificación, segmentación, recomendación o análisis.
-- Identificación de fuentes internas o externas.
-- Descripción del dataset inicial.
+- Requerimientos de la solución: qué información, indicadores o capacidades hacen falta.
 - Variables disponibles, variable objetivo si aplica e hipótesis de trabajo.
-- Consideraciones iniciales de calidad, sesgo, privacidad y disponibilidad de datos.
 
-## CE042: Diseño de dataset y pipeline analítico
+## CE042: Construye Infraestructura de Datos
 
-Diseña el dataset analítico, define transformaciones, prepara variables y establece un pipeline reproducible para el tratamiento de datos.
+Diseña e implementa procesos de extracción, integración, transformación, almacenamiento y preparación de datos para soluciones analíticas y de inteligencia artificial.
 
-### CE0421: Diseño de dataset y pipeline analítico
+Rol asociado: Data Engineer.
+
+### CE0421: Infraestructura de extracción, integración y preparación de datos
 
 Propósito:
 
-Demostrar que el estudiante puede diseñar un dataset analítico y un flujo reproducible de preparación de datos.
+Demostrar que el estudiante puede diseñar e implementar una infraestructura de datos reproducible, desde la extracción hasta la preparación final.
 
 Artefactos de la evidencia:
 
-- Diseño de dataset.
-- Feature engineering.
-- Pipeline de datos.
-- Estrategia analítica.
+- Fuentes de datos identificadas, extraídas e integradas.
+- Dataset construido y almacenado.
+- Transformaciones, limpieza y feature engineering.
+- Pipeline reproducible y versionado de datos.
 
 Formato sugerido:
 
@@ -128,29 +99,30 @@ Notebook, scripts o repositorio técnico con documentación de transformaciones,
 
 Estructura sugerida del producto:
 
-- Diseño del dataset final esperado.
+- Identificación, extracción e integración de fuentes internas o externas.
 - Criterios de selección, transformación y combinación de variables.
-- Limpieza prevista, tratamiento de nulos, codificación y escalamiento si aplica.
-- Pipeline reproducible para carga, transformación y preparación de datos.
-- Estrategia analítica: tipo de modelo, técnica o enfoque de IA seleccionado.
+- Limpieza, tratamiento de nulos, codificación y escalamiento si aplica.
+- Almacenamiento y pipeline reproducible para carga, transformación y preparación de datos.
 - Evidencias de versionamiento o trazabilidad de datos y código.
 
-## CE043: Construcción y experimentación
+## CE043: Desarrolla Modelos de Analítica
 
-Construye el dataset, ejecuta limpieza y transformación, entrena modelos o aplica técnicas analíticas, y documenta experimentos con trazabilidad.
+Explora, prepara y modela datos mediante técnicas estadísticas, aprendizaje automático e inteligencia artificial para generar modelos predictivos, descriptivos y/o prescriptivos.
 
-### CE0431: Construcción, entrenamiento y experimentación
+Rol asociado: Data Scientist / ML Engineer.
+
+### CE0431: Modelos predictivos, descriptivos o prescriptivos entrenados y evaluados
 
 Propósito:
 
-Demostrar que el estudiante puede construir el dataset, ejecutar experimentos y entrenar modelos con trazabilidad técnica.
+Demostrar que el estudiante puede modelar datos con técnicas estadísticas o de IA, generar modelos predictivos, descriptivos o prescriptivos, y evaluarlos con trazabilidad técnica.
 
 Artefactos de la evidencia:
 
-- Dataset construido.
-- Limpieza de datos ejecutada.
-- Entrenamiento de modelos.
+- Modelos entrenados.
 - Notebooks o bitácora de experimentos.
+- Métricas de evaluación del modelo.
+- Comparación de enfoques y propuesta de mejora o reentrenamiento.
 
 Formato sugerido:
 
@@ -158,57 +130,31 @@ Repositorio o carpeta técnica con notebooks, scripts, datasets versionados o re
 
 Estructura sugerida del producto:
 
-- Dataset final construido y versionado.
-- Evidencias de limpieza y transformación.
-- Modelos entrenados o análisis ejecutados.
+- Modelos entrenados (regresión, clasificación u otra técnica pertinente al problema predictivo, descriptivo o prescriptivo).
 - Registro de experimentos, parámetros, resultados y decisiones.
-- Comparación de enfoques o configuraciones.
-- Código, notebooks o scripts reproducibles.
-
-## CE044: Evaluación, monitoreo y mejora
-
-Evalúa el desempeño de modelos o soluciones analíticas, interpreta métricas, analiza errores, identifica riesgos y propone monitoreo, mejora o reentrenamiento.
-
-### CE0441: Evaluación, monitoreo y mejora
-
-Propósito:
-
-Demostrar que el estudiante puede evaluar el desempeño de la solución, interpretar métricas y proponer mecanismos de mejora o reentrenamiento.
-
-Artefactos de la evidencia:
-
-- Evaluación de modelos.
-- Métricas de desempeño.
-- Monitoreo del modelo o solución.
-- Estrategia de reentrenamiento.
-
-Formato sugerido:
-
-Informe técnico, notebook evaluativo o dashboard de métricas, acompañado de resultados, gráficos y propuesta de mejora.
-
-Estructura sugerida del producto:
-
 - Métricas pertinentes según el problema: accuracy, precision, recall, F1, AUC, MAE, RMSE u otras.
 - Comparación de modelos o enfoques.
 - Análisis de errores, sesgos, límites y riesgos.
-- Estrategia de monitoreo de datos, desempeño o deriva.
 - Propuesta de mejora, actualización o reentrenamiento.
 
-## CE045: Comunicación y uso del modelo
+## CE044: Genera Inteligencia para la Toma de Decisiones
 
-Comunica hallazgos mediante visualización, storytelling, interpretación de resultados y recomendaciones accionables para usuarios o tomadores de decisión.
+Analiza e interpreta datos y resultados analíticos para generar indicadores, visualizaciones, reportes y recomendaciones estratégicas que apoyen la toma de decisiones.
 
-### CE0451: Comunicación y uso del modelo
+Rol asociado: Data Analyst / BI Analyst.
+
+### CE0441: Indicadores, visualización y recomendaciones estratégicas
 
 Propósito:
 
-Demostrar que el estudiante puede comunicar resultados de datos o IA de manera comprensible, accionable y conectada con decisiones organizacionales.
+Demostrar que el estudiante puede analizar datos y resultados analíticos para comunicar indicadores, visualizaciones y recomendaciones accionables conectadas con decisiones organizacionales.
 
 Artefactos de la evidencia:
 
-- Storytelling con datos.
-- Visualización de resultados.
-- Interpretación y recomendaciones.
+- Indicadores o KPI definidos.
+- Visualización o tablero estratégico.
+- Interpretación de resultados en lenguaje de negocio.
+- Recomendaciones y estrategias accionables.
 
 Formato sugerido:
 
@@ -216,8 +162,8 @@ Informe ejecutivo, tablero, presentación, demo o sustentación técnica con vis
 
 Estructura sugerida del producto:
 
-- Visualizaciones o tablero de resultados.
+- Indicadores o KPI y visualizaciones o tablero de resultados.
 - Explicación del problema, datos, método y hallazgos.
-- Interpretación de métricas en lenguaje de negocio.
+- Interpretación de métricas o indicadores en lenguaje de negocio.
 - Recomendaciones para usuarios, responsables o tomadores de decisión.
 - Limitaciones, consideraciones éticas y próximos pasos.

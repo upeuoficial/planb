@@ -1,4 +1,4 @@
-﻿# Línea de Ciencia de Datos e IA
+# Línea de Ciencia de Datos e IA
 
 !!! note "Guía complementaria en construcción"
     Esta página es una orientación operativa para proyectos progresivos de la línea. El documento oficial vigente para la evaluación es [Evaluación del perfil de egreso](../../transcripcion.md).
@@ -23,37 +23,42 @@ La línea de Ciencia de Datos e IA corresponde a la competencia CE04 del program
 
 Diseña y gestiona sistemas inteligentes basándose en metodologías, estándares y herramientas a fin de lograr estrategias de mejora para la organización.
 
-Rol asociado: Data Scientist, Data Analyst o AI Engineer.
+Esta descripción es textual: aparece igual en el sílabo de Business Intelligence y en el de Big Data, ambos declarados bajo esta misma competencia específica.
 
-La fuente institucional disponible confirma la competencia de línea CE04. Mientras no se cuente con competencias específicas formalizadas para esta línea, los bloques CE041 a CE045 se usan como estructura operativa para organizar evidencias, artefactos y evaluación sin atribuirles carácter oficial adicional.
+CE04 se despliega en cuatro competencias específicas. La siguiente tabla funciona como mapa de orientación; la definición completa de cada una se desarrolla debajo.
 
-| Bloque operativo | Aporte en la línea | Rol asociado |
+| Competencia específica | Formulación | Rol asociado |
 | --- | --- | --- |
-| CE041: Problema analítico y preparación de datos | Formula el problema y reconoce fuentes de datos. | Analista de Datos o Analista de Negocio |
-| CE042: Diseño de dataset y pipeline analítico | Diseña datasets y flujos reproducibles. | Data Engineer o Analytics Engineer |
-| CE043: Construcción y experimentación | Construye datasets, experimenta y entrena modelos. | Data Scientist o ML Engineer |
-| CE044: Evaluación, monitoreo y mejora | Evalúa desempeño, monitorea y propone mejora. | ML Engineer o MLOps Engineer |
-| CE045: Comunicación y uso del modelo | Comunica resultados para la toma de decisiones. | Data Analyst o BI Analyst |
+| CE041: Define Requerimientos de Inteligencia Analítica | Analiza necesidades y procesos organizacionales para definir requerimientos de soluciones de analítica de datos e inteligencia artificial. | Data/AI Consultant – Business Analyst |
+| CE042: Construye Infraestructura de Datos | Diseña e implementa procesos de extracción, integración, transformación, almacenamiento y preparación de datos para soluciones analíticas y de inteligencia artificial. | Data Engineer |
+| CE043: Desarrolla Modelos de Analítica | Explora, prepara y modela datos mediante técnicas estadísticas, aprendizaje automático e inteligencia artificial para generar modelos predictivos, descriptivos y/o prescriptivos. | Data Scientist / ML Engineer |
+| CE044: Genera Inteligencia para la Toma de Decisiones | Analiza e interpreta datos y resultados analíticos para generar indicadores, visualizaciones, reportes y recomendaciones estratégicas que apoyen la toma de decisiones. | Data Analyst / BI Analyst |
 
-### CE041: Problema analítico y preparación de datos
+### CE041: Define Requerimientos de Inteligencia Analítica
 
-Formula una necesidad organizacional como problema analítico, identifica fuentes de datos, construye un dataset inicial y define variables, supuestos e hipótesis de trabajo.
+Analiza necesidades y procesos organizacionales para definir requerimientos de soluciones de analítica de datos e inteligencia artificial.
 
-### CE042: Diseño de dataset y pipeline analítico
+Cursos asociados (Plan Matricial UPeU 2025, sección Ciencia de Datos e Inteligencia Artificial): Introducción a la Ingeniería de Computación (C1, nivel 1), Estadística para la Investigación (C5, nivel 1), Métodos Numéricos (C6, nivel 1), Análisis Multivariado (C7, nivel 2), Inteligencia de Negocios, Inteligencia Artificial y Proyecto Integrador I (C8, nivel 2).
 
-Diseña el dataset analítico, define transformaciones, prepara variables y establece un pipeline reproducible para el tratamiento de datos.
+### CE042: Construye Infraestructura de Datos
 
-### CE043: Construcción y experimentación
+Diseña e implementa procesos de extracción, integración, transformación, almacenamiento y preparación de datos para soluciones analíticas y de inteligencia artificial.
 
-Construye el dataset, ejecuta limpieza y transformación, entrena modelos o aplica técnicas analíticas, y documenta experimentos con trazabilidad.
+Cursos asociados (Plan Matricial UPeU 2025): Administración de Base de Datos I y II (C3-C4, nivel 1-2 — compartido con la línea de Software, CE022), Inteligencia de Negocios, Inteligencia Artificial y Proyecto Integrador I (C8, nivel 2), Minería de Datos (C9, nivel 3), Big Data y Proyecto Integrador II (C10, nivel 3, con extracción, transformaciones distribuidas y particionamiento analítico en PySpark).
 
-### CE044: Evaluación, monitoreo y mejora
+### CE043: Desarrolla Modelos de Analítica
 
-Evalúa el desempeño de modelos o soluciones analíticas, interpreta métricas, analiza errores, identifica riesgos y propone monitoreo, mejora o reentrenamiento.
+Explora, prepara y modela datos mediante técnicas estadísticas, aprendizaje automático e inteligencia artificial para generar modelos predictivos, descriptivos y/o prescriptivos. La preparación aquí es la propia del modelado (selección de variables, encoding, splits) y no reemplaza el pipeline de CE042.
 
-### CE045: Comunicación y uso del modelo
+Cursos asociados (Plan Matricial UPeU 2025): Estadística para la Investigación (C5, nivel 1), Métodos Numéricos (C6, nivel 1), Análisis Multivariado (C7, nivel 2), Inteligencia de Negocios, Inteligencia Artificial y Proyecto Integrador I (C8, nivel 2), Minería de Datos (C9, nivel 3), Big Data y Proyecto Integrador II (C10, nivel 3, con Spark MLlib distribuido).
 
-Comunica hallazgos mediante visualización, storytelling, interpretación de resultados y recomendaciones accionables para usuarios o tomadores de decisión.
+Hay una tensión sin resolver aquí: el sílabo propio de Inteligencia de Negocios no menciona modelado ni "científico de datos" entre sus dimensiones, pero el Plan Matricial le asigna nivel 2 en esta competencia igual que a Inteligencia Artificial. Puede deberse a que el nivel se evalúa junto con Proyecto Integrador I (mismo ciclo, mismas cuatro competencias) y no exclusivamente dentro de Inteligencia de Negocios. Queda pendiente aclarar con quien administra el Plan Matricial.
+
+### CE044: Genera Inteligencia para la Toma de Decisiones
+
+Analiza e interpreta datos y resultados analíticos para generar indicadores, visualizaciones, reportes y recomendaciones estratégicas que apoyen la toma de decisiones.
+
+Cursos asociados (Plan Matricial UPeU 2025): Estadística para la Investigación (C5, nivel 1), Análisis Multivariado (C7, nivel 2), Inteligencia de Negocios, Inteligencia Artificial y Proyecto Integrador I (C8, nivel 2), Minería de Datos (C9, nivel 3), Big Data y Proyecto Integrador II (C10, nivel 3, con visualización en tiempo real en la unidad 2).
 
 Las evidencias y la evaluación de cierre se presentan en las secciones siguientes como mapa general y se desarrollan en páginas específicas.
 
@@ -61,126 +66,89 @@ Las evidencias y la evaluación de cierre se presentan en las secciones siguient
 
 Las evidencias de la línea permiten comprobar que el estudiante no solo conoce herramientas de datos o IA, sino que produce artefactos verificables para sustentar una solución analítica. En esta página se presenta una vista de conjunto; el detalle de cada evidencia, con sus artefactos esperados, se desarrolla en [Evidencias por competencia](evidencias.md).
 
-| Bloque operativo | Evidencia integradora | Artefactos asociados |
+| Competencia | Foco de evidencia | Cantidad |
 | --- | --- | ---: |
-| CE041: Problema analítico y preparación de datos | CE0411: Problema analítico y dataset inicial. | 4 |
-| CE042: Diseño de dataset y pipeline analítico | CE0421: Diseño de dataset y pipeline analítico. | 4 |
-| CE043: Construcción y experimentación | CE0431: Construcción, entrenamiento y experimentación. | 4 |
-| CE044: Evaluación, monitoreo y mejora | CE0441: Evaluación, monitoreo y mejora. | 4 |
-| CE045: Comunicación y uso del modelo | CE0451: Comunicación y uso del modelo. | 3 |
+| CE041: Define Requerimientos de Inteligencia Analítica | Necesidades organizacionales y requerimientos de una solución analítica. | 4 |
+| CE042: Construye Infraestructura de Datos | Extracción, integración, transformación, almacenamiento y preparación de datos. | 4 |
+| CE043: Desarrolla Modelos de Analítica | Modelado predictivo, descriptivo o prescriptivo con evaluación técnica. | 4 |
+| CE044: Genera Inteligencia para la Toma de Decisiones | Indicadores, visualización, reportes y recomendaciones estratégicas. | 4 |
 
 ### Resumen de evidencias por competencia CE04 Ciencia de Datos e IA
 
-#### CE041: Problema analítico y preparación de datos
+#### CE041: Define Requerimientos de Inteligencia Analítica
 
-- CE0411: Problema analítico y dataset inicial.
+- CE0411: Necesidades organizacionales y requerimientos de la solución.
+- Necesidad organizacional y proceso identificado.
 - Problema analítico formulado.
-- Fuentes de datos identificadas.
-- Dataset inicial.
-- Variables, supuestos e hipótesis.
+- Requerimientos de la solución de analítica o IA.
+- Variables, supuestos e hipótesis de trabajo.
 
-#### CE042: Diseño de dataset y pipeline analítico
+#### CE042: Construye Infraestructura de Datos
 
-- CE0421: Diseño de dataset y pipeline analítico.
-- Diseño de dataset.
-- Feature engineering.
-- Pipeline de datos.
-- Estrategia analítica.
+- CE0421: Infraestructura de extracción, integración y preparación de datos.
+- Fuentes de datos identificadas, extraídas e integradas.
+- Dataset construido y almacenado.
+- Transformaciones, limpieza y feature engineering.
+- Pipeline reproducible y versionado de datos.
 
-#### CE043: Construcción y experimentación
+#### CE043: Desarrolla Modelos de Analítica
 
-- CE0431: Construcción, entrenamiento y experimentación.
-- Dataset construido.
-- Limpieza de datos ejecutada.
-- Entrenamiento de modelos.
+- CE0431: Modelos predictivos, descriptivos o prescriptivos entrenados y evaluados.
+- Modelos entrenados.
 - Notebooks o bitácora de experimentos.
+- Métricas de evaluación del modelo.
+- Comparación de enfoques y propuesta de mejora o reentrenamiento.
 
-#### CE044: Evaluación, monitoreo y mejora
+#### CE044: Genera Inteligencia para la Toma de Decisiones
 
-- CE0441: Evaluación, monitoreo y mejora.
-- Evaluación de modelos.
-- Métricas de desempeño.
-- Monitoreo del modelo o solución.
-- Estrategia de reentrenamiento.
-
-#### CE045: Comunicación y uso del modelo
-
-- CE0451: Comunicación y uso del modelo.
-- Storytelling con datos.
-- Visualización de resultados.
-- Interpretación y recomendaciones.
+- CE0441: Indicadores, visualización y recomendaciones estratégicas.
+- Indicadores o KPI definidos.
+- Visualización o tablero estratégico.
+- Interpretación de resultados en lenguaje de negocio.
+- Recomendaciones y estrategias accionables.
 
 ### Distribución por semestre
 
-#### Semestre 1
-
-El producto final de este semestre tiene lo siguiente:
-
-##### CE041: Problema analítico y preparación de datos
-
-- CE0411: Problema analítico y dataset inicial.
-- Problema analítico formulado.
-- Fuentes de datos identificadas.
-- Dataset inicial.
-- Variables, supuestos e hipótesis.
-
-##### CE042: Diseño de dataset y pipeline analítico
-
-- CE0421: Diseño de dataset y pipeline analítico.
-- Diseño de dataset.
-- Feature engineering.
-- Pipeline de datos.
-- Estrategia analítica.
-
-#### Semestre 2
-
-El producto final de este semestre tiene lo siguiente:
-
-##### CE043: Construcción y experimentación
-
-- CE0431: Construcción, entrenamiento y experimentación.
-- Dataset construido.
-- Limpieza de datos ejecutada.
-- Entrenamiento de modelos.
-- Notebooks o bitácora de experimentos.
-
-##### CE044: Evaluación, monitoreo y mejora
-
-- CE0441: Evaluación, monitoreo y mejora.
-- Evaluación de modelos.
-- Métricas de desempeño.
-- Monitoreo del modelo o solución.
-- Estrategia de reentrenamiento.
-
-##### CE045: Comunicación y uso del modelo
-
-- CE0451: Comunicación y uso del modelo.
-- Storytelling con datos.
-- Visualización de resultados.
-- Interpretación y recomendaciones.
+La fuente institucional disponible no define todavía una distribución por semestre para el cierre de esta línea (a diferencia de Software, cuyo `transcripcion.md` sí especifica Semestre 1 / Semestre 2 para CE02). Esta sección queda pendiente hasta contar con esa definición oficial; no se propone una distribución operativa para no anticipar un criterio que la institución aún no ha fijado.
 
 ## 5. Ruta de construcción y evaluación durante la carrera
 
-La construcción de competencias en la línea de Ciencia de Datos e IA se organiza mediante evidencias progresivas que pueden verificarse con Proyecto Sello (PS), Proyecto Integrador (PI) y Evaluación del Perfil de Egreso (EPE).
+La construcción de competencias en la línea de Ciencia de Datos e IA se organiza por ciclos y se verifica mediante tres tipos de hitos: Proyecto Sello (PS), Proyecto Integrador (PI) y Evaluación del Perfil de Egreso (EPE). A diferencia de las páginas anteriores de esta guía (basadas solo en los cursos con repositorio digital en el workspace), esta tabla viene del **Plan Matricial oficial** (`Plan Matricial - Sistemas 2024 - V 3.0.xlsx`, pestañas Plan 2024/2025), que asigna un nivel de logro (1, 2 o 3) por curso y por una de las cuatro competencias CE041-CE044.
 
-- PS: evidencia focalizada para demostrar una capacidad específica de análisis, preparación, modelado, evaluación o comunicación de datos.
-- PI: evidencia integradora que articula problema, datos, pipeline, experimentación, evaluación y comunicación en una solución analítica.
-- EPE: evaluación final del perfil de egreso, orientada a verificar la integración de CE04 mediante una solución basada en datos o IA.
+La ruta real es más larga y más temprana de lo que sugerían solo los cursos con guía de sesión ya construida: empieza en el primer ciclo de la carrera y pasa por cursos de estadística y matemática antes de llegar a los cursos dedicados de la línea.
 
-La ruta no reemplaza los niveles de logro. Los niveles de logro indican el grado de dominio alcanzado; la ruta muestra cómo se construyen y verifican las evidencias durante la carrera.
+| Ciclo | Curso | Nivel | Hito de evaluación | Competencias que toca |
+| --- | --- | ---: | --- | --- |
+| C1 | Introducción a la Ingeniería de Computación | 1 | Curso introductorio | CE041 |
+| C3-C4 | Administración de Base de Datos I y II | 1-2 | PS (compartido con Software, CE022) | CE042 |
+| C5 | Estadística para la Investigación | 1 | PS (compartido con Ciencias de Ingeniería) | CE041, CE043, CE044 |
+| C6 | Métodos Numéricos | 1 | PS (compartido con Ciencias de Ingeniería) | CE041, CE043 |
+| C7 | Análisis Multivariado | 2 | PS | CE041, CE043, CE044 |
+| C8 | Inteligencia de Negocios, Inteligencia Artificial, Proyecto Integrador I | 2 | Proyecto Integrador (PI) | CE041, CE042, CE043, CE044 |
+| C9 | Minería de Datos | 3 | PS | CE041, CE042, CE043, CE044 |
+| C10 | Big Data, Proyecto Integrador II | 3 | Proyecto Integrador (PI) | CE041, CE042, CE043, CE044 |
+| Cierre | Línea de Ciencia de Datos e IA | — | Evaluación del Perfil de Egreso (EPE) | CE041, CE042, CE043, CE044 |
 
-| Momento de la ruta | Evidencia principal | Hito de evaluación | Propósito en la línea |
-| --- | --- | --- | --- |
-| Problema y datos iniciales | Problema analítico, fuentes de datos, dataset inicial, variables e hipótesis | PS | Formular una necesidad como problema analítico viable y sustentado en datos. |
-| Dataset y pipeline | Dataset analítico, transformaciones, feature engineering y pipeline reproducible | PS o PI | Preparar datos confiables, trazables y listos para análisis, modelado o visualización. |
-| Construcción y experimentación | Dataset construido, limpieza, modelos, notebooks y bitácora de experimentos | PI | Ejecutar experimentos o análisis con trazabilidad técnica y comparación de enfoques. |
-| Evaluación y mejora | Métricas, análisis de errores, sesgos, monitoreo y estrategia de reentrenamiento | PI | Interpretar desempeño, reconocer límites y proponer mejora o monitoreo. |
-| Comunicación y uso | Visualizaciones, storytelling, interpretación y recomendaciones | PS o PI | Traducir resultados técnicos en decisiones comprensibles y accionables. |
-| Cierre | Solución final basada en datos o IA | EPE | Verificar la integración final de problema, datos, pipeline, experimentación, evaluación, comunicación y mejora. |
+Los niveles 1/2/3 del Plan Matricial son una escala de madurez curricular por curso (introductorio → intermedio → dominado), distinta de los cuatro "Niveles de logro" de la EPE (En Inicio / En Desarrollo / Alcanzado / Sobresaliente) descritos en `transcripcion.md`.
+
+### Cursos sin guía de sesión todavía
+
+Dos cursos del Plan Matricial no tienen repositorio en este workspace: **Inteligencia Artificial** (C8) y **Minería de Datos** (C9). No se encontró ningún folder ni sílabo con esos nombres bajo `/c/262`; si existen en otro lugar, falta enlazarlos aquí.
+
+### Referencias de ruta por ciclo
+
+- C3-C4 Administración de Base de Datos I y II: repositorios de la línea de Software (BD1, BD2).
+- C5-C6 Estadística para la Investigación, Métodos Numéricos: cursos de Ciencias de Ingeniería, sin repositorio propio de esta línea.
+- C8 Inteligencia de Negocios: <https://github.com/262bi/farmabi>
+- C8 Inteligencia Artificial: sin repositorio confirmado.
+- C9 Minería de Datos: sin repositorio confirmado.
+- C10 Big Data: <https://262bigdata.github.io/lambda26/> — el Plan Matricial lo ubica en ciclo 10, no en ciclo 9 como sugiere el nombre de carpeta `2629bigdata`.
 
 ### Sentido de la ruta
 
-Durante la carrera, el estudiante pasa de formular problemas de datos a construir soluciones analíticas o inteligentes que puedan explicarse, evaluarse y mejorarse. Los PS permiten comprobar capacidades específicas; los PI permiten articular el flujo completo de una solución basada en datos.
+El Plan Matricial reparte las cuatro competencias de forma más granular que un mapeo "1 curso = 1 competencia": CE041 empieza en el primer ciclo de la carrera (nivel introductorio) y madura a través de cursos de estadística y matemática antes de los cursos dedicados; CE042 depende de Bases de Datos (Software) además de los cursos propios de la línea; CE043 y CE044 se apoyan en Estadística, Métodos Numéricos y Análisis Multivariado antes de llegar a nivel 2 en ciclo 8.
+
+Los dos Proyectos Integradores (C8 y C10) son los puntos donde las cuatro competencias se evalúan juntas por primera y última vez antes del cierre — son los hitos PI de esta línea, análogos al Proyecto Sello/Integrador de cada curso individual pero evaluados a nivel de línea completa.
 
 La ruta culmina en la EPE. En ese momento no se recalifican todos los productos previos, sino la capacidad del estudiante para integrar lo aprendido en una solución final basada en datos o IA que evidencie el logro de la competencia de especialidad.
 
@@ -241,11 +209,10 @@ Un buen proyecto final de Ciencia de Datos e IA puede alimentar decisiones estra
 
 ~~~mermaid
 flowchart LR
-  CE04[CE04: Ciencia de Datos e Inteligencia Artificial] --> CE041[CE041: Problema analítico y preparación de datos]
-  CE04 --> CE042[CE042: Dataset y pipeline analítico]
-  CE04 --> CE043[CE043: Construcción y experimentación]
-  CE04 --> CE044[CE044: Evaluación, monitoreo y mejora]
-  CE04 --> CE045[CE045: Comunicación y uso del modelo]
+  CE04[CE04: Ciencia de Datos e Inteligencia Artificial] --> CE041[CE041: Define Requerimientos de Inteligencia Analítica]
+  CE04 --> CE042[CE042: Construye Infraestructura de Datos]
+  CE04 --> CE043[CE043: Desarrolla Modelos de Analítica]
+  CE04 --> CE044[CE044: Genera Inteligencia para la Toma de Decisiones]
 ~~~
 
 ## 11. Portafolio mínimo del estudiante
