@@ -38,27 +38,40 @@ CE04 se despliega en cuatro competencias específicas. La siguiente tabla funcio
 
 Analiza necesidades y procesos organizacionales para definir requerimientos de soluciones de analítica de datos e inteligencia artificial.
 
-Cursos asociados (Plan Matricial UPeU 2025, sección Ciencia de Datos e Inteligencia Artificial): Introducción a la Ingeniería de Computación (C1, nivel 1), Estadística para la Investigación (C5, nivel 1), Métodos Numéricos (C6, nivel 1), Análisis Multivariado (C7, nivel 2), Inteligencia de Negocios, Inteligencia Artificial y Proyecto Integrador I (C8, nivel 2).
+Cursos asociados: ver la lista oficial de la línea al final de esta sección.
 
 ### CE042: Construye Infraestructura de Datos
 
 Diseña e implementa procesos de extracción, integración, transformación, almacenamiento y preparación de datos para soluciones analíticas y de inteligencia artificial.
 
-Cursos asociados (Plan Matricial UPeU 2025): Administración de Base de Datos I y II (C3-C4, nivel 1-2 — compartido con la línea de Software, CE022), Inteligencia de Negocios, Inteligencia Artificial y Proyecto Integrador I (C8, nivel 2), Minería de Datos (C9, nivel 3), Big Data y Proyecto Integrador II (C10, nivel 3, con extracción, transformaciones distribuidas y particionamiento analítico en PySpark).
+Cursos asociados: ver la lista oficial de la línea al final de esta sección.
 
 ### CE043: Desarrolla Modelos de Analítica
 
 Explora, prepara y modela datos mediante técnicas estadísticas, aprendizaje automático e inteligencia artificial para generar modelos predictivos, descriptivos y/o prescriptivos. La preparación aquí es la propia del modelado (selección de variables, encoding, splits) y no reemplaza el pipeline de CE042.
 
-Cursos asociados (Plan Matricial UPeU 2025): Estadística para la Investigación (C5, nivel 1), Métodos Numéricos (C6, nivel 1), Análisis Multivariado (C7, nivel 2), Inteligencia de Negocios, Inteligencia Artificial y Proyecto Integrador I (C8, nivel 2), Minería de Datos (C9, nivel 3), Big Data y Proyecto Integrador II (C10, nivel 3, con Spark MLlib distribuido).
+Cursos asociados: ver la lista oficial de la línea al final de esta sección.
 
-Hay una tensión sin resolver aquí: el sílabo propio de Inteligencia de Negocios no menciona modelado ni "científico de datos" entre sus dimensiones, pero el Plan Matricial le asigna nivel 2 en esta competencia igual que a Inteligencia Artificial. Puede deberse a que el nivel se evalúa junto con Proyecto Integrador I (mismo ciclo, mismas cuatro competencias) y no exclusivamente dentro de Inteligencia de Negocios. Queda pendiente aclarar con quien administra el Plan Matricial.
+Hay una tensión sin resolver: el sílabo propio de Inteligencia de Negocios no menciona modelado ni "científico de datos" entre sus dimensiones, pero el Plan Matricial le asigna nivel 2 en esta competencia igual que a Inteligencia Artificial. Puede deberse a que el nivel se evalúa junto con Proyecto Integrador I (mismo ciclo, mismas cuatro competencias) y no exclusivamente dentro de Inteligencia de Negocios. Queda pendiente aclarar con quien administra el Plan Matricial.
 
 ### CE044: Genera Inteligencia para la Toma de Decisiones
 
 Analiza e interpreta datos y resultados analíticos para generar indicadores, visualizaciones, reportes y recomendaciones estratégicas que apoyen la toma de decisiones.
 
-Cursos asociados (Plan Matricial UPeU 2025): Estadística para la Investigación (C5, nivel 1), Análisis Multivariado (C7, nivel 2), Inteligencia de Negocios, Inteligencia Artificial y Proyecto Integrador I (C8, nivel 2), Minería de Datos (C9, nivel 3), Big Data y Proyecto Integrador II (C10, nivel 3, con visualización en tiempo real en la unidad 2).
+Cursos asociados: ver la lista oficial de la línea al final de esta sección.
+
+### Texto oficial vs. transcripcion.md
+
+`transcripcion.md` todavía no tiene una sección de Ciencia de Datos e IA (confirmado leyendo el documento completo), así que estas cuatro competencias solo tienen fuente oficial — no hay una versión "transcripción" con la que compararlas.
+
+| Competencia | Texto oficial (Plan final de estudio 2025) |
+| --- | --- |
+| CE041 (oficial: Define Requerimientos de Inteligencia Analítica) | Analiza y define requerimientos para sistemas inteligentes. |
+| CE042 (oficial: Construye Dataset) | Construye una infraestructura de extracción y preparación de datos para analítica de datos. |
+| CE043 (oficial: Genera Modelos de Inteligencia Analítica) | Explora y transforma los datos para generar modelos estadísticos y/o de Inteligencia Artificial. |
+| CE044 (oficial: Analiza los Datos y Define Estrategias) | Analiza los datos y crea reportes/informes y/o visualizaciones estratégicas para la toma de decisiones. |
+
+Cursos oficiales de la línea (Plan final de estudio 2025): Matemática Discreta, Análisis Multivariado, Inteligencia de Negocios, Minería de Datos, Inteligencia Artificial, Big Data, ELECTIVO: Machine Learning / Analítica Digital. A diferencia de una versión anterior de esta página, **Estadística para la Investigación no aparece en la lista oficial** (vuelve a Ciencias de Ingeniería) y **Matemática Discreta sí** (se agrega aquí) — ver [Malla curricular](../../anexos/malla-curricular-2024.md).
 
 Las evidencias y la evaluación de cierre se presentan en las secciones siguientes como mapa general y se desarrollan en páginas específicas.
 

@@ -7,11 +7,12 @@ Cursos por ciclo con abreviatura estable y línea de competencia adscrita.
 | Línea | Cursos |
 | --- | ---: |
 | Ingeniería de Software | 14 |
-| Gestión e Innovación de TI | 11 |
-| Infraestructura de TI | 9 |
-| Ciencia de Datos e IA | 8 |
+| Gestión e Innovación de TI | 10 |
+| Infraestructura de TI | 10 |
+| Ciencia de Datos e IA | 7 |
 | Ciencias de Ingeniería (esencial) | 9 |
 | Sin línea de especialidad (Formación Cristiana, Investigación, Talleres) | 20 |
+| Pendiente de asignar (Electivo I, propuesta en revisión) | 1 |
 | **Total** | **71** |
 
 71 cursos en total, a lo largo de 10 ciclos.
@@ -35,7 +36,7 @@ Cursos por ciclo con abreviatura estable y línea de competencia adscrita.
 - PDS — Pruebas y Despliegue del Software (C7)
 - PI1 — Proyecto Integrador I (C8)
 
-### Gestión e Innovación de TI (11)
+### Gestión e Innovación de TI (10)
 
 - IIS — Introducción a la Ingeniería de Sistemas (C1)
 - SINF — Sistemas de Información (C4)
@@ -47,9 +48,8 @@ Cursos por ciclo con abreviatura estable y línea de competencia adscrita.
 - MPCT — Mejora de Procesos y Calidad Total (C8)
 - GTI — Gobierno de Tecnologías de Información (C9)
 - AUDS — Auditoría de Sistemas (C9)
-- ARQE — Arquitectura Empresarial (C10)
 
-### Infraestructura de TI (9)
+### Infraestructura de TI (10)
 
 - ARQC — Arquitectura de Computadoras (C5)
 - SOPE — Sistemas Operativos (C6)
@@ -59,16 +59,16 @@ Cursos por ciclo con abreviatura estable y línea de competencia adscrita.
 - SEGI — Seguridad Informática (C9)
 - CLOUD — Cloud Computing (C9)
 - SEGINF — Seguridad de la Información (C10)
+- ARQE — Arquitectura Empresarial (C10)
 - PI2 — Proyecto Integrador II (C10)
 
-### Ciencia de Datos e IA (8)
+### Ciencia de Datos e IA (7)
 
-- EST — Estadística para la Investigación (C5)
+- MDIS — Matemática Discreta (C5)
 - AMV — Análisis Multivariado (C7)
 - BI — Inteligencia de Negocios (C8)
 - IA — Inteligencia Artificial (C8)
 - MD — Minería de Datos (C9)
-- ELE1 — Electivo I: Arquitectura de Software (E1ARQS) / Conectividad de las Cosas (E1IoT) (C9)
 - BIGDATA — Big Data (C10)
 - ELE2 — Electivo II: Machine Learning (E2ML) / Analítica Digital (E2ANAD) (C10)
 
@@ -81,7 +81,7 @@ Cursos por ciclo con abreviatura estable y línea de competencia adscrita.
 - CAL2 — Cálculo II (C3)
 - FIS2 — Física II (C4)
 - CAL3 — Cálculo III (C4)
-- MDIS — Matemática Discreta (C5)
+- EST — Estadística para la Investigación (C5)
 - MNUM — Métodos Numéricos (C6)
 
 ### Sin línea de especialidad (20)
@@ -96,6 +96,57 @@ Cursos por ciclo con abreviatura estable y línea de competencia adscrita.
 - FC8, INV1 (C8)
 - FC9, INV2 (C9)
 - FC10, INV3 (C10)
+
+### Pendiente de asignar (1)
+
+- ELE1 — Electivo I: Arquitectura de Software (E1ARQS) / Conectividad de las Cosas (E1IoT) (C9). Oficialmente el Plan final de estudio 2025 divide este electivo entre Ingeniería de Software (Arquitectura de Software) e Infraestructura de TI (Conectividad de las Cosas) — ninguna mitad pertenece a Ciencia de Datos e IA. Pero hay una propuesta en revisión para renombrar el curso y reasignarlo a otra línea, porque Ingeniería de Software ya cierra en el ciclo 8 con PI1. Queda sin línea adscrita hasta que se resuelva.
+
+## Competencias oficiales por línea
+
+Resumen de lo agregado en cada `docs/lineas/*/index.md`, para validar rápido sin entrar a cada página.
+
+### Gestión e Innovación de TI (CE01)
+
+| Competencia | Texto oficial | Texto transcripcion.md |
+| --- | --- | --- |
+| CE011 — Gobierno e Innovación | Administra un Plan Estratégico de TI alineado a la estrategia de negocio. | Administra un Plan Estratégico de TI alineado a la estrategia de negocio. Esta competencia permite diagnosticar brechas, priorizar iniciativas, justificar inversiones y orientar la tecnología hacia resultados organizacionales. |
+| CE012 — Gestión de Proyectos | Gestiona Proyectos de TICs aplicando estándares de calidad. | Aplica los principios de gestión en computación, las metodologías apropiadas a su campo y la toma de decisiones económicas considerando eventuales riesgos, como individuo y como miembro o líder de equipo, para gestionar proyectos en entornos multidisciplinarios. |
+| CE013 — Gestión de Procesos | Gestiona los procesos de las organizaciones con soluciones TICs. | Gestiona los procesos de las organizaciones con soluciones TIC. Esta competencia permite modelar procesos actuales, identificar oportunidades de mejora, proponer rediseños y definir indicadores de desempeño. |
+| CE014 — Gestión de Sistemas de Información | Gestiona la Innovación empresarial con soluciones TICs. | Apoya la prestación, el uso y la gestión de sistemas de información dentro de un entorno de sistemas de información. Esta competencia conecta la solución tecnológica con datos, seguridad, integración, operación y toma de decisiones. |
+
+Cursos oficiales: Introducción a las Ciencias de la Computación, Sistemas de Información, Ingeniería Administrativa, Teoría de Sistemas, Gestión de Procesos, Proyecto Integrador I, Proyecto Integrador II, Mejora de Procesos y Calidad Total, Gobierno de Tecnologías de Información, Emprendedorismo, Auditoría de Sistemas.
+
+### Ingeniería de Software (CE02)
+
+| Competencia | Texto oficial | Texto transcripcion.md |
+| --- | --- | --- |
+| CE021 — Ingeniería de Requerimientos | Analiza casos de negocio e identifica requisitos de usuarios de sistema, modela visual mediante diagramas, diseña la arquitectura del sistema, evalúa alternativas tecnológicas, desarrolla prototipos y pruebas, y elabora la documentación. | Define, analiza y valida requerimientos funcionales y no funcionales, y diseña la arquitectura del sistema, modelando el comportamiento desde la perspectiva del usuario y del negocio mediante representaciones estructuradas como SRS, prototipos, arquitectura y UML. Asegura trazabilidad, coherencia y alineación con el contexto organizacional y las restricciones del sistema. |
+| CE022 — Gestión de Datos | *(error de contenido conocido en la fuente oficial, pendiente de corrección del usuario — no reproducido)* | Modela, diseña, implementa y administra estructuras de datos operacionales, dimensionales y datasets, garantizando integridad, consistencia, rendimiento, seguridad y disponibilidad de la información. Asegura su uso eficiente en el soporte a procesos y toma de decisiones. |
+| CE023 — Programación | Desarrolla, prueba e implementa aplicaciones en plataformas de escritorio, web y móviles con lenguajes y herramientas específicas para cada plataforma de programación utilizando estándares de diseño de interfaces, experiencia de usuario, patrones de arquitectura y optimización de rendimiento. | Desarrolla e integra soluciones de software de escritorio, web, distribuido y móvil, implementando la estructura, componentes y comportamiento del sistema mediante modelos técnicos. Aplica principios de modularidad, desacoplamiento, patrones de diseño y buenas prácticas de desarrollo para lograr soluciones funcionales y mantenibles. |
+| CE024 — Calidad de Software | Aplica los criterios de los estándares internacionales como ISO/IEC 25010 y ISO/IEC 12207 para evaluar la calidad del software y normativizan sus procesos de desarrollo y mantenimiento, logrando asegurar la funcionalidad, fiabilidad, usabilidad, eficiencia del software, mejora continua y satisfacción del cliente. | Gestiona y asegura la calidad del producto y del proceso de desarrollo de software mediante pruebas automatizadas, integración y entrega continua, métricas, revisión técnica, gestión de deuda técnica y auditorías. Promueve la mejora continua y la madurez del proceso. |
+
+Cursos oficiales: Fundamentos de Programación, Programación Orientada a Objetos, Lenguaje de Programación I, Ingeniería de Requerimientos, Administración de Base de Datos I, Administración de Base de Datos II, Análisis y Diseño de Sistemas de Información, Lenguaje de Programación II, Desarrollo de Aplicaciones Distribuidas, Ingeniería de Software I, Sistemas Operativos, Desarrollo de Aplicaciones Móviles, Ingeniería de Software II, Pruebas y Despliegue de Software, ELECTIVO I: Arquitectura de Software (pendiente, ver arriba).
+
+### Infraestructura de TI (CE03)
+
+| Competencia | Texto oficial | Texto transcripcion.md |
+| --- | --- | --- |
+| CE031 — Conectividad | Diseña, implementa, testea y controla la red; siguiendo las normas nacionales e internacionales en conectividad a fin de asegurar la transferencia de información en la organización. | Diseña, implementa y valida infraestructuras de red organizacionales, asegurando segmentación, disponibilidad, rendimiento y cumplimiento de normas nacionales e internacionales de conectividad, garantizando transferencia segura y eficiente de la información. |
+| CE032 — Gestión de la Seguridad de la Información | Planifica, implementa, monitorea y mejora continuamente procesos y controles destinados a proteger la información sensible y los recursos asociados. | Planifica e implementa controles de seguridad basados en estándares internacionales, asegurando protección de activos críticos, gestión de riesgos, continuidad operativa, monitoreo permanente y mejora continua conforme a marcos como ISO/IEC 27001, ISO/IEC 27002, ISO/IEC 27005 y NIST. |
+| CE033 — Implementación de Centro de Datos | Diseña, desarrolla y controla los servicios de un centro de datos basándose en metodologías y estándares a fin de lograr el adecuado manejo de la información para el alcance de los objetivos de la organización. | Diseña y despliega servicios de infraestructura y centro de datos, integrando virtualización, almacenamiento, alta disponibilidad, nube híbrida y monitoreo, garantizando soporte tecnológico confiable para los objetivos estratégicos de la organización. |
+
+Cursos oficiales: Arquitectura de Computadoras, Redes Informáticas I, Redes Informáticas II, Virtualización de Servicios Tecnológicos, Seguridad Informática, Arquitectura Empresarial, Seguridad de la Información, Cloud Computing, ELECTIVO I: Conectividad de las Cosas (pendiente, ver arriba).
+
+### Ciencia de Datos e IA (CE04)
+
+| Competencia | Texto oficial | Texto transcripcion.md |
+| --- | --- | --- |
+| CE041 — Define Requerimientos de Inteligencia Analítica | Analiza y define requerimientos para sistemas inteligentes. | — |
+| CE042 — Construye Dataset | Construye una infraestructura de extracción y preparación de datos para analítica de datos. | — |
+| CE043 — Genera Modelos de Inteligencia Analítica | Explora y transforma los datos para generar modelos estadísticos y/o de Inteligencia Artificial. | — |
+| CE044 — Analiza los Datos y Define Estrategias | Analiza los datos y crea reportes/informes y/o visualizaciones estratégicas para la toma de decisiones. | — |
+
+Cursos oficiales: Matemática Discreta, Análisis Multivariado, Inteligencia de Negocios, Minería de Datos, Inteligencia Artificial, Big Data, ELECTIVO: Machine Learning / Analítica Digital. Sin sección propia en `transcripcion.md` todavía.
 
 ## Ciclo 1
 
@@ -150,9 +201,9 @@ Cursos por ciclo con abreviatura estable y línea de competencia adscrita.
 | Abreviatura | Curso | Código 2024 | Línea adscrita | Aporta a otras líneas |
 | --- | --- | --- | --- | --- |
 | FC5 | Formación Cristiana V | ERE105 | — | — |
-| MDIS | Matemática Discreta | SIS201 | Ciencias de Ingeniería (esencial) | — |
+| MDIS | Matemática Discreta | SIS201 | Ciencia de Datos e IA | — |
 | CONT | Contabilidad | SIS202 | Gestión e Innovación de TI | — |
-| EST | Estadística para la Investigación | FME208 | Ciencia de Datos e IA | Ciencias de Ingeniería (esencial) (4) |
+| EST | Estadística para la Investigación | FME208 | Ciencias de Ingeniería (esencial) | Ciencia de Datos e IA (3) |
 | DIST | Desarrollo de Aplicaciones Distribuidas | SIS311 | Ingeniería de Software | — |
 | INAD | Ingeniería Administrativa | SIS312 | Gestión e Innovación de TI | — |
 | ARQC | Arquitectura de Computadoras | SIS313 | Infraestructura de TI | — |
@@ -203,7 +254,7 @@ Cursos por ciclo con abreviatura estable y línea de competencia adscrita.
 | MD | Minería de Datos | SIS331 | Ciencia de Datos e IA | — |
 | SEGI | Seguridad Informática | SIS332 | Infraestructura de TI | — |
 | AUDS | Auditoría de Sistemas | SIS333 | Gestión e Innovación de TI | — |
-| ELE1 | Electivo I: Arquitectura de Software (E1ARQS) / Conectividad de las Cosas (E1IoT) | SIS334 | Ciencia de Datos e IA | — |
+| ELE1 | Electivo I: Arquitectura de Software (E1ARQS) / Conectividad de las Cosas (E1IoT) | SIS334 | *pendiente (ver nota)* | — |
 | CLOUD | Cloud Computing | SIS335 | Infraestructura de TI | — |
 
 ## Ciclo 10
@@ -213,7 +264,12 @@ Cursos por ciclo con abreviatura estable y línea de competencia adscrita.
 | FC10 | Formación Cristiana X | ERE1010 | — | — |
 | INV3 | Investigación III | INV202 | — | — |
 | SEGINF | Seguridad de la Información | SIS336 | Infraestructura de TI | — |
-| ARQE | Arquitectura Empresarial | SIS337 | Gestión e Innovación de TI | — |
+| ARQE | Arquitectura Empresarial | SIS337 | Infraestructura de TI | — |
 | BIGDATA | Big Data | SIS338 | Ciencia de Datos e IA | — |
 | ELE2 | Electivo II: Machine Learning (E2ML) / Analítica Digital (E2ANAD) | SIS339 | Ciencia de Datos e IA | — |
 | PI2 | Proyecto Integrador II | SIS340 | Infraestructura de TI | Gestión e Innovación de TI (4), Ciencia de Datos e IA (4), Ingeniería de Software (4) |
+
+## Fuentes
+
+- `Plan Matricial - Sistemas 2024 - V 3.0.xlsx` (pestañas Plan 2024, Plan 2025) — ciclos, códigos de curso y niveles de logro por competencia.
+- `Plan final de estudio 2025 - EP Ingeniería de Sistemas (5).docx` (tabla de competencias de especialidad) — línea adscrita de cada curso.

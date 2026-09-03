@@ -45,6 +45,18 @@ Planifica e implementa controles de seguridad basados en estándares internacion
 
 Diseña y despliega servicios de infraestructura y centro de datos, integrando virtualización, almacenamiento, alta disponibilidad y monitoreo, garantizando soporte tecnológico confiable para los objetivos estratégicos de la organización.
 
+### Texto oficial vs. transcripcion.md
+
+Las descripciones de esta página son las de `transcripcion.md`, que amplía el texto oficial del *Plan final de estudio 2025 - EP Ingeniería de Sistemas* con marcos y estándares concretos (ISO 27001, NIST, etc.).
+
+| Competencia | Texto oficial (Plan final de estudio 2025) |
+| --- | --- |
+| CE031 (oficial: Conectividad) | Diseña, implementa, testea y controla la red; siguiendo las normas nacionales e internacionales en conectividad a fin de asegurar la transferencia de información en la organización. |
+| CE032 (oficial: Gestión de la Seguridad de la Información) | Planifica, implementa, monitorea y mejora continuamente procesos y controles destinados a proteger la información sensible y los recursos asociados: asignación de roles y responsabilidades, concienciación y formación de los empleados, evaluación de la efectividad de los controles implementados y adaptación a los cambios en el entorno de amenazas. |
+| CE033 (oficial: Implementación de Centro de Datos) | Diseña, desarrolla y controla los servicios de un centro de datos basándose en metodologías y estándares a fin de lograr el adecuado manejo de la información para el alcance de los objetivos de la organización. |
+
+Cursos oficiales de la línea (Plan final de estudio 2025): Arquitectura de Computadoras, Redes Informáticas I, Redes Informáticas II, Virtualización de Servicios Tecnológicos, Seguridad Informática, Arquitectura Empresarial, Seguridad de la Información, Cloud Computing. La fuente oficial también incluye "ELECTIVO I: Conectividad de las Cosas", pero hay una propuesta en revisión para reasignar ese curso — ver la nota en [Malla curricular](../../anexos/malla-curricular-2024.md#pendiente-de-asignar-1).
+
 Las evidencias y la evaluación de cierre se presentan en las secciones siguientes como mapa general y se desarrollan en páginas específicas.
 
 ## 4. Mapa de evidencias
