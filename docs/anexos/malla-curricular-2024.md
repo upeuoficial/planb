@@ -123,17 +123,17 @@ Nivel de logro (1/2/3) por curso y por competencia específica, tomado directame
 | --- | --- | --- | --- | --- |
 | CE011 Gobierno e Innovación | IIS, CONT | INAD, EMPR, PI1 | GTI, AUDS, ARQE | PI2 |
 | CE012 Gestión de Proyectos | IIS, CONT, INAD | EMPR, PI1 | GTI, ARQE | PI2 |
-| CE013 Gestión de Procesos | IIS, IR, ADS, SINF, INAD | GPRO, AUDS | MPCT, PI1, GTI, ARQE | PI2 |
+| CE013 Gestión de Procesos | IIS, IR, ADS, SINF, INAD | GPRO, AUDS, PI1 | MPCT, GTI, ARQE | PI2 |
 | CE014 Gestión de Sistemas de Información | IIS, IR, ADS, SINF, INAD | TSIS, GPRO, BI, PI1 | GTI, AUDS, ARQE | PI2 |
 
 ### Ingeniería de Software — Progresión de competencias (v1, tal como está en el Excel)
 
 | Competencia | Nivel 1 | Nivel 2 | Nivel 3 | Cierre (Nivel 3) |
 | --- | --- | --- | --- | --- |
-| CE021 Ingeniería de Requerimientos | IIS, IR | ADS, IS1 | IS2, PDS | PI1 |
-| CE022 Ingeniería de la Información | IIS, BD1 | BD2, ADS, DIST, IS1 | IS2, PDS | PI1 |
-| CE023 Programación | FP, IIS, POO, LP1 | LP2, DIST, MOV, IS1 | IS2, PDS | PI1 |
-| CE024 Calidad de Software | ADS, LP2, DIST, MOV | IS1 | IS2, PDS | PI1 |
+| CE021 Ingeniería de Requerimientos | IIS, IR | ADS, IS1 | IS2, PDS | PI1, PI2 |
+| CE022 Ingeniería de la Información | IIS, BD1 | BD2, ADS, DIST, IS1 | IS2, PDS | PI1, PI2 |
+| CE023 Programación | FP, IIS, POO, LP1 | LP2, DIST, MOV, IS1 | IS2, PDS | PI1, PI2 |
+| CE024 Calidad de Software | ADS, LP2, DIST, MOV | IS1 | IS2, PDS | PI1, PI2 |
 
 Sin depurar: cada curso aparece en todas las competencias donde el Excel le marca un nivel, incluyendo repeticiones sin evidencia diferenciada (IIS, PI1, PI2, IS1, IS2, PDS aparecen en varias columnas por igual). Algunas de esas marcas son directamente incorrectas por contenido: IS2 no programa (no debería estar en Programación) y PDS no hace requerimientos (no debería estar en Ingeniería de Requerimientos) — la v2 corrige esto dejando IS2/PDS solo en Calidad de Software.
 
