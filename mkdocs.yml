@@ -1,5 +1,7 @@
 site_name: Documentos oficiales de la Escuela de Sistemas
 site_description: Documento oficial de evaluación del perfil de egreso y guías complementarias en construcción para proyectos progresivos de Ingeniería de Sistemas.
+repo_url: https://github.com/upeuoficial/planb
+repo_name: upeuoficial/planb
 docs_dir: docs
 exclude_docs: |
   lineas/**
@@ -34,9 +36,9 @@ extra_css:
 
 nav:
   - Inicio: index.md
-  - Evaluación del perfil de egreso: transcripcion.md
+  - Eval. perfil egreso 2023: transcripcion.md
   - Anexos:
       - Estándares transversales:
           - Topics para repositorios académicos: anexos/estandar-topics-repositorios.md
       - Referencia curricular:
-          - Malla curricular vigente (Plan 2024) y abreviaturas: anexos/malla-curricular-2024.md
+          - Malla curricular 2024: anexos/malla-curricular-2024.md
