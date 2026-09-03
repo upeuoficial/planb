@@ -141,7 +141,7 @@ Sin depurar: cada curso aparece en todas las competencias donde el Excel le marc
 
 | Competencia | Nivel 1 | Nivel 2 | Nivel 3 | Cierre (Nivel 3) |
 | --- | --- | --- | --- | --- |
-| CE021 Ingeniería de Requerimientos | IR, BD1 | ADS | — | PI1 |
+| CE021 Ingeniería de Requerimientos | IR, BD1, IS1 | ADS | — | PI1 |
 | CE022 Ingeniería de la Información | BD1 | BD2 | — | PI1 |
 | CE023 Programación | FP, POO, LP1, BD2 | LP2 | DIST, MOV | PI1 |
 | CE024 Calidad de Software | ADS | IS1 | IS2, PDS | PI1 |
@@ -151,6 +151,7 @@ Cada curso queda solo en la competencia donde tiene evidencia diferenciada; se q
 - **BD2 → CE023 N1** (nuevo): su Unidad 1 se titula "Programación y optimización (Oracle XE)" y es programación PL/SQL real (procedimientos, funciones, triggers, excepciones) — unidad completa propia, evidencia fuerte.
 - **BD1 → CE021 N1** (nuevo): Unidad 1, sesión 1, "dominio del problema, restricciones y reglas de negocio"; criterio 1 "Identifica entidades, atributos y reglas de negocio" — es análisis de requerimientos acotado al dominio de datos. Evidencia de criterio/sesión, no de unidad completa — más débil que la de BD2.
 - **ADS → CE024 N1** (nuevo): Unidad 1, sesión 1, "atributos de calidad" explícito; criterio 3 "Aplica principios SOLID, cohesión, acoplamiento, modularidad y abstracción". Igual que BD1, evidencia de criterio, no de unidad completa.
+- **IS1 → CE021 N1** (nuevo): Unidad 1, sesión 2, "SWEBOK: Requerimientos, Arquitectura y Diseño"; criterio 2 "Elabora una matriz de requerimientos coherente con el problema de negocio", como insumo para el Project Charter. Evidencia de criterio/sesión, no de unidad completa — mismo nivel de fuerza que BD1 y ADS.
 - **IIS** (Introducción a la Ingeniería de Sistemas/Computación) queda excluida de las 4 competencias: es un curso panorámico de introducción — toca explícitamente Infraestructura (ciberseguridad), Software e IA/CD-IA por nombre en su propia sumilla. No menciona Gestión de TI explícitamente, aunque el Excel también lo marca ahí (probablemente por el enfoque general de "ingeniería de sistemas"). Esto valida por qué se excluyó como ruido: es panorámico por diseño, no profundiza en ninguna línea al nivel de una competencia evaluable — el propio curso no pretende ser evidencia de ninguna competencia específica, es la introducción a todas.
 
 ### Infraestructura de TI — Progresión de competencias
