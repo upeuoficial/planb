@@ -59,16 +59,7 @@ Cursos asociados: IS1, PDS, IS2.
 
 ### Texto oficial vs. transcripcion.md
 
-Las descripciones de esta página son las de `transcripcion.md`. El texto oficial, del *Plan final de estudio 2025 - EP Ingeniería de Sistemas*, es más corto en los cuatro casos y usa otro nombre para CE022 ("Gestión de Datos" en vez de "Ingeniería de la Información").
-
-| Competencia | Texto oficial (Plan final de estudio 2025) |
-| --- | --- |
-| CE021 (oficial: Ingeniería de Requerimientos) | Analiza casos de negocio e identifica requisitos de usuarios de sistema, modela visual mediante diagramas, diseña la arquitectura del sistema, evalúa alternativas tecnológicas, desarrolla prototipos y pruebas, y elabora la documentación. |
-| CE022 (oficial: **Gestión de Datos**) | *(la fuente oficial tiene un error de contenido conocido en este ítem — el usuario indicó que se corregirá aparte; no se reproduce aquí hasta que se corrija)* |
-| CE023 (oficial: Programación) | Desarrolla, prueba e implementa aplicaciones en plataformas de escritorio, web y móviles con lenguajes y herramientas específicas para cada plataforma de programación utilizando estándares de diseño de interfaces, experiencia de usuario, patrones de arquitectura y optimización de rendimiento. |
-| CE024 (oficial: Calidad de Software) | Aplica los criterios de los estándares internacionales como ISO/IEC 25010 y ISO/IEC 12207 para evaluar la calidad del software y normativizan sus procesos de desarrollo y mantenimiento, logrando asegurar la funcionalidad, fiabilidad, usabilidad, eficiencia del software, mejora continua y satisfacción del cliente. |
-
-Cursos oficiales de la línea (Plan final de estudio 2025): Fundamentos de Programación, Programación Orientada a Objetos, Lenguaje de Programación I, Ingeniería de Requerimientos, Administración de Base de Datos I, Administración de Base de Datos II, Análisis y Diseño de Sistemas de Información, Lenguaje de Programación II, Desarrollo de Aplicaciones Distribuidas, Ingeniería de Software I, Sistemas Operativos, Desarrollo de Aplicaciones Móviles, Ingeniería de Software II, Pruebas y Despliegue de Software. La fuente oficial también incluye "ELECTIVO I: Arquitectura de Software", pero hay una propuesta en revisión para reasignar ese curso a otra línea — ver la nota en [Malla curricular](../../anexos/malla-curricular-2024.md#pendiente-de-asignar-1).
+Comparación completa (texto oficial, texto `transcripcion.md`, cursos oficiales) en [Malla curricular — Ingeniería de Software (CE02)](../../anexos/malla-curricular-2024.md#ingenieria-de-software-ce02).
 
 Las evidencias y la evaluación de cierre se presentan en las secciones siguientes como mapa general y se desarrollan en páginas específicas.
 

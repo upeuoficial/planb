@@ -52,16 +52,7 @@ Apoya la prestación, el uso y la gestión de sistemas de información dentro de
 
 ### Texto oficial vs. transcripcion.md
 
-Las descripciones de esta página son las de `transcripcion.md` (la versión con la que se trabaja). El texto oficial, del documento *Plan final de estudio 2025 - EP Ingeniería de Sistemas*, es más breve en los cuatro casos; CE011 y CE013 coinciden en la primera frase y `transcripcion.md` la amplía, mientras que CE012 y CE014 están redactadas de forma distinta en cada fuente.
-
-| Competencia | Texto oficial (Plan final de estudio 2025) |
-| --- | --- |
-| CE011 (oficial: Gobierno e Innovación) | Administra un Plan Estratégico de TI alineado a la estrategia de negocio. |
-| CE012 (oficial: Gestión de Proyectos) | Gestiona Proyectos de TICs aplicando estándares de calidad. |
-| CE013 (oficial: Gestión de Procesos) | Gestiona los procesos de las organizaciones con soluciones TICs. |
-| CE014 (oficial: Gestión de Sistemas de Información) | Gestiona la Innovación empresarial con soluciones TICs. |
-
-Cursos oficiales de la línea (Plan final de estudio 2025): Introducción a las Ciencias de la Computación, Sistemas de Información, Ingeniería Administrativa, Teoría de Sistemas, Gestión de Procesos, Proyecto Integrador I, Proyecto Integrador II, Mejora de Procesos y Calidad Total, Gobierno de Tecnologías de Información, Emprendedorismo, Auditoría de Sistemas.
+Comparación completa (texto oficial, texto `transcripcion.md`, cursos oficiales) en [Malla curricular — Gestión e Innovación de TI (CE01)](../../anexos/malla-curricular-2024.md#gestion-e-innovacion-de-ti-ce01).
 
 Las evidencias y la evaluación de cierre se presentan en las secciones siguientes como mapa general y se desarrollan en páginas específicas.
 

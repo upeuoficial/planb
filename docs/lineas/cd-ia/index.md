@@ -62,16 +62,7 @@ Cursos asociados: ver la lista oficial de la línea al final de esta sección.
 
 ### Texto oficial vs. transcripcion.md
 
-`transcripcion.md` todavía no tiene una sección de Ciencia de Datos e IA (confirmado leyendo el documento completo), así que estas cuatro competencias solo tienen fuente oficial — no hay una versión "transcripción" con la que compararlas.
-
-| Competencia | Texto oficial (Plan final de estudio 2025) |
-| --- | --- |
-| CE041 (oficial: Define Requerimientos de Inteligencia Analítica) | Analiza y define requerimientos para sistemas inteligentes. |
-| CE042 (oficial: Construye Dataset) | Construye una infraestructura de extracción y preparación de datos para analítica de datos. |
-| CE043 (oficial: Genera Modelos de Inteligencia Analítica) | Explora y transforma los datos para generar modelos estadísticos y/o de Inteligencia Artificial. |
-| CE044 (oficial: Analiza los Datos y Define Estrategias) | Analiza los datos y crea reportes/informes y/o visualizaciones estratégicas para la toma de decisiones. |
-
-Cursos oficiales de la línea (Plan final de estudio 2025): Matemática Discreta, Análisis Multivariado, Inteligencia de Negocios, Minería de Datos, Inteligencia Artificial, Big Data, ELECTIVO: Machine Learning / Analítica Digital. A diferencia de una versión anterior de esta página, **Estadística para la Investigación no aparece en la lista oficial** (vuelve a Ciencias de Ingeniería) y **Matemática Discreta sí** (se agrega aquí) — ver [Malla curricular](../../anexos/malla-curricular-2024.md).
+`transcripcion.md` todavía no tiene una sección de Ciencia de Datos e IA. Comparación completa (texto oficial, cursos oficiales) en [Malla curricular — Ciencia de Datos e IA (CE04)](../../anexos/malla-curricular-2024.md#ciencia-de-datos-e-ia-ce04).
 
 Las evidencias y la evaluación de cierre se presentan en las secciones siguientes como mapa general y se desarrollan en páginas específicas.
 
