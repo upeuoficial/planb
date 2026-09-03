@@ -36,9 +36,9 @@ extra_css:
 
 nav:
   - Inicio: index.md
-  - Eval. perfil egreso 2023: transcripcion.md
+  - Eval. perfil egreso <= 2023: transcripcion.md
   - Anexos:
       - Estándares transversales:
           - Topics para repositorios académicos: anexos/estandar-topics-repositorios.md
       - Referencia curricular:
-          - Malla curricular 2024: anexos/malla-curricular-2024.md
+          - Malla curricular >= 2024: anexos/malla-curricular-2024.md
