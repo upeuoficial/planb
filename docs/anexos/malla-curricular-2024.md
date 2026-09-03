@@ -1,14 +1,8 @@
-# Malla curricular vigente (Plan 2024) y abreviaturas de curso
+# Malla curricular vigente (Plan 2024 en adelante)
 
-## Cómo leer la tabla
-
-- **Abreviatura**: donde ya existe un repositorio de sesiones en el workspace, coincide con su prefijo (`fp`, `poo`, `dist`, `mov`, `is1`, `is2`, `bi`, `bigdata`, `iot`).
-- **Línea adscrita**: la línea de mayor intersección en el Plan Matricial. En empate, se resuelve a mano.
-- **Aporta a otras líneas**: contribución secundaria, no cuenta en el resumen.
+Cursos por ciclo con abreviatura estable y línea de competencia adscrita.
 
 ## Resumen por línea
-
-71 cursos en total, a lo largo de 10 ciclos.
 
 | Línea | Cursos |
 | --- | ---: |
@@ -19,6 +13,8 @@
 | Ciencias de Ingeniería (esencial) | 9 |
 | Sin línea de especialidad (Formación Cristiana, Investigación, Talleres) | 20 |
 | **Total** | **71** |
+
+71 cursos en total, a lo largo de 10 ciclos.
 
 ## Cursos agrupados por línea
 
