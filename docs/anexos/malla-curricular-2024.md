@@ -193,7 +193,7 @@ Cursos oficiales (11): Introducción a las Ciencias de la Computación, Sistemas
 | CE023 — Programación | Desarrolla, prueba e implementa aplicaciones en plataformas de escritorio, web y móviles con lenguajes y herramientas específicas para cada plataforma de programación utilizando estándares de diseño de interfaces, experiencia de usuario, patrones de arquitectura y optimización de rendimiento. | Desarrolla e integra soluciones de software de escritorio, web, distribuido y móvil, implementando la estructura, componentes y comportamiento del sistema mediante modelos técnicos. Aplica principios de modularidad, desacoplamiento, patrones de diseño y buenas prácticas de desarrollo para lograr soluciones funcionales y mantenibles. |
 | CE024 — Calidad de Software | Aplica los criterios de los estándares internacionales como ISO/IEC 25010 y ISO/IEC 12207 para evaluar la calidad del software y normativizan sus procesos de desarrollo y mantenimiento, logrando asegurar la funcionalidad, fiabilidad, usabilidad, eficiencia del software, mejora continua y satisfacción del cliente. | Gestiona y asegura la calidad del producto y del proceso de desarrollo de software mediante pruebas automatizadas, integración y entrega continua, métricas, revisión técnica, gestión de deuda técnica y auditorías. Promueve la mejora continua y la madurez del proceso. |
 
-Cursos oficiales (15): Fundamentos de Programación, Programación Orientada a Objetos, Lenguaje de Programación I, Ingeniería de Requerimientos, Administración de Base de Datos I, Administración de Base de Datos II, Análisis y Diseño de Sistemas de Información, Lenguaje de Programación II, Desarrollo de Aplicaciones Distribuidas, Ingeniería de Software I, Sistemas Operativos, Desarrollo de Aplicaciones Móviles, Ingeniería de Software II, Pruebas y Despliegue de Software, ELECTIVO I: Arquitectura de Software (pendiente, ver arriba).
+Cursos oficiales (15): Fundamentos de Programación, Programación Orientada a Objetos, Lenguaje de Programación I, Ingeniería de Requerimientos, Administración de Base de Datos I, Administración de Base de Datos II, Análisis y Diseño de Sistemas de Información, Lenguaje de Programación II, Desarrollo de Aplicaciones Distribuidas, Ingeniería de Software I, Sistemas Operativos, Desarrollo de Aplicaciones Móviles, Ingeniería de Software II, Pruebas y Despliegue de Software, ELECTIVO I: Arquitectura de Software. Esta lista oficial incluye el electivo aquí; la malla corregida (sección "Cursos agrupados por línea") lo asigna en cambio a Ciencia de Datos e IA — decisión editorial explícita, no un pendiente.
 
 ### Infraestructura de TI (CE03)
 
@@ -203,7 +203,7 @@ Cursos oficiales (15): Fundamentos de Programación, Programación Orientada a O
 | CE032 — Gestión de la Seguridad de la Información | Planifica, implementa, monitorea y mejora continuamente procesos y controles destinados a proteger la información sensible y los recursos asociados. | Planifica e implementa controles de seguridad basados en estándares internacionales, asegurando protección de activos críticos, gestión de riesgos, continuidad operativa, monitoreo permanente y mejora continua conforme a marcos como ISO/IEC 27001, ISO/IEC 27002, ISO/IEC 27005 y NIST. |
 | CE033 — Implementación de Centro de Datos | Diseña, desarrolla y controla los servicios de un centro de datos basándose en metodologías y estándares a fin de lograr el adecuado manejo de la información para el alcance de los objetivos de la organización. | Diseña y despliega servicios de infraestructura y centro de datos, integrando virtualización, almacenamiento, alta disponibilidad, nube híbrida y monitoreo, garantizando soporte tecnológico confiable para los objetivos estratégicos de la organización. |
 
-Cursos oficiales (9): Arquitectura de Computadoras, Redes Informáticas I, Redes Informáticas II, Virtualización de Servicios Tecnológicos, Seguridad Informática, Arquitectura Empresarial, Seguridad de la Información, Cloud Computing, ELECTIVO I: Conectividad de las Cosas (pendiente, ver arriba).
+Cursos oficiales (9): Arquitectura de Computadoras, Redes Informáticas I, Redes Informáticas II, Virtualización de Servicios Tecnológicos, Seguridad Informática, Arquitectura Empresarial, Seguridad de la Información, Cloud Computing, ELECTIVO I: Conectividad de las Cosas. Esta lista oficial incluye el electivo aquí; la malla corregida lo asigna en cambio a Ciencia de Datos e IA — decisión editorial explícita, no un pendiente.
 
 ### Ciencia de Datos e IA (CE04)
 
@@ -234,7 +234,7 @@ Cursos oficiales (7): Matemática Discreta, Análisis Multivariado, Inteligencia
 | Abreviatura | Curso | Código 2024 | Línea adscrita | Aporta a otras líneas |
 | --- | --- | --- | --- | --- |
 | FC2 | Formación Cristiana II | ERE102 | — | — |
-| GAI | Gestión para el Aprendizaje y la Investigación | INV101 | — | — |
+| GAI | Gestión para el Aprendizaje y la Investigación | INV101 | Investigación e Innovación (específica transversal) | — |
 | SCF2 | Desarrollo Personal II *(2025: "Salud y Cultura Física II")* | — | — | — |
 | ALG | Álgebra Lineal | FME202 | Ciencias de Ingeniería (específica esencial) | — |
 | CAL1 | Cálculo I | FME203 | Ciencias de Ingeniería (específica esencial) | — |
@@ -309,7 +309,7 @@ Cursos oficiales (7): Matemática Discreta, Análisis Multivariado, Inteligencia
 | FC8 | Formación Cristiana VIII | ERE108 | — | — |
 | BI | Inteligencia de Negocios | SIS324 | Ciencia de Datos e IA | Gestión e Innovación de TI (1) |
 | IA | Inteligencia Artificial | SIS325 | Ciencia de Datos e IA | — |
-| INV1 | Investigación I | SIS326 | — | — |
+| INV1 | Investigación I | SIS326 | Investigación e Innovación (específica transversal) | — |
 | MPCT | Mejora de Procesos y Calidad Total | SIS327 | Gestión e Innovación de TI | — |
 | VST | Virtualización de Servicios Tecnológicos | SIS328 | Infraestructura de TI | — |
 | PI1 | Proyecto Integrador I | SIS329 | Ingeniería de Software | Gestión e Innovación de TI (4), Ciencia de Datos e IA (4), Infraestructura de TI (3) |
@@ -319,7 +319,7 @@ Cursos oficiales (7): Matemática Discreta, Análisis Multivariado, Inteligencia
 | Abreviatura | Curso | Código 2024 | Línea adscrita | Aporta a otras líneas |
 | --- | --- | --- | --- | --- |
 | FC9 | Formación Cristiana IX | ERE109 | — | — |
-| INV2 | Investigación II | INV201 | — | — |
+| INV2 | Investigación II | INV201 | Investigación e Innovación (específica transversal) | — |
 | GTI | Gobierno de Tecnologías de Información | SIS330 | Gestión e Innovación de TI | — |
 | MD | Minería de Datos | SIS331 | Ciencia de Datos e IA | — |
 | SEGI | Seguridad Informática | SIS332 | Infraestructura de TI | — |
@@ -332,7 +332,7 @@ Cursos oficiales (7): Matemática Discreta, Análisis Multivariado, Inteligencia
 | Abreviatura | Curso | Código 2024 | Línea adscrita | Aporta a otras líneas |
 | --- | --- | --- | --- | --- |
 | FC10 | Formación Cristiana X | ERE1010 | — | — |
-| INV3 | Investigación III | INV202 | — | — |
+| INV3 | Investigación III | INV202 | Investigación e Innovación (específica transversal) | — |
 | SEGINF | Seguridad de la Información | SIS336 | Infraestructura de TI | — |
 | ARQE | Arquitectura Empresarial | SIS337 | Infraestructura de TI | — |
 | BIGDATA | Big Data | SIS338 | Ciencia de Datos e IA | — |
