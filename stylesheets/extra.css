@@ -1,0 +1,28 @@
+.md-typeset h1 {
+  color: #1f2937;
+  font-weight: 700;
+}
+
+.md-typeset h2 {
+  color: #263238;
+  font-weight: 650;
+  margin-top: 2rem;
+}
+
+.md-typeset h3 {
+  font-weight: 650;
+}
+
+.md-typeset .grid.cards > ul > li,
+.md-typeset .card {
+  border-radius: 8px;
+}
+
+.md-typeset table:not([class]) {
+  font-size: 0.72rem;
+}
+
+.md-nav__title,
+.md-nav__item .md-nav__link--active {
+  font-weight: 700;
+}
